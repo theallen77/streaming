@@ -121,7 +121,7 @@
 * [EyeOnAnime](https://tinyurl.com/y4rsqtad) - (Anime, Cartoons, Mixed Servers, Big Library)
 * [Cartoon Crazy](https://tinyurl.com/y3axybww) - (Anime, Cartoons, JW Player, Big Library)
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoons, RapidVideo, Small Library)
-* [Anime-Loads](https://tinyurl.com/yy2cse8o) - (Anime, German dubs and subs, Mixed Servers, Big Library)
+* [Anime-Loads](https://tinyurl.com/yy2cse8o) - (Anime, German dubs and subs, Mixed Servers, Big Library, Needs German VPN)
 
 **Specialty Sites**
 
