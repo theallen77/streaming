@@ -1,6 +1,6 @@
-* **IMPORTANT** - Before using these sites, [**download a adblocker**](https://tinyurl.com/y4e59rq4) 
+* **IMPORTANT** - Before using these sites, [**download a adblocker**.](https://tinyurl.com/y4e59rq4) 
 * [Changelog, Plans & Suggestions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) 
-* Backups - [Github](https://tinyurl.com/yxj5eev6) + [Pastebin](https://tinyurl.com/yynsqkl2) 
+* Backups - [Github](https://tinyurl.com/yxj5eev6) (editable) or [Pastebin](https://tinyurl.com/yynsqkl2) (links)
 
 **Apps**
 
@@ -95,7 +95,7 @@
 
 **Anime & Cartoons**
 
-* **Note** - Many of the sites in above the sections have anime
+* **Note** - Many of the sites above have anime as well
 * [**r/AnimePiracy**](https://www.reddit.com/r/animepiracy/wiki/animestreamlist) - (Anime streaming sites)
 * [**9Anime**](https://tinyurl.com/ydgladf3) - (Anime, RapidVideo, Big Library) 
 * [**KissCartoon**](https://tinyurl.com/ycm25f9z) or [KimCartoon](https://tinyurl.com/y4xp3yny) - (Cartoons, JW Player, Big Library, Some 1080p)
