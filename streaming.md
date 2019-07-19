@@ -121,6 +121,7 @@
 * [EyeOnAnime](https://tinyurl.com/y4rsqtad) - (Anime, Cartoons, Mixed Servers, Big Library)
 * [Cartoon Crazy](https://tinyurl.com/y3axybww) - (Anime, Cartoons, JW Player, Big Library)
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoons, RapidVideo, Small Library)
+* [Anime-Loads](https://tinyurl.com/yy2cse8o) - (Anime, German dubs and subs, Mixed Servers, Big Library)
 
 **Specialty Sites**
 
@@ -150,7 +151,8 @@
 * [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
 * [Youtube](http://youtube.com/) - (Obscure Movies)
 * [Spanish & French Streaming](https://tinyurl.com/yxnytnwd)
-* [PornDude](https://tinyurl.com/npbgc2c) - (Huge list of porn sites) 
+* [PornDude](https://tinyurl.com/npbgc2c) - (Huge list of porn sites)
+* [Burning Series](https://tinyurl.com/hab7k8a) - (Movies, TV, anime, cartoons, German dubs and subs, Big Library)
 
 **Live TV & Sports**
 
