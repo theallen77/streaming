@@ -10,6 +10,8 @@ You can leave your sites in the reddit [suggestions post](https://www.reddit.com
 5. Note the size the sites library. Small, Medium, Big or Huge. Check this by seeing if a site has obscure content. Just try to give your best judgement. 
 6. If it's a site thats anime only, cartoon only or if it's a android apk note the quality. (1080p or 720p, any lower and don't note) + Note if apk uses chromecast.
 
+You can make a site bold by adding ** ** around the sites name
+
 **EXAMPLES**
 
 Example 1 * [Site Name](tinyurl link) - (Movies, TV, Anime, JW Player, Huge Library)
