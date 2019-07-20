@@ -4,7 +4,7 @@
 
 2. Note what types of content the site has (Movies, TV, Anime, only note cartoons if it's a cartoon exclusive site) 
 
-3. Note what player it uses. JW Player (aka vidcloud,) Openload, RapidVideo, Google Server, OK.RU or other. If a site uses multple types of player, use "mixed servers," or "dedicated servers" is the site hosts the videos themselves. 
+3. Note what player it uses. JW Player (aka vidcloud,) Openload, RapidVideo, Google Server, OK.RU or other. If a site uses multple types of players, use "mixed servers." If the site hosts the videos themselves "dedicated servers." 
 
 4. Note how big the library is. Small, Medium, Big or Huge. Check this by seeing if a site has obscure content. 
 
