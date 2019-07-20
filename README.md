@@ -1,7 +1,7 @@
 **IF YOU WANT TO EDIT THIS POST, FOLLOW THESE STEPS**
 
-1. Type a asterisk *
-2. Type the name of your site in brackets []
+1. Type a asterisk * then a space
+2. Now type the name of your site in brackets []
 3. Make your url short using tinyurl.com
 4. Put your tinyurl url in parenthesis ()
 5. type a dash - and then more parenthesis ()
