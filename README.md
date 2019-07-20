@@ -1,5 +1,7 @@
 **IF YOU WANT TO ADD A SITE, FOLLOW THESE STEPS**
 
+Remeber if you want to skip this just leave your sites in the [suggestions.](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) Otherwise follow the steps below to add your sites manually. Thank you to all contributers! 
+
 1. Change url via [tinyurl.com](https://tinyurl.com/)
 2. Copy this * [Site Name](tinyurl link) - ()
 3. In the empty parenthesis, note what types of content the site has (Movies, TV, Anime, only note cartoons if it's a cartoon exclusive site, or a site that has only anime and cartoons) 
