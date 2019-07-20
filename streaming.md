@@ -152,7 +152,7 @@
 * [Youtube](http://youtube.com/) - (Obscure Movies)
 * [Spanish & French Streaming](https://tinyurl.com/yxnytnwd)
 * [PornDude](https://tinyurl.com/npbgc2c) - (Huge list of porn sites)
-* [Burning Series](https://tinyurl.com/hab7k8a) - (Movies, TV, anime, cartoons, German dubs/subs, Big Library, Needs German VPN)
+* [Burning Series](https://tinyurl.com/hab7k8a) - (Movies, TV, anime, German dubs/subs, Big Library, Needs German VPN)
 
 **Live TV & Sports**
 
