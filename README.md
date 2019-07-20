@@ -1,7 +1,6 @@
 **IF YOU WANT TO ADD A SITE, FOLLOW THESE STEPS**
 
-Shorten all urls using tinyurl
-
+0. Shorten url using tinyurl.com
 1. Copy this * [Site Name](tinyurl link) - ()
 2. In the empty parenthesis, note what types of content the site has (Movies, TV, Anime, only note cartoons if it's a cartoon exclusive site, or a site that has only anime and cartoons) 
 3. Note what player the site uses. JW Player, Openload, RapidVideo, Google Server, OK.RU, NetU Player or whatever it is. If a site uses multiple types of players use "mixed servers." If the site hosts the videos themselves use "dedicated server." 
