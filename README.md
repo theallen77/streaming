@@ -3,6 +3,7 @@
 You can leave your sites in the reddit [suggestions post](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) and I'll do all the work for you! Otherwise follow the steps below to add sites manually. Thank you to all contributers! <3
 
 For sites that don't list quality, check manually using video download [addon](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/)
+
 You can make a site bold by adding ** ** around the sites name
 
 1. Change url via [tinyurl.com](https://tinyurl.com/)
