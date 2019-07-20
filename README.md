@@ -12,7 +12,7 @@
 10. If it's a android apk, please note the quality of video. (1080p or 720p, any lower and don't note) + Note if apk uses chromecast.
 
 **EXAMPLES**
-* []() - ()
+
 * [Site Name](tinyurl link) - (Movies, TV, Anime, JW Player, Huge Library)
 * [Site Name](tinyurl link) - (Anime, Mixed Servers, Small Library, 1080p)
 * [Site Name](tinyurl link) - (Cartoons, Dedicated Server, Huge Library)
