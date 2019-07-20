@@ -2,7 +2,7 @@
 
 * [Site Name](tinyurl link) - (Movies, TV, Anime, JW Player, Huge Library)
 
-1. Put a Type a asterisk *
+1. Type a asterisk *
 2. Type the name of your site in bracket []
 3. Make your url short using tinyurl.com
 4. Put your tinyurl url in parenthesis ()
