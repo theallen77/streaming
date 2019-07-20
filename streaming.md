@@ -65,6 +65,7 @@
 * [TeaTV](https://tinyurl.com/y67k3mrk) - (Movies, TV, Anime, Mixed Servers, Big Library)
 * [Daxiv](https://tinyurl.com/yd63n78v) - (Movies, TV, Anime, Dedicated Server, Medium Library)
 * [MovieNinja](https://tinyurl.com/y5x3lqyy) - (Movies, TV, Anime, JW player, Big Library)
+* [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, NetU Player, Big Library)
 * [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV. JW Players, Big Library)
 * [Los-Movies](https://tinyurl.com/y262s4fw) - (Movies, TV, Openload, Big Library)
 * [Streamlord](https://tinyurl.com/ybrtnppf) - (Movies, TV, JW Player, Medium Library)
