@@ -6,7 +6,7 @@ You can leave your sites in the reddit [suggestions post](https://www.reddit.com
 2. Copy this to your spot in the post * [Site Name](tinyurl link) - () 
 3. In the empty parenthesis, note what types of content the site has (Movies, TV, Anime, only note cartoons if it's a cartoon exclusive, or anime/cartoon exclusive site) 
 4. Note what player the site uses. JW Player, Openload, RapidVideo, Google Server, OK.RU, NetU Player or whatever it is. If a site uses multiple types of players use "mixed servers." If the site hosts the videos themselves use "dedicated server." 
-5. Note the size the sites library. Small, Medium, Big or Huge. Check this by seeing if a site has obscure content. Just try to give your best judgement. 
+5. Note the size of the sites library. Small, Medium, Big or Huge. Check this by seeing if a site has obscure content. Just try to give your best judgement. 
 6. If it's a site thats anime only, cartoon only or if it's a android apk note the quality. (1080p or 720p, any lower and don't note) + Note if apk uses chromecast.
 
 For sites that don't list quality, check manually using video download [addon](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/)
