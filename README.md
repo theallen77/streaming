@@ -13,10 +13,10 @@
 **EXAMPLES**
 
 * [Site Name](tinyurl link) - (Movies, TV, Anime, JW Player, Huge Library)
-* [Site Name](tinyurl link) - (TV, Anime, JW Player, Huge Library)
-* [Site Name](tinyurl link) - (Anime, JW Player, Small Library, 1080p)
+* [Site Name](tinyurl link) - (TV, Anime, Openload, Huge Library)
+* [Site Name](tinyurl link) - (Anime, Mixed Servers, Small Library, 1080p)
 * [Site Name](tinyurl link) - (Anime, Cartoons, JW Player, Huge Library, 720p)
-* [Site Name](tinyurl link) - (Cartoons, JW Player, Huge Library)
+* [Site Name](tinyurl link) - (Cartoons, Dedicated Server, Huge Library)
 
 
 
