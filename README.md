@@ -17,7 +17,7 @@ You can make a site bold by adding ** ** around the sites name
 
 Example 1 * [Site Name](tinyurl link) - (Movies, TV, Anime, JW Player, Huge Library)
 
-Example 2 * [** **Site Name** **](tinyurl link) - (Anime, Mixed Servers, Small Library, 1080p)
+Example 2 * [Site Name](tinyurl link) - (Anime, Mixed Servers, Small Library, 1080p)
 
 Example 3 * [Site Name](tinyurl link) - (Cartoons, Dedicated Server, Huge Library)
 
