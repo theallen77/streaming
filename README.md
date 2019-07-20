@@ -1,4 +1,4 @@
-**If you want to edit the post follow these steps...**
+**IF YOU WANT TO EDIT THIS POST FOLLOW THESE STEPS**
 
 1. make the url shorter by using tinyurl.com
 
