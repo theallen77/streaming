@@ -10,6 +10,7 @@
 8. Note how big the library is of the site is. Small, Medium, Big or Huge. Check this by seeing if a site has obscure content. Just try to give your best judgement. 
 9. If it's a anime or anime/cartoon only site, make a note if it's 1080p.
 10. If it's a android apk, please note the quality of video. (1080p or 720p, any lower and don't note) + Note if apk uses chromecast.
+11. If you feel your site deserves it you can you it towards the top and make it bold by using **Site Name**
 
 **EXAMPLES**
 
