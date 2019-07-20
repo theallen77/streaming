@@ -151,7 +151,7 @@
 * [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
 * [Youtube](http://youtube.com/) - (Obscure Movies)
 * [PornDude](https://tinyurl.com/npbgc2c) - (Huge list of porn sites)
-* [Spanish, German & French Sites](https://tinyurl.com/yxnytnwd)
+* [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
 
 **Live TV & Sports**
 
