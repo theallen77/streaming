@@ -1,6 +1,6 @@
 **IF YOU WANT TO ADD A SITE, FOLLOW THESE STEPS**
 
-You can leave your sites in the reddit [suggestions post](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) and I'll do all the work for you. If you want to add your sites manually please follow the steps below. Thank you to all contributers! 
+You can leave your sites in the reddit [suggestions post](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) and I'll do all the work for you! Otherwise follow the steps below to add sites manually. Thank you to all contributers! <3
 
 1. Change url via [tinyurl.com](https://tinyurl.com/)
 2. Copy this * [Site Name](tinyurl link) - ()
