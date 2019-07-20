@@ -17,7 +17,7 @@
 * [Site Name](tinyurl link) - (TV, Anime, Openload, Huge Library)
 * [Site Name](tinyurl link) - (Anime, Mixed Servers, Small Library, 1080p)
 * [Site Name](tinyurl link) - (Cartoons, Dedicated Server, Huge Library)
-* [APK Name](tinyurl link) - (Movies, TV, Anime, Huge Library, Chromecast)
+* [APK Name](tinyurl link) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 
 
 
