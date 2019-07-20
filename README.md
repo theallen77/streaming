@@ -1,4 +1,4 @@
-**IF YOU WANT TO EDIT THIS POST, FOLLOW THESE STEPS**
+**IF YOU WANT TO ADD A SITE, FOLLOW THESE STEPS**
 
 1. Type a asterisk * then a space
 2. Now type the name of your site in brackets []
