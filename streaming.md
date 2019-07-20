@@ -1,6 +1,6 @@
 * **IMPORTANT** - Before using these sites, [**download a adblocker**](https://tinyurl.com/y4e59rq4) 
 * [Changelog, Plans & Suggestions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) 
-* Backups - [Github](https://tinyurl.com/yxj5eev6) or [Pastebin](https://tinyurl.com/yynsqkl2)
+* Backups - [Github](https://tinyurl.com/yy44atmj) or [Pastebin](https://tinyurl.com/yynsqkl2)
 
 **Apps**
 
