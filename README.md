@@ -1,6 +1,4 @@
-**If you want to edit this post follow example...** 
-
-* [Site Name](tinyurl link) - (Movies, TV, Anime, JW Player, Huge Library)
+**IF YOU WANT TO EDIT THIS POST, FOLLOW THESE STEPS**
 
 1. Type a asterisk *
 2. Type the name of your site in bracket []
@@ -11,6 +9,9 @@
 7. Note what player the site uses. JW Player (vidcloud,) Openload, RapidVideo, Google Server, OK.RU or whatever it is. If a site uses multple types of players use "mixed servers." If the site hosts the videos themselves use "dedicated servers." 
 8. Note how big the library is of the site is. Small, Medium, Big or Huge. Check this by seeing if a site has obscure content. 
 
-**Here's an example how it should look...** 
+**EXAMPLE**
 
 * [Site Name](tinyurl link) - (Movies, TV, Anime, JW Player, Huge Library)
+
+
+
