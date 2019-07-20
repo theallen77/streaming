@@ -97,7 +97,7 @@
 
 * **Note** - Many of the sites above have anime/cartoons as well
 * [**r/AnimePiracy**](https://www.reddit.com/r/animepiracy/wiki/animestreamlist) - (Anime streaming sites)
-* [**9Anime**](https://tinyurl.com/ydgladf3) - (Anime, RapidVideo, Big Library) 
+* [**9Anime**](https://tinyurl.com/ydgladf3) - (Anime, RapidVideo, Big Library. 1080p) 
 * [**KissCartoon**](https://tinyurl.com/ycm25f9z) or [KimCartoon](https://tinyurl.com/y4xp3yny) - (Cartoons, JW Player, Big Library, Some 1080p)
 * [AnimePahe](https://tinyurl.com/yyuzwr7m) - (Anime, Mixed Servers, Big Library, Some 1080p)
 * [Kissanime.ru](https://tinyurl.com/yyxzrgtu) or [Kissanime.ac](https://tinyurl.com/y66v33go) - (Anime, Mixed Servers, Big Library, Some 1080p)
