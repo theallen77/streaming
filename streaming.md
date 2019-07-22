@@ -260,3 +260,11 @@
 * [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Pirate Homepage)
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks streaming sites)
 * [WhereYouWatch](https://tinyurl.com/y8opktgy) or [Squawkr](https://tinyurl.com/y3ea3xl6) - (Get notified when movie is on streaming sites)
+
+
+**Short links**
+
+* [bit.ly/2Cta8L5](https://bit.ly/2Cta8L5)
+* [is.gd/OfmUmG](https://is.gd/OfmUmG)
+* [bit.do/freemediaheckyeah](http://bit.do/freemediaheckyeah)
+* [tinyurl.com/freemediaheckyeah](https://tinyurl.com/freemediaheckyeah)
