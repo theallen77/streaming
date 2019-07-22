@@ -240,8 +240,9 @@
 * [Download Sites](https://tinyurl.com/y3fzpvef) - (Full List)
 * You can stream Megalink files with [Megasync.](https://tinyurl.com/y3vvtwrx) Select the gear icon, stream, public link, paste, choose app & enjoy. 
 
-**Torrent** (Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the applications below.) 
+**Torrent** 
 
+* **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the apps below.
 * [**Popcorn Time**](https://tinyurl.com/h3c36ec) - (Torrent Streaming App) (Android compatible.)
 * [Flixerr](https://tinyurl.com/y59eeheg) - (Torrent Streaming App)
 * [Stremio](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App) (*Get All Available Add-Ons!*)
