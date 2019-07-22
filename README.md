@@ -16,5 +16,7 @@ For sites that don't list quality, check manually using video download [addon](h
  **EXAMPLES**
  
  Example 1 * [Site Name](tinyurl link) - (Movies, TV, Anime, JW Player, Huge Library)
+ 
  Example 2 * [Site Name](tinyurl link) - (Anime, Mixed Servers, Small Library, 1080p)
+ 
  Example 3 * [APK Name](tinyurl link) - (Movies, TV, Anime, 720p, Huge Library, Chromecast)
