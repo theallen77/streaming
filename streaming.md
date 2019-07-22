@@ -48,7 +48,7 @@
 * [Niter](https://tinyurl.com/y2o9ln82) - (Movies, JW Player, Small Library)
 * [ProSpice](https://tinyurl.com/y5w3u2kt) - (Movies, Openload, Small Library)
 
-**SD**
+**SD/HD**
 
 * [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://tinyurl.com/y38fhzgc) - (Movies, TV, Anime, Dedicated Server, Huge Library) 
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) - (Movies, TV, Anime, JW Player, Huge Library) 
