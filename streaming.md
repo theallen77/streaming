@@ -51,7 +51,6 @@
 **720p/SD**
 
 * [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://tinyurl.com/y38fhzgc) - (Movies, TV, Anime, Dedicated Server, Huge Library) 
-* [**WatchSeries**](https://tinyurl.com/y48qbzg6) - (TV, Anime, Mixed Servers, Huge Library)
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) - (Movies, TV, Anime, JW Player, Huge Library) 
 * [**MovieBay**](https://tinyurl.com/y9g9z4md) - (Movies, TV, Anime, Mixed Servers, Huge Library)
 * [**Series9**](https://tinyurl.com/y75dvzxn) - (Movies, TV, Anime, JW Player, Huge Library)
@@ -78,22 +77,34 @@
 * [Stream Likers](https://tinyurl.com/y2w55gef) - (Movies, TV, Openload, Small Library)
 * [TimeToWatch](https://tinyurl.com/yyf7yclw) - (Movies, TV, JW Player, Openload, Small Library)
 * [Flixtor](https://tinyurl.com/y3c7leo8) - (Movies, TV, JW Player, Small Library)
-* [Watchepisodeseries](https://tinyurl.com/yy6vngnl) - (TV, Anime, Mixed Servers, Big Library)
-* [WatchEpisodes](https://tinyurl.com/kzrdpkk) - (TV, Anime, Mixed Servers, Big Library)
-* [SeriesFree](https://tinyurl.com/y7onqc4r) - (TV, Anime, Mixed Servers, Medium Library) 
 * [FFilms](https://tinyurl.com/yygdk3hj) - (Movies, OK.RU, Big Library)
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Spark Player, Big Library)
 * [Moviyes](https://tinyurl.com/yy9afr7c) - (Movies, JW Player, Medium Library)
 * [HackIMDb](https://tinyurl.com/yyj8awpq) - (Movies, JW Player, Medium Library)  
 * [Ymovies](https://tinyurl.com/ychw2l6y) - (Movies, JW Player, Medium Library)
-* [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Mixed Servers, Medium Library)
-* [TVZion](https://tinyurl.com/y3mg2cv3) - (TV, Openload, Big Library)
 * [AZMovies](https://tinyurl.com/y2s7c7ur) - (Movies, Dedicated Server, Small Library)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, JW Player, RapidVideo, Small Library)
 * [MovieMax](https://tinyurl.com/y2q469g2) - (Movies, JW Player, Small Library)  
 * [Oakmovies](https://tinyurl.com/y2hljqqa) - (Movies, JW Player, Small Library)
 * [Tubi](https://tinyurl.com/yd3sgrry) - (Movies, Dedicated Server, Small Library)
 * [Vudu](https://tinyurl.com/yxa4hbtz) - (Movies, Dedicated Server, Small Library)
+
+**TV**
+
+* **Note** - Many of the sites above have TV as well
+* [**WatchSeries**](https://tinyurl.com/y48qbzg6) - (TV, Anime, Mixed Servers, Huge Library)
+* [Watchepisodeseries](https://tinyurl.com/yy6vngnl) - (TV, Anime, Mixed Servers, Big Library)
+* [WatchEpisodes](https://tinyurl.com/kzrdpkk) - (TV, Anime, Mixed Servers, Big Library)
+* [SeriesFree](https://tinyurl.com/y7onqc4r) - (TV, Anime, Mixed Servers, Medium Library) 
+* [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Mixed Servers, Medium Library)
+* [TVZion](https://tinyurl.com/y3mg2cv3) - (TV, Openload, Big Library)
+* [123TV](https://tinyurl.com/y72b3y7s) - (Live TV)
+* [LiveTVCafe](https://tinyurl.com/yc2a5bmd) - (Live TV)
+* [Pluto.tv](https://tinyurl.com/n4d8sb5) - (Live TV)
+* [uStreamix](https://tinyurl.com/y87khgal) - (Live TV)
+* [Arconaitv](https://tinyurl.com/y3gqvzha) - (Live TV)
+* [StreamAll](https://tinyurl.com/yxwsguvg) - (Live TV)
+* [Send It](https://tinyurl.com/yxr9jsw6) - (Live TV)
 
 **Anime & Cartoons**
 
@@ -124,6 +135,29 @@
 * [Cartoon Crazy](https://tinyurl.com/y3axybww) - (Anime, Cartoons, JW Player, Big Library, 720p)
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoons, RapidVideo, Small Library)
 * [Anime-Loads](https://tinyurl.com/yy2cse8o) - (Anime, German dubs/subs, Mixed Servers, Big Library, 720p)
+
+**Sports**
+
+* [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA Events)
+* [**Bellator**](https://tinyurl.com/y63ejnbd) - (Bellator MMA Videos)
+* MMA Videos - [AllWrestling](https://tinyurl.com/y2d2joba), [MMA Core](https://tinyurl.com/y2qkxvwa), [MMA Versus](https://tinyurl.com/y4a4vrl8), [All The Best Fights](https://tinyurl.com/yymvf7hs), [r/MMAFights](https://www.reddit.com/r/mmafights/) 
+* [Kodi MMA Apps](https://tinyurl.com/yylxq89g)
+* Alluc, Ololo, OSR, Cafehulu, swatchseries, 5movies, two-movies, primewire also have mma. 
+* [**NBAfullhd**](https://tinyurl.com/y3528nze) or [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
+* [Watchraw](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
+* [Rutracker](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
+* [720pstream](https://tinyurl.com/y24m3b78) - (Live Sports)
+* [First Row Sports](https://tinyurl.com/ybx4jvz8) - (Live Sports)
+* [VipBox](https://tinyurl.com/y5z6mlwh) - (Live Sports)
+* [livetv.sx](https://tinyurl.com/y86duvg7) - (Live Sports)
+* [Ripple](https://tinyurl.com/yxk69ls5) - (Live Sports)
+* [BilaSport](https://tinyurl.com/y3gzwvky) - (Live Sports)
+* [SportsHD](https://tinyurl.com/y4xfy6r4) - (Live Sports)
+* [WatchKobe](https://tinyurl.com/y7lsqk3z) - (Live Sports)
+* [CrickFRee](https://tinyurl.com/y543jv8j) - (Live Sports)
+* [MamaHD](https://tinyurl.com/y4se477p) - (Live Sports)
+* [More Live Sports Sites](https://tinyurl.com/ybsc8brq)
+* *Sports Streaming Subbreddits* - [NFL](https://www.reddit.com/r/nflstreams/), [MLB](https://www.reddit.com/r/MLBStreams/), [NHL](https://www.reddit.com/r/NHLStreams/), [NCAA Basketball](https://www.reddit.com/r/ncaaBBallStreams/), [CFB](https://www.reddit.com/r/CFBStreams/), [WWE](https://www.reddit.com/r/WWEstreams/), [Rugby](https://www.reddit.com/r/rugbystreams/)
 
 **Youtube Streaming** 
 
@@ -170,46 +204,6 @@
 * [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
 * [PornDude](https://tinyurl.com/npbgc2c) - (Huge list of porn sites)
 * [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
-
-**Live TV & Sports**
-
-* [123TV](https://tinyurl.com/y72b3y7s) - (Live TV)
-* [LiveTVCafe](https://tinyurl.com/yc2a5bmd) - (Live TV)
-* [Pluto.tv](https://tinyurl.com/n4d8sb5) - (Live TV)
-* [uStreamix](https://tinyurl.com/y87khgal) - (Live TV)
-* [Arconaitv](https://tinyurl.com/y3gqvzha) - (Live TV)
-* [StreamAll](https://tinyurl.com/yxwsguvg) - (Live TV)
-* [Send It](https://tinyurl.com/yxr9jsw6) - (Live TV)
-* [720pstream](https://tinyurl.com/y24m3b78) - (Live Sports)
-* [First Row Sports](https://tinyurl.com/ybx4jvz8) - (Live Sports)
-* [VipBox](https://tinyurl.com/y5z6mlwh) - (Live Sports)
-* [livetv.sx](https://tinyurl.com/y86duvg7) - (Live Sports)
-* [Ripple](https://tinyurl.com/yxk69ls5) - (Live Sports)
-* [BilaSport](https://tinyurl.com/y3gzwvky) - (Live Sports)
-* [SportsHD](https://tinyurl.com/y4xfy6r4) - (Live Sports)
-* [WatchKobe](https://tinyurl.com/y7lsqk3z) - (Live Sports)
-* [CrickFRee](https://tinyurl.com/y543jv8j) - (Live Sports)
-* [MamaHD](https://tinyurl.com/y4se477p) - (Live Sports)
-* [More Live Sports Sites](https://tinyurl.com/ybsc8brq)
-* *Sports Streaming Subbreddits* - [NFL](https://www.reddit.com/r/nflstreams/), [MLB](https://www.reddit.com/r/MLBStreams/), [NHL](https://www.reddit.com/r/NHLStreams/), [NCAA Basketball](https://www.reddit.com/r/ncaaBBallStreams/), [CFB](https://www.reddit.com/r/CFBStreams/), [WWE](https://www.reddit.com/r/WWEstreams/), [Rugby](https://www.reddit.com/r/rugbystreams/)
-
-**MMA**
-
-* [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA Events)
-* [**Bellator**](https://tinyurl.com/y63ejnbd) - (Bellator MMA Videos)
-* [AllWrestling](https://tinyurl.com/y2d2joba) - (MMA Videos)
-* [MMA Core](https://tinyurl.com/y2qkxvwa) - (MMA Videos)
-* [MMA Versus](https://tinyurl.com/y4a4vrl8) - (MMA Videos)
-* [All The Best Fights](https://tinyurl.com/yymvf7hs) - (MMA, Boxing ect. Videos)
-* [r/MMAFights](https://www.reddit.com/r/mmafights/) - (MMA Videos)
-* Alluc, Ololo, OSR, Cafehulu, swatchseries, 5movies, two-movies, primewire also have mma. 
-* [Kodi MMA Apps](https://tinyurl.com/yylxq89g)
-
-**NBA**
-
-* [**NBAfullhd**](https://tinyurl.com/y3528nze) or [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
-* [Watchraw](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
-* [Rutracker](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
 
 **Android Streaming**
 
