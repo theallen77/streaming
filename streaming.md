@@ -255,6 +255,8 @@
 
 **Sites**
 
+* [**Awesome Piracy**](https://tinyurl.com/y3f4ffgl) - (Curated List of Pirate Sites) 
 * [**Tracking & Discovery**](https://tinyurl.com/yynm3ozu) - (Track content and find stuff to watch)
 * [Squawkr](https://tinyurl.com/y3ea3xl6) or [WhereYouWatch](https://tinyurl.com/y8opktgy) - Get notified when a movie is available on streaming/torrent sites
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks streaming sites)
+* [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Homepage for pirates)
