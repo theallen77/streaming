@@ -98,6 +98,7 @@
 * [SeriesFree](https://tinyurl.com/y7onqc4r) - (TV, Anime, Mixed Servers, Medium Library) 
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Mixed Servers, Medium Library)
 * [TVZion](https://tinyurl.com/y3mg2cv3) - (TV, Openload, Big Library)
+* [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
 * [123TV](https://tinyurl.com/y72b3y7s) - (Live TV)
 * [LiveTVCafe](https://tinyurl.com/yc2a5bmd) - (Live TV)
 * [Pluto.tv](https://tinyurl.com/n4d8sb5) - (Live TV)
@@ -140,7 +141,6 @@
 
 * [**SubMovies**](https://tinyurl.com/y3wjc6f2) - (Watch movies & TV with subtitles)
 * [**Film1k**](https://tinyurl.com/y4m3e44m) - (NSFW movies)
-* [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
 * [Club MST3k](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
 * [Classic Cinema Online](https://tinyurl.com/27r9a5) - (Classic Films)
 * [Archive.org](https://tinyurl.com/cdv2tdr) - (Classic Films)
