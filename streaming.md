@@ -17,7 +17,7 @@
 * [OSR](https://tinyurl.com/y4d9qpxc) - (Search Openload, Streamango & Rapidvideo)
 * Add "site:drive.google.com" to a google search to search Google Drive 
 
-**1080p/720p**
+**HD**
 
 * [**LookMovie**](https://tinyurl.com/y95z3flk) - (Movies, TV, Dedicated Server, Big Library) 
 *  [**M4uFree.tv**](https://tinyurl.com/y7hf9et8), [M4uhd](https://tinyurl.com/y2lkjvwk) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, Dedicated Servers, Big Library) 
@@ -48,7 +48,7 @@
 * [Niter](https://tinyurl.com/y2o9ln82) - (Movies, JW Player, Small Library)
 * [ProSpice](https://tinyurl.com/y5w3u2kt) - (Movies, Openload, Small Library)
 
-**720p/SD**
+**SD**
 
 * [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://tinyurl.com/y38fhzgc) - (Movies, TV, Anime, Dedicated Server, Huge Library) 
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) - (Movies, TV, Anime, JW Player, Huge Library) 
@@ -137,7 +137,7 @@
 * [Cartoon Crazy](https://tinyurl.com/y3axybww) - (+ Cartoons, JW Player, Big Library, 720p)
 * [Anime-Loads](https://tinyurl.com/yy2cse8o) - (German dubs/subs, Mixed Servers, Big Library, 720p)
 
-**Specialty Sites**
+**Specialty**
 
 * [**SubMovies**](https://tinyurl.com/y3wjc6f2) - (Watch movies & TV with subtitles)
 * [**Film1k**](https://tinyurl.com/y4m3e44m) - (NSFW movies)
@@ -178,7 +178,7 @@
 * [More Live Sports Sites](https://tinyurl.com/ybsc8brq)
 * *Sports Streaming Subbreddits* - [NFL](https://www.reddit.com/r/nflstreams/), [MLB](https://www.reddit.com/r/MLBStreams/), [NHL](https://www.reddit.com/r/NHLStreams/), [NCAA Basketball](https://www.reddit.com/r/ncaaBBallStreams/), [CFB](https://www.reddit.com/r/CFBStreams/), [WWE](https://www.reddit.com/r/WWEstreams/), [Rugby](https://www.reddit.com/r/rugbystreams/)
 
-**Youtube Streaming** 
+**Youtube** 
 
 * [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
 * [**Youtube Movies Multireddit**](https://www.reddit.com/user/nbatman/m/streaming/) - (Youtube streaming subreddits)
@@ -203,7 +203,7 @@
 * [Artflix](https://tinyurl.com/y3owmkjy) - (General Movies)
 * [Flixdome](https://tinyurl.com/y67hygqg) - (General Movies)
 
-**Android Streaming**
+**Android**
 
 * **Note** - Android Streaming Apks Work On PC/Mac via emulators like [NoxPlayer.](https://tinyurl.com/m64pvhm) Download [AdGuard (Premium Unlocked)](https://tinyurl.com/y36xrkkd) to block ads in apps. 
 * [**TeaTV**](https://tinyurl.com/y6s36tkt) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
@@ -231,7 +231,7 @@
 * [r/AnimePiracy Apks](https://tinyurl.com/y35pteqj) - (Android Anime Apps)
 * [Android Movie Apps](https://tinyurl.com/y2s275uf) - (Full List)
 
-**Direct Download Streaming**
+**Download**
 
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
 * [filechef](https://tinyurl.com/y8cgtd8t) - (Search Direct Downloads)
@@ -240,7 +240,7 @@
 * [Download Sites](https://tinyurl.com/y3fzpvef) - (Full List)
 * You can stream Megalink files with [Megasync.](https://tinyurl.com/y3vvtwrx) Select the gear icon, stream, public link, paste, choose app & enjoy. 
 
-**Torrent Streaming** (Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the applications below.) 
+**Torrent** (Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the applications below.) 
 
 * [**Popcorn Time**](https://tinyurl.com/h3c36ec) - (Torrent Streaming App) (Android compatible.)
 * [Flixerr](https://tinyurl.com/y59eeheg) - (Torrent Streaming App)
@@ -252,7 +252,7 @@
 * [Torrent Clients](https://tinyurl.com/y3l8o4zb)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Torrents, Streaming, DL's, Sports, Music, Books & Porn)
 
-**Helpful Sites**
+**Sites**
 
 * [**Tracking & Discovery**](https://tinyurl.com/yynm3ozu) - (Track content and find stuff to watch)
 * [Squawkr](https://tinyurl.com/y3ea3xl6) or [WhereYouWatch](https://tinyurl.com/y8opktgy) - Get notified when a movie is available on streaming/torrent sites
