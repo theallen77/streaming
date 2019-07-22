@@ -93,6 +93,7 @@
 * [MovieMax](https://tinyurl.com/y2q469g2) - (Movies, JW Player, Small Library)  
 * [Oakmovies](https://tinyurl.com/y2hljqqa) - (Movies, JW Player, Small Library)
 * [Tubi](https://tinyurl.com/yd3sgrry) - (Movies, Dedicated Server, Small Library)
+* [Vudu](https://tinyurl.com/yxa4hbtz) - (Movies, Dedicated Server, Small Library)
 
 **Anime & Cartoons**
 
@@ -124,18 +125,35 @@
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoons, RapidVideo, Small Library)
 * [Anime-Loads](https://tinyurl.com/yy2cse8o) - (Anime, German dubs/subs, Mixed Servers, Big Library, 720p)
 
+**Youtube Streaming** 
+
+* [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
+* [**Youtube Movies Multireddit**](https://www.reddit.com/user/nbatman/m/streaming/) - (Youtube streaming subreddits)
+* [Full YouTube Movies](https://tinyurl.com/y4e3l4cv) - (Blog that posts Movies on Youtube, Dead?)
+* [TromaMovies](https://tinyurl.com/kd2v3hg) - (Horror)
+* [KingsofHorror](https://tinyurl.com/y2xk4rv5) - (Horror)
+* [MutantSorority](https://tinyurl.com/y6q8n74f) - (Horror)
+* [New Castle After Dark](https://tinyurl.com/y544uk4m) - (Horror)
+* [Booh](https://tinyurl.com/y4jc3du8) - (Horror)
+* [PhattPhucks](https://tinyurl.com/yxcaokk3) - (Horror)
+* [Vulture](https://tinyurl.com/y55l9qe9) - (Classic/Horror)
+* [Classic Movies Channel](https://tinyurl.com/yyyunayn) - (Classic)
+* [Mr. SPINKS!!](https://tinyurl.com/y6467v5u) - (Classic)
+* [WTvF!](https://tinyurl.com/y4z5uzom) - (Explotation)
+* [Deranged Visions](https://tinyurl.com/y2ll3vnk) - (Explotation)
+* [Eurocrime Realm](https://tinyurl.com/y574q348) - (70's Italian Crime)
+* [Barbarella X](https://tinyurl.com/y5re24t8) - (Sci-Fi)
+* [Grjngo Western](https://tinyurl.com/y5pfvo3z) - (Western)
+* [Cloud 5](https://tinyurl.com/yxb3yozw) - (Family)
+* [JesusWept](https://tinyurl.com/yxp6xqvy) - (General Movies)
+* [Popcornflix](https://tinyurl.com/yxwszlmw) - (General Movies)
+* [Artflix](https://tinyurl.com/y3owmkjy) - (General Movies)
+* [Flixdome](https://tinyurl.com/y67hygqg) - (General Movies)
+
 **Specialty Sites**
 
 * [**SubMovies**](https://tinyurl.com/y3wjc6f2) - (Watch movies & TV with subtitles)
 * [**Film1k**](https://tinyurl.com/y4m3e44m) - (NSFW movies)
-* [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
-* [Youtube Movies Multireddit](https://www.reddit.com/user/nbatman/m/streaming/) - (Youtube streaming subreddits)
-* [KingsofHorror](https://tinyurl.com/y2xk4rv5) - (Youtube Horror)
-* [MutantSorority](https://tinyurl.com/y6q8n74f) - (Youtube Horror)
-* [TromaMovies](https://tinyurl.com/kd2v3hg) - (Youtube Horror)
-* [WTvF!](https://tinyurl.com/y4z5uzom) - (Youtube Grindhouse)
-* [Classic Movies Channel](https://tinyurl.com/yyyunayn) - (Youtube Classic Films)
-* [Full YouTube Movies](https://tinyurl.com/y4e3l4cv) - (Movies, Youtube, Updated Weekly)
 * [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
 * [Club MST3k](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
 * [Classic Cinema Online](https://tinyurl.com/27r9a5) - (Classic Films)
@@ -150,7 +168,6 @@
 * [DramaCool](https://tinyurl.com/y2bwycvx) - (Foreign)
 * [DaebakDrama](https://tinyurl.com/y5t883lv) - (Korean)
 * [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
-* [Youtube](http://youtube.com/) - (Obscure Movies)
 * [PornDude](https://tinyurl.com/npbgc2c) - (Huge list of porn sites)
 * [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
 
@@ -176,12 +193,6 @@
 * [More Live Sports Sites](https://tinyurl.com/ybsc8brq)
 * *Sports Streaming Subbreddits* - [NFL](https://www.reddit.com/r/nflstreams/), [MLB](https://www.reddit.com/r/MLBStreams/), [NHL](https://www.reddit.com/r/NHLStreams/), [NCAA Basketball](https://www.reddit.com/r/ncaaBBallStreams/), [CFB](https://www.reddit.com/r/CFBStreams/), [WWE](https://www.reddit.com/r/WWEstreams/), [Rugby](https://www.reddit.com/r/rugbystreams/)
 
-**NBA**
-
-* [**NBAfullhd**](https://tinyurl.com/y3528nze) or [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
-* [Watchraw](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
-* [Rutracker](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
-
 **MMA**
 
 * [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA Events)
@@ -193,6 +204,12 @@
 * [r/MMAFights](https://www.reddit.com/r/mmafights/) - (MMA Videos)
 * Alluc, Ololo, OSR, Cafehulu, swatchseries, 5movies, two-movies, primewire also have mma. 
 * [Kodi MMA Apps](https://tinyurl.com/yylxq89g)
+
+**NBA**
+
+* [**NBAfullhd**](https://tinyurl.com/y3528nze) or [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
+* [Watchraw](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
+* [Rutracker](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
 
 **Android Streaming**
 
