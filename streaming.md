@@ -136,16 +136,35 @@
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoons, RapidVideo, Small Library)
 * [Anime-Loads](https://tinyurl.com/yy2cse8o) - (Anime, German dubs/subs, Mixed Servers, Big Library, 720p)
 
+**Specialty Sites**
+
+* [**SubMovies**](https://tinyurl.com/y3wjc6f2) - (Watch movies & TV with subtitles)
+* [**Film1k**](https://tinyurl.com/y4m3e44m) - (NSFW movies)
+* [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
+* [Club MST3k](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
+* [Classic Cinema Online](https://tinyurl.com/27r9a5) - (Classic Films)
+* [Archive.org](https://tinyurl.com/cdv2tdr) - (Classic Films)
+* [Top Documentary Films](https://tinyurl.com/yy6k2lup) - (Documentaries)
+* [Videoneat](https://tinyurl.com/yxd5oko3) - (Documentaries/Science Movies)
+* [Ihavenotv](https://tinyurl.com/y8hszwz8) (Documentaries)
+* [Einthusan](https://tinyurl.com/y23bbxm8) - (Foreign)
+* [Dramago](https://tinyurl.com/y33wsqja) - (Foreign)
+* [WatchAsian](https://tinyurl.com/yyd9uq46) - (Foreign)
+* [Layarkaca](https://tinyurl.com/y6l25lfj) - (Foreign)
+* [DramaCool](https://tinyurl.com/y2bwycvx) - (Foreign)
+* [DaebakDrama](https://tinyurl.com/y5t883lv) - (Korean)
+* [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
+* [PornDude](https://tinyurl.com/npbgc2c) - (Huge list of porn sites)
+* [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
+
 **Sports**
 
+* [**NBAfullhd**](https://tinyurl.com/y3528nze), [NBAhdreplay](https://tinyurl.com/yywpp3f4),  [Watchraw](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
+* [**Rutracker**](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
 * [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA Events)
 * [**Bellator**](https://tinyurl.com/y63ejnbd) - (Bellator MMA Videos)
-* MMA Videos - [AllWrestling](https://tinyurl.com/y2d2joba), [MMA Core](https://tinyurl.com/y2qkxvwa), [MMA Versus](https://tinyurl.com/y4a4vrl8), [All The Best Fights](https://tinyurl.com/yymvf7hs), [r/MMAFights](https://www.reddit.com/r/mmafights/) 
 * [Kodi MMA Apps](https://tinyurl.com/yylxq89g)
-* Alluc, Ololo, OSR, Cafehulu, swatchseries, 5movies, two-movies, primewire also have mma. 
-* [**NBAfullhd**](https://tinyurl.com/y3528nze) or [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
-* [Watchraw](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
-* [Rutracker](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
+* MMA Videos - [AllWrestling](https://tinyurl.com/y2d2joba), [MMA Core](https://tinyurl.com/y2qkxvwa), [MMA Versus](https://tinyurl.com/y4a4vrl8), [All The Best Fights](https://tinyurl.com/yymvf7hs), [r/MMAFights](https://www.reddit.com/r/mmafights/), Alluc, Ololo, OSR, Cafehulu, swatchseries, 5movies, two-movies, primewire also have mma. 
 * [720pstream](https://tinyurl.com/y24m3b78) - (Live Sports)
 * [First Row Sports](https://tinyurl.com/ybx4jvz8) - (Live Sports)
 * [VipBox](https://tinyurl.com/y5z6mlwh) - (Live Sports)
@@ -183,27 +202,6 @@
 * [Popcornflix](https://tinyurl.com/yxwszlmw) - (General Movies)
 * [Artflix](https://tinyurl.com/y3owmkjy) - (General Movies)
 * [Flixdome](https://tinyurl.com/y67hygqg) - (General Movies)
-
-**Specialty Sites**
-
-* [**SubMovies**](https://tinyurl.com/y3wjc6f2) - (Watch movies & TV with subtitles)
-* [**Film1k**](https://tinyurl.com/y4m3e44m) - (NSFW movies)
-* [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
-* [Club MST3k](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
-* [Classic Cinema Online](https://tinyurl.com/27r9a5) - (Classic Films)
-* [Archive.org](https://tinyurl.com/cdv2tdr) - (Classic Films)
-* [Top Documentary Films](https://tinyurl.com/yy6k2lup) - (Documentaries)
-* [Videoneat](https://tinyurl.com/yxd5oko3) - (Documentaries/Science Movies)
-* [Ihavenotv](https://tinyurl.com/y8hszwz8) (Documentaries)
-* [Einthusan](https://tinyurl.com/y23bbxm8) - (Foreign)
-* [Dramago](https://tinyurl.com/y33wsqja) - (Foreign)
-* [WatchAsian](https://tinyurl.com/yyd9uq46) - (Foreign)
-* [Layarkaca](https://tinyurl.com/y6l25lfj) - (Foreign)
-* [DramaCool](https://tinyurl.com/y2bwycvx) - (Foreign)
-* [DaebakDrama](https://tinyurl.com/y5t883lv) - (Korean)
-* [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
-* [PornDude](https://tinyurl.com/npbgc2c) - (Huge list of porn sites)
-* [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
 
 **Android Streaming**
 
