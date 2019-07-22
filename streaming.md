@@ -1,6 +1,6 @@
 * **IMPORTANT** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
 * [**Changelog, Plans & Suggestions**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) 
-* [Short Links](https://tinyurl.com/y4kw4nhl) - (Easily Share/Save This Post)
+* [Short Links](https://tinyurl.com/y4osv5xt) - (Easily Share/Save This Post)
 * Backups - [Github](https://tinyurl.com/yy44atmj) & [Pastebin](https://tinyurl.com/yynsqkl2)
 
 **Apps**
