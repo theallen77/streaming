@@ -1,7 +1,5 @@
 * **IMPORTANT** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
 * [**Changelog, Plans & Suggestions**](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) 
-* [Short Links](https://tinyurl.com/y4osv5xt) - (Easily Share/Save This Post)
-* Backups - [Github](https://tinyurl.com/yy44atmj) & [Pastebin](https://tinyurl.com/yynsqkl2)
 
 **Apps**
 
@@ -261,3 +259,5 @@
 * [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Pirate Homepage)
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks streaming sites)
 * [WhereYouWatch](https://tinyurl.com/y8opktgy) or [Squawkr](https://tinyurl.com/y3ea3xl6) - (Get notified when movie is on streaming sites)
+* Backups - [Github](https://tinyurl.com/yy44atmj) & [Pastebin](https://tinyurl.com/yynsqkl2)
+* [Short Links](https://tinyurl.com/y4osv5xt) - (Easily Share/Save This Post)
