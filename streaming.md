@@ -255,8 +255,8 @@
 **Sites**
 
 * [**Tracking & Discovery**](https://tinyurl.com/yynm3ozu) - (Track content and find stuff to watch)
-* [**WhereYouWatch**](https://tinyurl.com/y8opktgy) or [Squawkr](https://tinyurl.com/y3ea3xl6) - (Get notified when movie is on streaming sites)
 * [**Awesome Piracy**](https://tinyurl.com/y3f4ffgl) - (Curated List of Pirate Sites) 
-* [**PornDude**](https://tinyurl.com/npbgc2c) - (Huge list of porn sites)
+* [**PornDude**](https://tinyurl.com/npbgc2c) - (Curated list of porn sites)
+* [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Pirate Homepage)
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks streaming sites)
-* [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Homepage for pirates)
+* [WhereYouWatch](https://tinyurl.com/y8opktgy) or [Squawkr](https://tinyurl.com/y3ea3xl6) - (Get notified when movie is on streaming sites)
