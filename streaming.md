@@ -120,7 +120,7 @@
 * [KickAssAnime](https://tinyurl.com/yxhquol3) - (Mixed Servers, Medium Library, Some 1080p)
 * [Ryuanime](https://tinyurl.com/y4z6y73z) - (Dedicated Server, Big Library, 720p)
 * [Justdubs](https://tinyurl.com/yxk46cxf) - (JW Player, Big Library, 720p)
-* [Twist.most](https://tinyurl.com/oyu5w85) - (Dedicated Server, Big Library, 720p)
+* [Twist.moe](https://tinyurl.com/oyu5w85) - (Dedicated Server, Big Library, 1080p)
 * [GoGoAnime](https://tinyurl.com/y37d92my) or [AnimeSeries](https://tinyurl.com/y42yovha) - (Mixed Servers, Big Library, 720p)
 * [Dubbed Anime](https://tinyurl.com/yy9oeogy) - (+ Cartoons, Dedicated Server, Medium Library, 720p)
 * [Otakustream](https://tinyurl.com/y6rw3ge7) - (RapidVideo, Medium Library, 720p)
