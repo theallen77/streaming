@@ -259,6 +259,7 @@
 * [**PornDude**](https://tinyurl.com/npbgc2c) - (Curated list of porn sites)
 * [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Pirate Homepage)
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks streaming sites)
+* /r/MovieStreamingSites - (Streaming Site Subreddit)
 * [WhereYouWatch](https://tinyurl.com/y8opktgy) or [Squawkr](https://tinyurl.com/y3ea3xl6) - (Get notified when movie is on streaming sites)
 * Backups - [Github](https://tinyurl.com/yy44atmj) & [Pastebin](https://tinyurl.com/yynsqkl2)
 * [Shortlinks](https://tinyurl.com/y4osv5xt) - (Easily Share/Save Post)
