@@ -62,6 +62,7 @@
 * [TopEuroPix](https://tinyurl.com/y3datoqg) or [HDeuropix](https://tinyurl.com/y4rn4p42) - (Movies, TV, Anime, Openload, Big Library)
 * [StreamDreams](https://tinyurl.com/y298659z) - (Movies, TV, Anime, Openload, Big Library)
 * [TeaTV](https://tinyurl.com/y67k3mrk) - (Movies, TV, Anime, Mixed Servers, Big Library)
+* [YoMovies](https://tinyurl.com/y56r6jga) - (Movies, TV, VeryStream, Medium Library)
 * [Daxiv](https://tinyurl.com/yd63n78v) - (Movies, TV, Anime, Dedicated Server, Medium Library)
 * [MovieNinja](https://tinyurl.com/y5x3lqyy) - (Movies, TV, Anime, JW player, Big Library)
 * [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, NetU Player, Big Library)
