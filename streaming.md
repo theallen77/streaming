@@ -26,6 +26,7 @@
 * [**StreamCR**](https://tinyurl.com/y9elxx3z) - (Movies, TV, Anime, JW Player, Big Library) 
 *  [**M4uFree.tv**](https://tinyurl.com/y7hf9et8), [M4uhd](https://tinyurl.com/y2lkjvwk) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, Dedicated Servers, Big Library) 
 * [**2TwoMovies**](https://tinyurl.com/y5lvnqvg) - (Movies, TV, Anime, Openload, Huge Library) 
+* [Soap2Day](https://tinyurl.com/y57ed4om) - (Movies, TV, Dedicated Server, Medium Library)
 * [CinWhale](https://tinyurl.com/y3uh48sn) - (Movies, TV, Openload, Big Library)
 * [FMovie](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Mixed Servers, Big Library)
 * [OnMovies](https://tinyurl.com/y5erhdve) - (Movies, TV, Anime, Openload, Big Library)
