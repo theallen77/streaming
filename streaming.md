@@ -140,6 +140,7 @@
 
 * [**SubMovies**](https://tinyurl.com/y3wjc6f2) - (Watch movies & TV with subtitles)
 * [**Film1k**](https://tinyurl.com/y4m3e44m) - (NSFW movies)
+* [7StarHD](https://tinyurl.com/y39x6ovg) - (NSFW movies)
 * [Club MST3k](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
 * [Classic Cinema Online](https://tinyurl.com/27r9a5) - (Classic Films)
 * [Archive.org](https://tinyurl.com/cdv2tdr) - (Classic Films)
