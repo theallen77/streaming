@@ -20,11 +20,11 @@
 **HD**
 
 * [**LookMovie**](https://tinyurl.com/y95z3flk) - (Movies, TV, Dedicated Server, Big Library) 
-*  [**M4uFree.tv**](https://tinyurl.com/y7hf9et8), [M4uhd](https://tinyurl.com/y2lkjvwk) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, Dedicated Servers, Big Library) 
 * [**MovieJoy**](https://tinyurl.com/y2hmozd9) or [F2Movie](https://tinyurl.com/y4k8l26k) - (Movies, TV, Anime, Mixed Servers, Huge Library)
+* [**5Movies**](https://tinyurl.com/y3ckcq79) - (Movies, TV, Anime, Openload, Huge Library) 
 * [**Genvideos**](https://tinyurl.com/yynbep4b) - (Movies, TV, JW Player, Medium Library)
 * [**StreamCR**](https://tinyurl.com/y9elxx3z) - (Movies, TV, Anime, JW Player, Big Library) 
-* [**5Movies**](https://tinyurl.com/y3ckcq79) - (Movies, TV, Anime, Openload, Huge Library) 
+*  [**M4uFree.tv**](https://tinyurl.com/y7hf9et8), [M4uhd](https://tinyurl.com/y2lkjvwk) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, Dedicated Servers, Big Library) 
 * [**2TwoMovies**](https://tinyurl.com/y5lvnqvg) - (Movies, TV, Anime, Openload, Huge Library) 
 * [CinWhale](https://tinyurl.com/y3uh48sn) - (Movies, TV, Openload, Big Library)
 * [FMovie](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Mixed Servers, Big Library)
