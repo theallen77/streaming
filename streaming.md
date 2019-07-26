@@ -1,7 +1,6 @@
 * **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
 * [(POLL) Best Streaming Sites & Apps](https://tinyurl.com/y6p63nga)
 * [Changelog, Plans & Suggestions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) 
-* Backups - [Github](https://tinyurl.com/yy44atmj) & [Pastebin](https://tinyurl.com/yynsqkl2)
 
 **Apps**
 
@@ -266,3 +265,4 @@
 * /r/MovieStreamingSites - (Streaming Site Subreddit)
 * [WhereYouWatch](https://tinyurl.com/y8opktgy) or [Squawkr](https://tinyurl.com/y3ea3xl6) - (Get notified when movie is on streaming sites)
 * [Shortlinks](https://tinyurl.com/y4osv5xt) - (Easily Share/Save Post)
+* Backups - [Github](https://tinyurl.com/yy44atmj) & [Pastebin](https://tinyurl.com/yynsqkl2)
