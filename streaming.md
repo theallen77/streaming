@@ -1,5 +1,4 @@
 * **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
-* [(POLL) Best Streaming Sites & Apps](https://tinyurl.com/y6p63nga)
 * [Changelog, Plans & Suggestions](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) 
 
 **Apps**
