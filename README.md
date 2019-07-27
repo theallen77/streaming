@@ -1,3 +1,5 @@
+**CLICK streaming.md FOR STREAMING POST**
+
 **IF YOU WANT TO ADD A SITE, FOLLOW THESE STEPS**
 
 You can leave your sites in the reddit [suggestions post](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) and I'll do all the work for you! Otherwise follow the steps below to add sites manually. Thank you to all contributers! <3
