@@ -163,7 +163,7 @@
 
 * [**NBAfullhd**](https://tinyurl.com/y3528nze), [NBAhdreplay](https://tinyurl.com/yywpp3f4),  [Watchraw](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
 * [**Rutracker**](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
-* [Watchwrestling24](https://tinyurl.com/y7pckbz2) - (Full MMA/Wrestling Events)
+* [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA/Wrestling Events)
 * [**Bellator**](https://tinyurl.com/y63ejnbd) - (Bellator MMA Videos)
 * [Kodi MMA Apps](https://tinyurl.com/yylxq89g)
 * MMA Videos - [AllWrestling](https://tinyurl.com/y2d2joba), [MMA Core](https://tinyurl.com/y2qkxvwa), [MMA Versus](https://tinyurl.com/y4a4vrl8), [All The Best Fights](https://tinyurl.com/yymvf7hs), [r/MMAFights](https://www.reddit.com/r/mmafights/), Alluc, Ololo, OSR, Cafehulu, swatchseries, 5movies, two-movies, primewire also have mma. 
