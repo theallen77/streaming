@@ -1,6 +1,6 @@
 **Click "streaming.md" to view streaming post**
 
-If you'd like to suggest a site, you can use the reddit [suggestions post.](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) If you'd like to submit a site manually please follow the steps below. Thank you to all contributers! <3
+If you'd like to suggest a site, you can use the reddit [suggestions post.](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) If you'd rather submit the site manually please follow the steps below. Thank you to all contributers! <3
 
 1. Change url via [tinyurl.com](https://tinyurl.com/)
 2. Copy this to your spot in the post * [Site Name](tinyurl link) - () 
