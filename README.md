@@ -1,8 +1,6 @@
 **Click "streaming.md" to view streaming post**
 
-**If you'd like to add a site, please follow the steps below**
-
-You can leave your sites in the reddit [suggestions post](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) and I'll do all the work for you! Otherwise follow the steps below to add sites manually. Thank you to all contributers! <3
+IF you'd like to suggest a site, you can use the reddit [suggestions post.](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) If you'd like to submit a site manually please follow the steps below. Thank you to all contributers! <3
 
 1. Change url via [tinyurl.com](https://tinyurl.com/)
 2. Copy this to your spot in the post * [Site Name](tinyurl link) - () 
