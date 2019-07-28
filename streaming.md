@@ -6,7 +6,7 @@
 * [**LeonFlix**](https://tinyurl.com/y6vtutak) - (Streaming App)
 * [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (Streaming App) (Android compatible)
 * [Kodi](https://tinyurl.com/zymo4y7) - (Streaming App) - [Addons](https://www.reddit.com/r/Addons4Kodi/) (Android compatible)
-* Android, Torrent & Download streaming apps at bottom
+* Android/Torrent apps at bottom
 
 **Search**
 
