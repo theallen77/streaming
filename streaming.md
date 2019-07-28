@@ -1,5 +1,5 @@
 * **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
-* [Suggest Sites/Changelog](https://www.reddit.com/r/FREEMEDIAHECKYEAH/comments/ccrmsv/changelog_plans_suggestions/) 
+* [Suggest Sites/Changelog](https://redd.it/ccrmsv) 
 
 **Apps**
 
