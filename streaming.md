@@ -100,7 +100,7 @@
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Mixed Servers, Medium Library)
 * [TVZion](https://tinyurl.com/y3mg2cv3) - (TV, Openload, Big Library)
 * [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
-* [TopCartoons](https://tinyurl.com/y2yt2k9q) - (Cartoons, JW Player, Medium Library)
+* [TopCartoons](https://tinyurl.com/y2yt2k9q) - (Cartoons, JW Player, Small Library)
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoons, RapidVideo, Small Library)
 * [123TV](https://tinyurl.com/y72b3y7s) - (Live TV)
 * [LiveTVCafe](https://tinyurl.com/yc2a5bmd) - (Live TV)
