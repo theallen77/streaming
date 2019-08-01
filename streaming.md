@@ -29,7 +29,7 @@
 * [Soap2Day](https://tinyurl.com/y57ed4om) - (Movies, TV, Dedicated Server, Medium Library)
 * [CinWhale](https://tinyurl.com/y3uh48sn) - (Movies, TV, Openload, Big Library)
 * [FMovie](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Mixed Servers, Big Library)
-* [OnMovies](https://tinyurl.com/y5erhdve) - (Movies, TV, Anime, Openload, Big Library)
+* [OnMovies](https://tinyurl.com/yxol3nyh) - (Movies, TV, Anime, Openload, Big Library)
 * [CineBloom](https://tinyurl.com/y4k9j8k9) - (Movies, TV, Anime, Openload, Big Library)
 * [Khaanflix](https://tinyurl.com/y98muv8v) - (Movies, TV, Anime, JW Player, Big Library)
 * [Ganol](https://tinyurl.com/ybhwkbmg) - (Movies, TV, Anime, Openload, Big Library)
