@@ -13,11 +13,3 @@ If you'd like to suggest a site, you can use the reddit [suggestions post.](http
 For sites that don't list quality, check manually using video download [addon](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/)
 
  You can make a site bold by adding ** ** around the sites name
- 
- **EXAMPLES**
- 
- Example 1 * [Site Name](tinyurl link) - (Movies, TV, Anime, JW Player, Huge Library)
- 
- Example 2 * [Site Name](tinyurl link) - (Anime, Mixed Servers, Small Library, 1080p)
- 
- Example 3 * [APK Name](tinyurl link) - (Movies, TV, Anime, 720p, Huge Library, Chromecast)
