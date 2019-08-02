@@ -100,7 +100,9 @@
 * [TVZion](https://tinyurl.com/y3mg2cv3) - (TV, Openload, Big Library, 720p)
 * [SeriesFree](https://tinyurl.com/y7onqc4r) - (TV, Anime, Mixed Servers, Medium Library, SD/HD) 
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Mixed Servers, Medium Library, SD)
+* [TVBox](https://tinyurl.com/yyrjyjz4) - (TV, Mixed Servers, Medium Library, SD)
 * [TopCartoons](https://tinyurl.com/y2yt2k9q) - (Cartoons, JW Player, Small Library, SD)
+* [Toonova](https://tinyurl.com/y6hlns9h) - (Cartoons, Mixed Servers, Medium Library, SD)
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoons, RapidVideo, Small Library, SD)
 * [123TV](https://tinyurl.com/y72b3y7s) - (Live TV)
 * [LiveTVCafe](https://tinyurl.com/yc2a5bmd) - (Live TV)
@@ -109,6 +111,7 @@
 * [Arconaitv](https://tinyurl.com/y3gqvzha) - (Live TV)
 * [StreamAll](https://tinyurl.com/yxwsguvg) - (Live TV)
 * [Send It](https://tinyurl.com/yxr9jsw6) - (Live TV)
+* [TVBox](https://tinyurl.com/yyrjyjz4) - (TV, Mixed Servers, Medium Library, SD)
 
 **Anime**
 
