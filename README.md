@@ -7,7 +7,8 @@ If you'd like to suggest a site, you can use the reddit [suggestions post.](http
 3. In the empty parenthesis, note what types of content the site has (Movies, TV, Anime, only note cartoons if it's a cartoon exclusive, or anime/cartoon exclusive site) 
 4. Note what player the site uses. JW Player, Openload, RapidVideo, Google Server, OK.RU, NetU Player or whatever it is. If a site uses multiple types of players use "mixed servers." If the site hosts the videos themselves use "dedicated server." 
 5. Note the size of the sites library. Small, Medium, Big or Huge. Check this by seeing if a site has obscure content. Just try to give your best judgement. 
-6. If it's a site thats in the Anime or Android sections, please note the quality. (1080p or 720p, any lower and don't note) + Note if apk uses chromecast.
+6. Note the quality of the sites content. (1080p, 720p or SD) If a site is mostly SD but some HD do SD/HD
+7. If it's a site thats in the Anime or Android sections, please note the quality. (1080p or 720p, any lower and don't note) + Note if apk uses chromecast.
 
 For sites that don't list quality, check manually using video download [addon](https://addons.mozilla.org/en-US/firefox/addon/video-downloadhelper/)
 
