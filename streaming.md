@@ -112,7 +112,6 @@
 * [Arconaitv](https://tinyurl.com/y3gqvzha) - (Live TV)
 * [StreamAll](https://tinyurl.com/yxwsguvg) - (Live TV)
 * [Send It](https://tinyurl.com/yxr9jsw6) - (Live TV)
-* [TVBox](https://tinyurl.com/yyrjyjz4) - (TV, Mixed Servers, Medium Library, SD)
 
 **Anime**
 
