@@ -56,6 +56,7 @@
 * [**Streamlord**](https://tinyurl.com/ybrtnppf) - (Movies, TV, JW Player, Medium Library, 720p)
 * [**IWannaWatch**](https://tinyurl.com/yxs2q99f) - (Movies, Spark Player, Big Library, 720p)
 * [**Series9**](https://tinyurl.com/y75dvzxn) - (Movies, TV, Anime, Mixed Servers, Huge Library, 720p)
+* [**FreeMe**](https://tinyurl.com/y49rotxs), [Clone Sites](https://tinyurl.com/y2kprfgg) - (Movies, TV, JW Player, Big Library, 720p) 
 * [TopEuroPix](https://tinyurl.com/y3datoqg) or [HDeuropix](https://tinyurl.com/y4rn4p42) - (Movies, TV, Anime, NetU Player, Big Library, 720p)
 * [HDO](https://tinyurl.com/y3cvfuew), [Yes! Movies](https://tinyurl.com/y49j28s3) or [Solarmoviez](https://tinyurl.com/y69bm4mf) - (Movies, TV, Anime, JW Player, Big Library, 720p)
 * [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV, JW Players, Big Library, 720p)
