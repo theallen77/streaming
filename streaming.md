@@ -267,7 +267,7 @@
 * [**Tracking & Discovery**](https://tinyurl.com/yynm3ozu) - (Track content and find stuff to watch)
 * [**Awesome Piracy**](https://tinyurl.com/y3f4ffgl) - (Curated List of Pirate Sites) 
 * [**PornDude**](https://tinyurl.com/npbgc2c) - (Curated list of porn sites)
-* [Kisscartoon Alternatives](https://tinyurl.com/y43oj92s) - (Anime, Asian, Cartoon, Manga, Novel, Comic Sites)
+* [Alt Kiss Sites](https://tinyurl.com/y43oj92s) - (Anime, Asian, Cartoon, Manga, Novel, Comic Sites)
 * [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Pirate Homepage)
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks streaming sites)
 * /r/MovieStreamingSites - (Streaming Site Subreddit)
