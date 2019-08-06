@@ -213,7 +213,7 @@
 
 **Android**
 
-* **Note** - Android Streaming Apks Work On PC/Mac via emulators like [NoxPlayer.](https://tinyurl.com/m64pvhm) Download [AdGuard (Premium Unlocked)](https://tinyurl.com/y36xrkkd) to block ads in apps. 
+* **Note** - Android Streaming Apks Work On PC/Mac via emulators like [NoxPlayer.](https://tinyurl.com/m64pvhm) Download [AdGuard (Premium Unlocked)](https://tinyurl.com/y36xrkkd) or [Blokada](https://blokada.org/) to block ads in apps. [Opera](https://www.opera.com/mobile/operabrowser) for android has a built in adblocker. 
 * [**TeaTV**](https://tinyurl.com/y6s36tkt) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**TVZion**](https://tinyurl.com/yyosrod4) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**BeeTV**](https://tinyurl.com/y6ze6k89) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
