@@ -68,7 +68,7 @@
 * [Spacemov](https://tinyurl.com/y2tluukl) - (Movies, TV, JW Player, Medium Library, 720p)
 * [TimeToWatch](https://tinyurl.com/yyf7yclw) - (Movies, TV, VeryStream, Small Library, 720p)
 * [1movies.pl](https://tinyurl.com/y87nunr5) or [XMovies8](https://tinyurl.com/y4l5d9fm) - (Movies, TV, Anime, JW Player, Big Library, 720p)
-* [FreeMe](https://tinyurl.com/y49rotxs), [Clone Sites](https://tinyurl.com/y2kprfgg) - (Movies, TV, JW Player, Big Library, 720p) 
+* [GoMovies.click](https://tinyurl.com/y3kqat3u), [Clone Sites](https://tinyurl.com/y2kprfgg) - (Movies, TV, JW Player, Big Library, 720p) 
 * [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, NetU Player, Big Library, 720p)
 * [UWatchfree](https://tinyurl.com/y2p8yhfl) - (Movies, TV, Netu Player, Medium Library, 720p)
 * [ZMovies](https://tinyurl.com/y5aqhrr9) or [Movies24](https://tinyurl.com/y2z956op) - (Movies, TV, Netu Player, Medium Library, 720p)
