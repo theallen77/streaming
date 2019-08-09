@@ -118,7 +118,7 @@
 **Anime**
 
 * **Note** - Many of the sites above have anime as well
-* [**r/AnimePiracy**](https://www.reddit.com/r/animepiracy/wiki/animestreamlist) - (Anime streaming sites)
+* [**r/AnimePiracy**](https://www.reddit.com/r/animepiracy/wiki/index) - (Anime + Manga sites)
 * [**9Anime**](https://tinyurl.com/ydgladf3) - (RapidVideo, Big Library, 1080p) 
 * [**Kissanime.ru**](https://tinyurl.com/yyxzrgtu) or [Kissanime.ac](https://tinyurl.com/y66v33go) - (Mixed Servers, Big Library, 1080p)
 * [4Anime](https://tinyurl.com/yxu7hqmj) - (Dedicated Servers, Medium Library, 1080p)
