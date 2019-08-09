@@ -267,12 +267,12 @@
 **Helpful**
 
 * [**Tracking & Discovery**](https://tinyurl.com/yynm3ozu) - (Track content and find stuff to watch)
+* [**WhereYouWatch**](https://tinyurl.com/y8opktgy) or [Squawkr](https://tinyurl.com/y3ea3xl6) - (Get notified when movie is on streaming sites)
 * [**Awesome Piracy**](https://tinyurl.com/y3f4ffgl) - (Curated List of Pirate Sites) 
-* [**PornDude**](https://tinyurl.com/npbgc2c) - (Curated list of porn sites)
-* [Alt Kiss Sites](https://tinyurl.com/y43oj92s) - (Anime, Asian, Cartoon, Manga, Novel, Comic Sites)
+* [**PornDude**](https://tinyurl.com/npbgc2c) - (Curated List of Porn Sites)
+* [Alt Kiss Sites](https://tinyurl.com/y43oj92s) - (Curated List of Pirate Sites) 
 * [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Pirate Homepage)
-* [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks streaming sites)
-* /r/MovieStreamingSites - (Streaming Site Subreddit)
-* [WhereYouWatch](https://tinyurl.com/y8opktgy) or [Squawkr](https://tinyurl.com/y3ea3xl6) - (Get notified when movie is on streaming sites)
+* [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
+* /r/MovieStreamingSites - (Streaming Site Sub)
 * [Shortlinks](https://tinyurl.com/y4osv5xt) - (Easily Share/Save Post)
 * Backups - [Github](https://tinyurl.com/yy44atmj) & [Pastebin](https://tinyurl.com/yynsqkl2)
