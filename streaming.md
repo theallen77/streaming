@@ -103,6 +103,7 @@
 * [SeriesFree](https://tinyurl.com/y7onqc4r) - (TV, Anime, Mixed Servers, Medium Library, SD/HD) 
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Mixed Servers, Medium Library, SD)
 * [TVBox](https://tinyurl.com/yyrjyjz4) - (TV, Mixed Servers, Medium Library, SD)
+* [WSO](https://tinyurl.com/y4bcfykq) - (TV, Mixed Servers, Small Library, SD)
 * [TopCartoons](https://tinyurl.com/y2yt2k9q) - (Cartoons, JW Player, Small Library, SD)
 * [Toonova](https://tinyurl.com/y6hlns9h) - (Cartoons, Mixed Servers, Medium Library, SD)
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoons, RapidVideo, Small Library, SD)
