@@ -154,7 +154,7 @@
 * [Ihavenotv](https://tinyurl.com/y8hszwz8) (Documentaries)
 * [Film1k](https://tinyurl.com/y4m3e44m) - (NSFW movies)
 * [Eroti.ga](https://tinyurl.com/y3gpuqba) - (NSFW movies)
-* [7StarHD](https://tinyurl.com/y39x6ovg) - (NSFW movies)
+* [7StarHD](https://tinyurl.com/y39x6ovg) - (NSFW movies, Note Pornhub has full NSFW movies too)
 * [Einthusan](https://tinyurl.com/y23bbxm8) - (Foreign)
 * [Dramago](https://tinyurl.com/y33wsqja) - (Foreign)
 * [WatchAsian](https://tinyurl.com/yyd9uq46) - (Foreign)
