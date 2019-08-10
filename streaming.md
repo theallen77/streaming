@@ -28,6 +28,7 @@
 * [**RainierLand**](https://tinyurl.com/y5ev24fz) - (Movies, TV, Anime, Dedicated Server, Medium Library, 1080p)
 * [**HackIMDb**](https://tinyurl.com/yyj8awpq) - (Movies, Fembed Player, Medium Library, 1080p)  
 * [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Mixed Servers, Big Library, 1080p)
+* [Popcornflix](https://tinyurl.com/y54s87k9) - (Movies, TV, Dedicated Server, Medium Library, 1080p)
 * [OneCinema](https://tinyurl.com/yy3jxq62) - (Movies, JW Player, Medium Library, 1080p)
 * [Genvideos](https://tinyurl.com/yynbep4b) - (Movies, TV, JW Player, Medium Library, 1080p)
 * [CineWhale](https://tinyurl.com/y3uh48sn) or [CineBloom](https://tinyurl.com/y4k9j8k9) - (Movies, TV, JW Player, Big Library, 1080p)
@@ -45,10 +46,12 @@
 * [Portalultautv](https://tinyurl.com/y6bor2jw) - (Movies, TV, NetU/Openload Players, Medium Library, 1080p)
 * [C1nema](https://tinyurl.com/y2txu7xt) - (Movies, TV, Openload, Big Library, 1080p)
 * [Vmovee](https://tinyurl.com/y5okppou) - (Movies, TV, Openload, Medium Library, 1080p)
+* [Movie4u](https://tinyurl.com/y3745pdx) - (Movies, TV, Openload, Medium Library, 1080p)
 * [Ymovies](https://tinyurl.com/ychw2l6y) - (Movies, JW Player, Medium Library, 1080p)
 * [Megashare9](https://tinyurl.com/y6kj4q95) - (Movies, TV, Openload, Small Library, 1080p)
 * [M4uhd](https://tinyurl.com/y2lkjvwk), [M4uFree.tv](https://tinyurl.com/y7hf9et8) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, JW Player, Big Library, 1080p) 
 * [Oakmovies](https://tinyurl.com/y2hljqqa) - (Movies, JW Player, Small Library, 1080p)
+* [SnagFilms](https://tinyurl.com/5aluuz) - (Movies, TV, Dedicated Server, Small Library, 1080p)
 
 **720p**
 
@@ -250,7 +253,7 @@
 * [filechef](https://tinyurl.com/y8cgtd8t) - (Search Direct Downloads)
 * r/GDriveLinks - (Google Drive Sub)
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Downloads)
-* *Direct Download Sites* - [IceFilms](https://tinyurl.com/ylzy97j), [HDEncode](https://tinyurl.com/yaq7ap94), [Amadei33](https://tinyurl.com/y3w7ja2g), [PSARips](https://tinyurl.com/ydz5l8dy), [Pahe](https://tinyurl.com/y6w8e26b), [480mkv](https://tinyurl.com/y5qdfftz), [Adit-HD](https://tinyurl.com/y2enx8vb), [RLSbb](https://tinyurl.com/y8ur5tzq),[Animekaizoku](https://tinyurl.com/yxqfdlex), (Anime), [Animetosho](https://tinyurl.com/83kpyt2) (Anime)
+* *Direct Download Sites* - [IceFilms](https://tinyurl.com/ylzy97j), [HDEncode](https://tinyurl.com/yaq7ap94), [Amadei33](https://tinyurl.com/y3w7ja2g), [PSARips](https://tinyurl.com/ydz5l8dy), [Pahe](https://tinyurl.com/y6w8e26b), [480mkv](https://tinyurl.com/y5qdfftz), [Adit-HD](https://tinyurl.com/y2enx8vb), [RLSbb](https://tinyurl.com/y8ur5tzq),[Animekaizoku](https://tinyurl.com/yxqfdlex), (Anime), [Animetosho](https://tinyurl.com/83kpyt2) (Anime), [MyDLTube](https://tinyurl.com/y3ydd7jy)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD Downloads)
 * [Download Sites](https://tinyurl.com/y3fzpvef) - (Full List)
 * You can stream Megalink files with [Megasync.](https://tinyurl.com/y3vvtwrx) Select the gear icon, stream, public link, paste, choose app & enjoy. 
