@@ -6,13 +6,13 @@
 * [**LeonFlix**](https://tinyurl.com/y6vtutak) - (PC/Mac) - /r/leonflix 
 * [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (PC/Mac/Android)
 * [Kodi](https://tinyurl.com/zymo4y7) - (PC/Mac/Android) - /r/Addons4Kodi, [Add-ons Tracker](https://tinyurl.com/y2ygqbyw), [Trending Add-ons](https://tinyurl.com/ycthlf8t)
-* Android & Torrent apps at bottom
+* Android apks at bottom
 
 **Search**
 
 * [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search Openload, Streamango, Rapidvideo, Vidcloud & more)
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search Openload via direct IMDB & TMDB IDs)
-* [Alluc](https://tinyurl.com/y4vbvde9) - (Search Openload)
+* [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search Openload)
 * [OSR](https://tinyurl.com/y4d9qpxc) - (Search Openload, Streamango & Rapidvideo)
 * Add "site:drive.google.com" to a google search to search Google Drive 
 
