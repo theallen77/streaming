@@ -185,7 +185,7 @@
 * [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA/Wrestling Events)
 * [**Bellator**](https://tinyurl.com/y63ejnbd) - (Full Events)
 * [Kodi MMA Apps](https://tinyurl.com/yylxq89g)
-* MMA Videos - [AllWrestling](https://tinyurl.com/y2d2joba), [MMA Core](https://tinyurl.com/y2qkxvwa), [MMA Versus](https://tinyurl.com/y4a4vrl8), [All The Best Fights](https://tinyurl.com/yymvf7hs), [r/MMAFights](https://www.reddit.com/r/mmafights/), Alluc, Ololo, OSR, Cafehulu, swatchseries, 5movies, two-movies, primewire also have mma. 
+* MMA Videos - [AllWrestling](https://tinyurl.com/y2d2joba), [MMA Core](https://tinyurl.com/y2qkxvwa), [MMA Versus](https://tinyurl.com/y4a4vrl8), [All The Best Fights](https://tinyurl.com/yymvf7hs), [r/MMAFights](https://www.reddit.com/r/mmafights/)
 * [720pstream](https://tinyurl.com/y24m3b78) - (Live Sports)
 * [First Row Sports](https://tinyurl.com/ybx4jvz8) - (Live Sports)
 * [VipBox](https://tinyurl.com/y5z6mlwh) - (Live Sports)
@@ -250,9 +250,9 @@
 * [AnimeDLR](https://tinyurl.com/yylv7q8r) - (Anime, SD, Small Library)
 * [Mobdro](https://tinyurl.com/y5vycvtc) - (Live TV)
 * [SwiftStreams](https://tinyurl.com/y5g5858a) - (Live TV)
-* [r/ApksApps](https://tinyurl.com/y5kn3dru)
-* [r/AnimePiracy Apks](https://tinyurl.com/y35pteqj) - (Android Anime Apps)
-* [Android Movie Apps](https://tinyurl.com/y2s275uf) - (Full List)
+* [r/ApksApps](https://tinyurl.com/y5kn3dru) - (Apps List)
+* [Android Movie Apps](https://tinyurl.com/y2s275uf) - (Apps List)
+* [r/AnimePiracy Apks](https://tinyurl.com/y35pteqj) - (Anime Apps List)
 
 **Download**
 
