@@ -5,7 +5,7 @@
 
 * [**LeonFlix**](https://tinyurl.com/y6vtutak) - (PC/Mac) - /r/leonflix 
 * [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (PC/Mac/Android)
-* [Kodi](https://tinyurl.com/zymo4y7) - (PC/Mac/Android) - /r/Addons4Kodi, [Add-ons Tracker](https://tinyurl.com/y2ygqbyw), [Trending Add-ons](https://tinyurl.com/ycthlf8t)
+* [Kodi](https://tinyurl.com/zymo4y7) - (PC/Mac/Android) - /r/Addons4Kodi, [Tracker](https://tinyurl.com/y2ygqbyw) + [Trending](https://tinyurl.com/ycthlf8t)
 * Android apks at bottom
 
 **Search**
