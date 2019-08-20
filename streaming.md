@@ -14,6 +14,7 @@
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search Openload via direct IMDB & TMDB IDs)
 * [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search Openload)
 * [OSR](https://tinyurl.com/y4d9qpxc) - (Search Openload, Streamango & Rapidvideo)
+* [MegaSearch](https://tinyurl.com/pvbf924) - (Search Openload/Mega)
 * Add "site:drive.google.com" to a google search to search Google Drive 
 
 **1080p**
@@ -258,7 +259,8 @@
 
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
 * [Direct DL Sites](https://tinyurl.com/yyzv49rv) - (List)
-* [filechef](https://tinyurl.com/y8cgtd8t) - (Search Direct Downloads)
+* [filechef](https://tinyurl.com/y8cgtd8t) - (Search DL's)
+* [Iplive](https://tinyurl.com/yxjho6up) - (Search DL's)
 * r/GDriveLinks - (Google Drive Sub)
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Downloads)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD Downloads)
