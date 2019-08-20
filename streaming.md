@@ -228,7 +228,7 @@
 
 **Android/iOS**
 
-* **Important** - Block Ads with [**AdGuard** (Premium Unlocked)](https://tinyurl.com/y36xrkkd) or [Blokada](https://blokada.org/). If using sites try [Opera](https://www.opera.com/mobile/operabrowser) as it has a built in adblocker. 
+* **Important** - Block Ads with [**AdGuard** (Premium Unlocked)](https://tinyurl.com/y36xrkkd) or [Blokada](https://blokada.org/). If using sites try [Opera](https://www.opera.com/mobile/operabrowser) as it has a built in adblocker. Run apks on PC/Mac via [BlueStacks.](https://tinyurl.com/pf7ahx8)
 * [**TeaTV**](https://tinyurl.com/y6s36tkt) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**TVZion**](https://tinyurl.com/yyosrod4) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**BeeTV**](https://tinyurl.com/y6ze6k89) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
