@@ -275,7 +275,8 @@
 * You can automatically stream any Magnet Link or .Torrent File from the sites below by pasting them into [Sodaplayer](https://tinyurl.com/y7jp5uz7) or [BitLord.](https://tinyurl.com/3c97z9) Popcorn Time & Streamio have this feature as well.
 * [Magnetoo](https://tinyurl.com/y5c5mojq) - Stream movie torrents via browser 
 * [BTorrent](https://tinyurl.com/y6l3krsx) - Download/stream torrents from browser 
-* [Torrent Sites](https://tinyurl.com/y2rfhvsy), [Nyaa](https://tinyurl.com/kzrxq22) (Anime,) [Animetosho](https://tinyurl.com/7p55dk7) (Anime,) [anidex](https://anidex.info) (Anime)
+* [Torrent Sites](https://tinyurl.com/y2rfhvsy)
+* [Anime Torrent Sites](https://www.reddit.com/r/animepiracy/wiki/animetorrentlist)
 * [Torrent Clients](https://tinyurl.com/y3l8o4zb)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Torrents, Streaming, DL's, Sports, Music, Books & Porn)
 
