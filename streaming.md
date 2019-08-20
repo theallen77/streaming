@@ -168,7 +168,7 @@
 * [Ihavenotv](https://tinyurl.com/y8hszwz8) (Documentaries)
 * [Film1k](https://tinyurl.com/y4m3e44m) - (NSFW movies)
 * [Eroti.ga](https://tinyurl.com/y3gpuqba) - (NSFW movies)
-* [7StarHD](https://tinyurl.com/y39x6ovg) - (NSFW movies, Note Pornhub has full NSFW movies too)
+* [7StarHD](https://tinyurl.com/y39x6ovg) - (NSFW movies)
 * [Einthusan](https://tinyurl.com/y23bbxm8) - (Foreign)
 * [Dramago](https://tinyurl.com/y33wsqja) - (Foreign)
 * [WatchAsian](https://tinyurl.com/yyd9uq46) - (Foreign)
@@ -284,11 +284,11 @@
 
 **Helpful**
 
-* [**Tracking & Discovery**](https://tinyurl.com/yynm3ozu) - (Track content and find stuff to watch)
-* [**WhereYouWatch**](https://tinyurl.com/y8opktgy) or [Squawkr](https://tinyurl.com/y3ea3xl6) - (Get notified when movie is on streaming sites)
-* [**PornDude**](https://tinyurl.com/npbgc2c) - (Porn Sites List)
+* [**Tracking & Discovery**](https://tinyurl.com/yynm3ozu) - (Track content & find stuff to watch)
+* [**WhereYouWatch**](https://tinyurl.com/y8opktgy) or [Squawkr](https://tinyurl.com/y3ea3xl6) - (Get Notified when movie is streamable)
 * [**Awesome Piracy**](https://tinyurl.com/y3f4ffgl) - (Pirate Sites List) 
 * [Alt Kiss Sites](https://tinyurl.com/y43oj92s) - (Pirate Sites List) 
+* [PornDude](https://tinyurl.com/npbgc2c) - (Porn Sites List)
 * [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Pirate Homepage)
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
 * /r/MovieStreamingSites - (Streaming Sites Sub)
