@@ -262,8 +262,8 @@
 * [filechef](https://tinyurl.com/y8cgtd8t) - (Search DL's)
 * [Iplive](https://tinyurl.com/yxjho6up) - (Search DL's)
 * r/GDriveLinks - (Google Drive Sub)
-* [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Downloads)
-* [Movie Files](https://tinyurl.com/yac9lo87) - (HD Downloads)
+* [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive DL's)
+* [Movie Files](https://tinyurl.com/yac9lo87) - (HD DL's)
 * [Animekaizoku](https://tinyurl.com/yxqfdlex), [Animetosho](https://tinyurl.com/83kpyt2) - (Direct DL Anime)
 * [RareLust](https://tinyurl.com/yyuypz77) - (Rare NSFW Film DL's)
 * You can stream Megalink files with [Megasync.](https://tinyurl.com/y3vvtwrx) Select the gear icon, stream, public link, paste, choose app & enjoy. 
