@@ -257,12 +257,12 @@
 **Download**
 
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
+* [Direct DL Sites](https://tinyurl.com/yyzv49rv) - (List)
 * [filechef](https://tinyurl.com/y8cgtd8t) - (Search Direct Downloads)
 * r/GDriveLinks - (Google Drive Sub)
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Downloads)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD Downloads)
-* *Direct DL Sites* - [IceFilms](https://tinyurl.com/ylzy97j), [HDEncode](https://tinyurl.com/yaq7ap94), [Amadei33](https://tinyurl.com/y3w7ja2g), [PSARips](https://tinyurl.com/ydz5l8dy), [Pahe](https://tinyurl.com/y6w8e26b), [480mkv](https://tinyurl.com/y5qdfftz), [Adit-HD](https://tinyurl.com/y2enx8vb), [RLSbb](https://tinyurl.com/y8ur5tzq), [MyDLTube](https://tinyurl.com/y3ydd7jy)
-* *Direct DL Anime* - [Animekaizoku](https://tinyurl.com/yxqfdlex), [Animetosho](https://tinyurl.com/83kpyt2)
+* [Animekaizoku](https://tinyurl.com/yxqfdlex), [Animetosho](https://tinyurl.com/83kpyt2) - (Direct DL Anime)
 * [RareLust](https://tinyurl.com/yyuypz77) - (Rare NSFW Film DL's)
 * You can stream Megalink files with [Megasync.](https://tinyurl.com/y3vvtwrx) Select the gear icon, stream, public link, paste, choose app & enjoy. 
 
