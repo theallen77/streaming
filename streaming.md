@@ -3,10 +3,10 @@
 
 **Apps**
 
-* [**LeonFlix**](https://tinyurl.com/y6vtutak) - (Streaming App)
-* [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (Streaming App) (Android compatible)
-* [Kodi](https://tinyurl.com/zymo4y7) - (Streaming App) - [Addons](https://www.reddit.com/r/Addons4Kodi/) (Android compatible)
-* Android/Torrent apps at bottom
+* [**LeonFlix**](https://tinyurl.com/y6vtutak) - (PC/Mac) - /r/leonflix 
+* [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (PC/Mac/Android)
+* [Kodi](https://tinyurl.com/zymo4y7) - (PC/Mac/Android) - /r/Addons4Kodi, [Add-ons Tracker](https://tinyurl.com/y2ygqbyw), [Trending Add-ons](https://tinyurl.com/ycthlf8t)
+* Android & Torrent apps at bottom
 
 **Search**
 
@@ -22,6 +22,7 @@
 * [**MovieJoy**](https://tinyurl.com/y2hmozd9) or [F2Movie](https://tinyurl.com/y4k8l26k) - (Movies, TV, Anime, Mixed Servers, Huge Library, 1080p)
 * [**5Movies**](https://tinyurl.com/y3ckcq79) - (Movies, TV, Anime, Mixed Servers, Huge Library, 1080p) 
 * [**2TwoMovies**](https://tinyurl.com/y3pry22t) - (Movies, TV, Anime, Mixed Servers, Huge Library, 1080p) 
+* [**Alluc.co**](https://tinyurl.com/y3yfp5eq) or [Cartoonhd.to](https://tinyurl.com/y4sxe254) - (Movies, TV, Anime, GoMoStream, Big Library, 1080p)
 * [**HDBest**](https://tinyurl.com/y2dg76vm) - (Movies, Google Server, Big Library, 1080p)
 * [**Soap2Day**](https://tinyurl.com/y57ed4om) - (Movies, TV, Dedicated Server, Medium Library, 1080p)
 * [**Daxiv**](https://tinyurl.com/yd63n78v) - (Movies, TV, Anime, Dedicated Server, Medium Library, 1080p)
@@ -86,6 +87,7 @@
 * [Putlocker.to](https://tinyurl.com/y4d7pyrc) - (Movies, TV, Anime, Dedicated Server, Big Library, 720p)
 * [MovieJagg](https://tinyurl.com/y3hp7odx) - (Movies, Openload, Big Library, 720p)
 * [HDFlix](https://tinyurl.com/y9etmuvk) or [YesMovies.fun](https://tinyurl.com/y95qduzm) - (Movies, TV, Mixed Servers, Medium Library, 720p)  
+* [Doobi](https://tinyurl.com/y3krc3ae) - (Movies, TV, Openload, Small Library, 720p)
 * [ProSpice](https://tinyurl.com/y5w3u2kt) - (Movies, Openload, Small Library, 720p)
 
 **SD**
@@ -197,7 +199,7 @@
 * [More Live Sports Sites](https://tinyurl.com/ybsc8brq)
 * *Sports Streaming Subbreddits* - [NFL](https://www.reddit.com/r/nflstreams/), [MLB](https://www.reddit.com/r/MLBStreams/), [NHL](https://www.reddit.com/r/NHLStreams/), [NCAA Basketball](https://www.reddit.com/r/ncaaBBallStreams/), [CFB](https://www.reddit.com/r/CFBStreams/), [WWE](https://www.reddit.com/r/WWEstreams/), [Rugby](https://www.reddit.com/r/rugbystreams/)
 
-**Youtube** 
+**YouTube** 
 
 * [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
 * [**Youtube Movies Multireddit**](https://www.reddit.com/user/nbatman/m/streaming/) - (Youtube streaming subreddits)
@@ -211,6 +213,7 @@
 * [PhattPhucks](https://tinyurl.com/yxcaokk3) - (Horror)
 * [Vulture](https://tinyurl.com/y55l9qe9) - (Classic/Horror)
 * [Classic Movies Channel](https://tinyurl.com/yyyunayn) - (Classic)
+* [TimelessClassicMovies](https://tinyurl.com/y4zgsovx) - (Classic)
 * [Mr. SPINKS!!](https://tinyurl.com/y6467v5u) - (Classic)
 * [WTvF!](https://tinyurl.com/y4z5uzom) - (Explotation)
 * [Deranged Visions](https://tinyurl.com/y2ll3vnk) - (Explotation)
@@ -258,6 +261,7 @@
 * r/GDriveLinks - (Google Drive Sub)
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Downloads)
 * *Direct Download Sites* - [IceFilms](https://tinyurl.com/ylzy97j), [HDEncode](https://tinyurl.com/yaq7ap94), [Amadei33](https://tinyurl.com/y3w7ja2g), [PSARips](https://tinyurl.com/ydz5l8dy), [Pahe](https://tinyurl.com/y6w8e26b), [480mkv](https://tinyurl.com/y5qdfftz), [Adit-HD](https://tinyurl.com/y2enx8vb), [RLSbb](https://tinyurl.com/y8ur5tzq),[Animekaizoku](https://tinyurl.com/yxqfdlex), (Anime), [Animetosho](https://tinyurl.com/83kpyt2) (Anime), [MyDLTube](https://tinyurl.com/y3ydd7jy)
+* [RareLust](https://tinyurl.com/yyuypz77) - (Rare NSFW Film DL's)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD Downloads)
 * [Download Sites](https://tinyurl.com/y3fzpvef) - (Full List)
 * You can stream Megalink files with [Megasync.](https://tinyurl.com/y3vvtwrx) Select the gear icon, stream, public link, paste, choose app & enjoy. 
