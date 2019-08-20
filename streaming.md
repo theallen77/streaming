@@ -6,7 +6,7 @@
 * [**LeonFlix**](https://tinyurl.com/y6vtutak) - (PC/Mac) - /r/leonflix 
 * [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (PC/Mac/Android)
 * [Kodi](https://tinyurl.com/zymo4y7) - (PC/Mac/Android/iOS) - /r/Addons4Kodi, [Tracker](https://tinyurl.com/y2ygqbyw) + [Trending](https://tinyurl.com/ycthlf8t)
-* Android/iOS apps at bottom
+* Android/iOS at bottom. Run apks on PC/Mac via [BlueStacks.](https://tinyurl.com/pf7ahx8)
 
 **Search**
 
@@ -228,7 +228,7 @@
 
 **Android/iOS**
 
-* **Note** - Android Streaming Apks Work On PC/Mac via emulators like [NoxPlayer.](https://tinyurl.com/m64pvhm) Download [AdGuard (Premium Unlocked)](https://tinyurl.com/y36xrkkd) or [Blokada](https://blokada.org/) to block ads in apps. [Opera](https://www.opera.com/mobile/operabrowser) for android has a built in adblocker. 
+* **Important** - Block Ads with [**AdGuard** (Premium Unlocked)](https://tinyurl.com/y36xrkkd) or [Blokada](https://blokada.org/). If using sites try [Opera](https://www.opera.com/mobile/operabrowser) as it has a built in adblocker. 
 * [**TeaTV**](https://tinyurl.com/y6s36tkt) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**TVZion**](https://tinyurl.com/yyosrod4) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**BeeTV**](https://tinyurl.com/y6ze6k89) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
