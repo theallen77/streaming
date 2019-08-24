@@ -142,6 +142,7 @@
 * [Justdubs](https://tinyurl.com/yxk46cxf) - (JW Player, Big Library, 720p)
 * [Twist.moe](https://tinyurl.com/oyu5w85) - (Dedicated Server, Big Library, 1080p)
 * [GoGoAnime](https://tinyurl.com/y37d92my) or [AnimeSeries](https://tinyurl.com/y42yovha) - (Mixed Servers, Big Library, 720p)
+* [VidStreaming](https://tinyurl.com/y6ru87sr) - (Mixed Servers, Big Library, 720p)
 * [Dubbed Anime](https://tinyurl.com/yy9oeogy) - (+ Cartoons, Dedicated Server, Medium Library, 720p)
 * [Otakustream](https://tinyurl.com/y6rw3ge7) - (RapidVideo, Medium Library, 720p)
 * [AnimeHub](https://tinyurl.com/y63k7nn7) - (JW Player, Medium Library, 720p)
@@ -225,7 +226,7 @@
 * [CrickFRee](https://tinyurl.com/y543jv8j) - (Live Sports)
 * [MamaHD](https://tinyurl.com/y4se477p) - (Live Sports)
 * [More Live Sports Sites](https://tinyurl.com/ybsc8brq)
-* *Sports Streaming Subbreddits* - [NFL](https://www.reddit.com/r/nflstreams/), [MLB](https://www.reddit.com/r/MLBStreams/), [NHL](https://www.reddit.com/r/NHLStreams/), [NCAA Basketball](https://www.reddit.com/r/ncaaBBallStreams/), [CFB](https://www.reddit.com/r/CFBStreams/), [WWE](https://www.reddit.com/r/WWEstreams/), [Rugby](https://www.reddit.com/r/rugbystreams/)
+* *Sports Streaming Subbreddits* - /r/UFCstreamHD, /r/nflstreams, /r/MLBStreams, /r/NHLStreams, /r/ncaaBBallStreams, /r/CFBStreams, /r/WWEstreams, /r/rugbystreams
 
 **Android/iOS**
 
