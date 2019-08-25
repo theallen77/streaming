@@ -1,4 +1,5 @@
 * **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
+* [Books, Comics, Manga & Magazines](https://redd.it/cveubp)
 * [Suggest Sites/Changelog](https://redd.it/ccrmsv) 
 
 **Apps**
