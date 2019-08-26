@@ -149,6 +149,7 @@
 * [AnimeHub](https://tinyurl.com/y63k7nn7) - (JW Player, Medium Library, 720p)
 * [Anime Show](https://tinyurl.com/npeukxu) - (JW Player, Medium Library, 720p)
 * [Chia-Anime](https://tinyurl.com/y4vbk9fv) - (JW Player, Medium Library, 720p)
+* [AnimeFlix](https://tinyurl.com/y5yltekb) - (JW Player, Medium Library, 720p)
 * [Anime Rush](https://tinyurl.com/jx7vewu) - (JW Player, Medium Library, 720p)
 * [Anime HD 47](https://tinyurl.com/yxf7rbfe) - (JW Player, Medium Library, 720p)
 * [DarkAnime](https://tinyurl.com/y6daa756) - (JW Player, Small Library, 720p)
