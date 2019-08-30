@@ -29,6 +29,7 @@
 * [**Soap2Day**](https://tinyurl.com/y57ed4om) - (Movies, TV, Dedicated Server, Medium Library, 1080p)
 * [**Daxiv**](https://tinyurl.com/yd63n78v) - (Movies, TV, Anime, Dedicated Server, Medium Library, 1080p)
 * [**RainierLand**](https://tinyurl.com/y5ev24fz) - (Movies, TV, Anime, Dedicated Server, Medium Library, 1080p)
+* [**FlixGo**](https://tinyurl.com/y6pl2zbz) - (Movies, TV, Dedicated Server, Small Library)
 * [**HackIMDb**](https://tinyurl.com/yyj8awpq) - (Movies, Fembed Player, Medium Library, 1080p)  
 * [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Mixed Servers, Big Library, 1080p)
 * [M4uhd](https://tinyurl.com/y2lkjvwk), [M4uFree.tv](https://tinyurl.com/y7hf9et8) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, JW Player, Big Library, 1080p) 
