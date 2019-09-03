@@ -16,6 +16,7 @@
 * [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search Openload)
 * [OSR](https://tinyurl.com/y4d9qpxc) - (Search Openload, Streamango & Rapidvideo)
 * [MegaSearch](https://tinyurl.com/pvbf924) - (Search Openload/Mega)
+* [JustSearch](https://tinyurl.com/gtoenej) - (Search Legal Streaming Providers)
 * Add "site:drive.google.com" to a google search to search Google Drive 
 
 **1080p**
