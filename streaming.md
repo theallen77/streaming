@@ -72,6 +72,7 @@
 * [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV, JW Players, Big Library, 720p)
 * [5movies.live](https://tinyurl.com/y2fukz3y) - (Movies, Dedicated Server, TV, Medium Library, 720p)
 * [IMDb Freedrive](https://tinyurl.com/yybmqsds) - (Movies, TV, Dedicated Server, Small Library, 720p)
+* [Pluto.tv](https://tinyurl.com/n4d8sb5) - (Live TV, Movies, TV, Dedicated Server, Small Library, 720p)
 * [Vudu](https://tinyurl.com/yxa4hbtz) - (Movies, Dedicated Server, Small Library, 720p)
 * [Flixtor](https://tinyurl.com/y3c7leo8) - (Movies, TV, JW Player, Small Library, 720p)
 * [OnionPlay](https://tinyurl.com/y6xodbs7) - (Movies, TV, JW Player, Small Library, 720p) 
@@ -86,6 +87,7 @@
 * [UWatchfree](https://tinyurl.com/y2p8yhfl) - (Movies, TV, Netu Player, Medium Library, 720p)
 * [ZMovies](https://tinyurl.com/y5aqhrr9) or [Movies24](https://tinyurl.com/y2z956op) - (Movies, TV, Netu Player, Medium Library, 720p)
 * [AZMovies](https://tinyurl.com/y2s7c7ur) - (Movies, Dedicated Server, Small Library, 720p)
+* [Roku](https://tinyurl.com/y8ddb5be) - (Movies, TV, Dedicated Server, Small Library, 720p)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, Mixed servers, Small Library, 720p)
 * [Putlocker.to](https://tinyurl.com/y4d7pyrc) - (Movies, TV, Anime, Dedicated Server, Big Library, 720p)
 * [MovieJagg](https://tinyurl.com/y3hp7odx) - (Movies, Openload, Big Library, 720p)
@@ -96,13 +98,13 @@
 **SD**
 
 * **Note** - Many of the sites above have SD content as well
+* [**Tubi**](https://tinyurl.com/yd3sgrry) - (Movies, Dedicated Server, Big Library, SD)
 * [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://tinyurl.com/y38fhzgc) - (Movies, TV, Anime, Dedicated Server, Huge Library, SD/HD) 
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) - (Movies, TV, Anime, JW Player, Huge Library, SD) 
 * [**GoMovies**](https://tinyurl.com/y4xnzkvp) - (Movies, TV, Anime, Mixed Servers, Huge Library, SD)
 * [Primewire](https://tinyurl.com/y7densft) - (Movies, TV, Anime, Mixed Servers, Huge Library, SD)
 * [TeaTV](https://tinyurl.com/y67k3mrk) - (Movies, TV, Anime, Mixed Servers, Big Library, SD)
 * [123Movies.ooo](https://tinyurl.com/y6bh9zuu) - (Movies, TV, Mixed Servers, Big Library, SD/HD)
-* [Tubi](https://tinyurl.com/yd3sgrry) - (Movies, Dedicated Server, Small Library, SD)
 * [StreamDreams](https://tinyurl.com/y298659z) - (Movies, TV, Anime, Mixed Servers, Big Library, SD)
 * [VidCloud](https://tinyurl.com/ycw4lkgz) - (Movies, TV, Anime, JW Player, Medium Library, SD)
 * [WatchFree.ac](https://tinyurl.com/y4jwysar) - (Movies, TV, Mixed Servers, Big Library, SD)
