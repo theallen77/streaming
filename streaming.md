@@ -166,6 +166,7 @@
 
 **Specialty**
 
+* [**RareFilmm**](https://tinyurl.com/y5l8ot86) - (Rare/Forgotten Films)
 * [**SubMovies**](https://tinyurl.com/y3wjc6f2) - (Watch movies & TV with subtitles)
 * [**Club MST3k**](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
 * [Classic Cinema Online](https://tinyurl.com/27r9a5) - (Classic Films)
