@@ -261,7 +261,7 @@
 * [AnimeDLR](https://tinyurl.com/yylv7q8r) - (Anime, SD, Small Library)
 * [Mobdro](https://tinyurl.com/y5vycvtc) - (Live TV)
 * [SwiftStreams](https://tinyurl.com/y5g5858a) - (Live TV)
-* [r/ApksApps](https://tinyurl.com/y5kn3dru) - (Apps List)
+* r/ApksApps
 * [Android Movie Apps](https://tinyurl.com/y2s275uf) - (Apps List)
 * [r/AnimePiracy Apks](https://tinyurl.com/y35pteqj) - (Anime Apps List)
 
