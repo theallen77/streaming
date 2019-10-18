@@ -14,6 +14,7 @@
 **Search**
 
 * [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search Openload, Streamango, Rapidvideo, Vidcloud & more)
+* [**Netu.tv**](https://tinyurl.com/y6awyn6n) - (Click [blue box](https://tinyurl.com/y2o7pkpu) on any Netu video)
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search Openload via direct IMDB & TMDB IDs)
 * [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search Openload)
 * [OSR](https://tinyurl.com/y4d9qpxc) - (Search Openload, Streamango & Rapidvideo)
@@ -77,6 +78,7 @@
 * [IMDb Freedrive](https://tinyurl.com/yybmqsds) - (Movies, TV, Dedicated Server, Small Library, 720p)
 * [Pluto.tv](https://tinyurl.com/n4d8sb5) - (Live TV, Movies, TV, Dedicated Server, Small Library, 720p)
 * [Vudu](https://tinyurl.com/yxa4hbtz) - (Movies, Dedicated Server, Small Library, 720p)
+* [MovieFire](https://tinyurl.com/y36tj8w4) - (Movies, NetU, Small Library, 720p)
 * [Flixtor](https://tinyurl.com/y3c7leo8) - (Movies, TV, JW Player, Small Library, 720p)
 * [OnionPlay](https://tinyurl.com/y6xodbs7) - (Movies, TV, JW Player, Small Library, 720p) 
 * [Los-Movies](https://tinyurl.com/y262s4fw) - (Movies, TV, Mixed Servers, Big Library, 720p)
