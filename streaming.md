@@ -13,12 +13,11 @@
 
 **Search**
 
-* [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search Openload, Streamango, Rapidvideo, Vidcloud & more)
-* [**P4Pirate**](https://tinyurl.com/y4d9qpxc) - (Search Openload, Streamango & FEmbed)
-* [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search Openload via direct IMDB & TMDB IDs)
+* [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search GoUnlimited & more)
+* [**P4Pirate**](https://tinyurl.com/y4d9qpxc) - (Search FEmbed & more)
+* [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB IDs)
 * [Netu.tv](https://tinyurl.com/y6awyn6n) - (Click [blue box](https://tinyurl.com/y2o7pkpu) on any Netu video)
-* [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search Openload)
-* [MegaSearch](https://tinyurl.com/pvbf924) - (Search Openload/Mega)
+* [MegaSearch](https://tinyurl.com/pvbf924) - (Search Mega)
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Providers)
 * Add "site:drive.google.com" to a google search to search Google Drive 
 
@@ -34,7 +33,7 @@
 * [**FlixGo**](https://tinyurl.com/y6pl2zbz) - (Movies, TV, Dedicated Server, Small Library)
 * [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Mixed Servers, Big Library, 1080p)
 * [**RainierLand**](https://tinyurl.com/y5ev24fz) - (Movies, TV, Anime, Dedicated Server, Medium Library, 1080p)
-* [123Movies.mx](https://tinyurl.com/y3rk2ccp) - (Movies, TV, JW/Rapid Video, Big Library, 1080p) 
+* [123Movies.mx](https://tinyurl.com/y3rk2ccp) - (Movies, TV, JW, Big Library, 1080p) 
 * [M4uhd](https://tinyurl.com/y2lkjvwk), [M4uFree.tv](https://tinyurl.com/y7hf9et8) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, JW Player, Big Library, 1080p) 
 * [Popcornflix](https://tinyurl.com/y54s87k9) - (Movies, TV, Dedicated Server, Medium Library, 1080p)
 * [OneCinema](https://tinyurl.com/yy3jxq62) - (Movies, JW Player, Medium Library, 1080p)
@@ -53,12 +52,9 @@
 * [MovieMax](https://tinyurl.com/y2q469g2) - (Movies, JW Player, Small Library, 1080p)  
 * [Stream Likers](https://tinyurl.com/y2w55gef) - (Movies, TV, Mixed Servers, Small Library, 1080p)
 * [Crackle](https://tinyurl.com/ycotdtsk) - (Movies, TV, Dedicated Server, Small Library, 1080p)
-* [Portalultautv](https://tinyurl.com/y6bor2jw) - (Movies, TV, NetU/Openload Players, Medium Library, 1080p)
-* [C1nema](https://tinyurl.com/y2txu7xt) - (Movies, TV, Openload, Big Library, 1080p)
-* [Vmovee](https://tinyurl.com/y5okppou) - (Movies, TV, Openload, Medium Library, 1080p)
-* [Movie4u](https://tinyurl.com/y3745pdx) - (Movies, TV, Openload, Medium Library, 1080p)
+* [Portalultautv](https://tinyurl.com/y6bor2jw) - (Movies, TV, NetU, Medium Library, 1080p)
+* [C1nema](https://tinyurl.com/y2txu7xt) - (Movies, TV, Verystream/Vidlox, Big Library, 1080p)
 * [Ymovies](https://tinyurl.com/ychw2l6y) - (Movies, JW Player, Medium Library, 1080p)
-* [Megashare9](https://tinyurl.com/y6kj4q95) - (Movies, TV, Openload, Small Library, 1080p)
 * [Oakmovies](https://tinyurl.com/y2hljqqa) - (Movies, JW Player, Small Library, 1080p)
 * [SnagFilms](https://tinyurl.com/5aluuz) - (Movies, TV, Dedicated Server, Small Library, 1080p)
 
@@ -95,10 +91,8 @@
 * [Roku](https://tinyurl.com/y8ddb5be) - (Movies, TV, Dedicated Server, Small Library, 720p)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, Mixed servers, Small Library, 720p)
 * [Putlocker.to](https://tinyurl.com/y4d7pyrc) - (Movies, TV, Anime, Dedicated Server, Big Library, 720p)
-* [MovieJagg](https://tinyurl.com/y3hp7odx) - (Movies, Openload, Big Library, 720p)
 * [HDFlix](https://tinyurl.com/y9etmuvk) or [YesMovies.fun](https://tinyurl.com/y95qduzm) - (Movies, TV, Mixed Servers, Medium Library, 720p)  
-* [Doobi](https://tinyurl.com/y3krc3ae) - (Movies, TV, Openload, Small Library, 720p)
-* [ProSpice](https://tinyurl.com/y5w3u2kt) - (Movies, Openload, Small Library, 720p)
+* [Doobi](https://tinyurl.com/y3krc3ae) - (Movies, TV, OnlyStream, Small Library, 720p)
 
 **SD**
 
@@ -121,7 +115,6 @@
 * [**Watchepisodeseries**](https://tinyurl.com/yy6vngnl) or [WatchEpisodes](https://tinyurl.com/kzrdpkk) - (TV, Anime, Mixed Servers, Big Library, 1080p)
 * [**KissCartoon**](https://tinyurl.com/ycm25f9z) or [KimCartoon](https://tinyurl.com/y4xp3yny) - (Cartoons, JW Player, Big Library, 1080p)
 * [**Adult Swim**](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
-* [TVZion](https://tinyurl.com/y3mg2cv3) - (TV, Openload, Big Library, 720p)
 * [SeriesFree](https://tinyurl.com/y7onqc4r) - (TV, Anime, Mixed Servers, Medium Library, SD/HD) 
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Mixed Servers, Medium Library, SD)
 * [TVBox](https://tinyurl.com/yyrjyjz4) - (TV, Mixed Servers, Medium Library, SD)
