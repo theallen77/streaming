@@ -112,7 +112,7 @@
 
 * **Note** - Many of the sites above have TV as well
 * [**WatchSeries**](https://tinyurl.com/y48qbzg6) - (TV, Anime, Mixed Servers, Huge Library, SD/HD)
-* [**Watchepisodeseries**](https://tinyurl.com/yy6vngnl) or [WatchEpisodes](https://tinyurl.com/kzrdpkk) - (TV, Anime, Mixed Servers, Big Library, 1080p)
+* [**WatchEpisodes**](https://tinyurl.com/kzrdpkk) - (TV, Anime, Mixed Servers, Big Library, 1080p)
 * [**KissCartoon**](https://tinyurl.com/ycm25f9z) or [KimCartoon](https://tinyurl.com/y4xp3yny) - (Cartoons, JW Player, Big Library, 1080p)
 * [**Adult Swim**](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
 * [SeriesFree](https://tinyurl.com/y7onqc4r) - (TV, Anime, Mixed Servers, Medium Library, SD/HD) 
