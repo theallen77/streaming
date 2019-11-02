@@ -49,7 +49,6 @@
 * [YoMovies](https://tinyurl.com/y56r6jga) - (Movies, TV, VeryStream, Medium Library, 1080p)
 * [Putlockerfreely](https://tinyurl.com/y2r2k7o7) - (Movies, VeryStream, Medium Library, 1080p)
 * [Daxiv](https://tinyurl.com/yd63n78v) - (Movies, TV, Anime, Dedicated Server, Medium Library, 1080p)
-* [MovieMax](https://tinyurl.com/y2q469g2) - (Movies, JW Player, Small Library, 1080p)  
 * [Stream Likers](https://tinyurl.com/y2w55gef) - (Movies, TV, Mixed Servers, Small Library, 1080p)
 * [Crackle](https://tinyurl.com/ycotdtsk) - (Movies, TV, Dedicated Server, Small Library, 1080p)
 * [Portalultautv](https://tinyurl.com/y6bor2jw) - (Movies, TV, NetU, Medium Library, 1080p)
