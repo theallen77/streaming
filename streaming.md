@@ -37,6 +37,7 @@
 * [Popcornflix](https://tinyurl.com/y54s87k9) - (Movies, TV, Dedicated Server, Medium Library, 1080p)
 * [Genvideos](https://tinyurl.com/yynbep4b) - (Movies, TV, JW Player, Medium Library, 1080p)
 * [CineWhale](https://tinyurl.com/y3uh48sn) or [CineBloom](https://tinyurl.com/y4k9j8k9) - (Movies, TV, JW Player, Big Library, 1080p)
+* [Openload.bz](https://tinyurl.com/y2yshmvk) - (Movies, TV, JW Player, Big Library, 1080p) 
 * [Putlocker.vip](https://tinyurl.com/y52cbzlk) - (Movies, TV, Anime, Mixed Servers, Big Library 1080p)
 * [Khaanflix](https://tinyurl.com/y98muv8v) - (Movies, TV, Anime, JW Player, Big Library, 1080p)
 * [Ganol](https://tinyurl.com/ybhwkbmg) - (Movies, TV, Anime, JW Player, Big Library, 1080p)
@@ -61,7 +62,8 @@
 * [**Streamlord**](https://tinyurl.com/ybrtnppf) - (Movies, TV, JW Player, Medium Library, 720p)
 * [**IWannaWatch**](https://tinyurl.com/yxs2q99f) - (Movies, Spark Player, Big Library, 720p)
 * [**CMovies**](https://tinyurl.com/y2hbnwx4) - (Movies, TV, Anime, Mixed Servers, Huge Library, 720p)
-* [**Series9**](https://tinyurl.com/y75dvzxn) - (Movies, TV, Anime, Mixed Servers, Huge Library, 720p)
+* [**ZoeChip**](https://tinyurl.com/y3etfyg7) - (Movies, TV, Anime, Mixed Servers, Huge Library, 720p)
+* [Series9](https://tinyurl.com/y75dvzxn) - (Movies, TV, Anime, Mixed Servers, Huge Library, 720p)
 * [TopEuroPix](https://tinyurl.com/y3datoqg) or [HDeuropix](https://tinyurl.com/y4rn4p42) - (Movies, TV, Anime, NetU Player, Big Library, 720p)
 * [Yes! Movies](https://tinyurl.com/y49j28s3) or [Solarmoviez](https://tinyurl.com/y69bm4mf) - (Movies, TV, Anime, JW Player, Big Library, 720p)
 * [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV, JW Players, Big Library, 720p)
@@ -73,6 +75,7 @@
 * [Flixtor](https://tinyurl.com/y3c7leo8) - (Movies, TV, JW Player, Small Library, 720p)
 * [OnionPlay](https://tinyurl.com/y6xodbs7) - (Movies, TV, JW Player, Small Library, 720p) 
 * [Los-Movies](https://tinyurl.com/y262s4fw) - (Movies, TV, Mixed Servers, Big Library, 720p)
+* [Verystream.me](https://tinyurl.com/yy2n26e5) - (Movies, TV, Mixed Servers, Big Library, 720p)
 * [Spacemov](https://tinyurl.com/y2tluukl) - (Movies, TV, JW Player, Medium Library, 720p)
 * [Vumoo](https://tinyurl.com/y3q422ft) - (Movies, TV, JW Player, Small Library, 720p)
 * [1watchfree](https://tinyurl.com/y5o733hu) - (Movies, TV, JW Player, Small Library, 720p)
@@ -100,6 +103,7 @@
 * [123Movies.ooo](https://tinyurl.com/y6bh9zuu) - (Movies, TV, Mixed Servers, Big Library, SD/HD)
 * [StreamDreams](https://tinyurl.com/y298659z) - (Movies, TV, Anime, Mixed Servers, Big Library, SD)
 * [WatchFree.ac](https://tinyurl.com/y4jwysar) - (Movies, TV, Mixed Servers, Big Library, SD)
+* [New-Primewire](https://tinyurl.com/y6tjsf8x)  - (Movies, TV, Anime, Mixed Servers, Big Library, SD)
 
 **TV**
 
@@ -107,7 +111,8 @@
 * [**WatchSeries**](https://tinyurl.com/y48qbzg6) - (TV, Anime, Mixed Servers, Huge Library, SD/HD)
 * [**WatchEpisodes**](https://tinyurl.com/kzrdpkk) - (TV, Anime, Mixed Servers, Big Library, 1080p)
 * [**KissCartoon**](https://tinyurl.com/ycm25f9z) or [KimCartoon](https://tinyurl.com/y4xp3yny) - (Cartoons, JW Player, Big Library, 1080p)
-* [**Adult Swim**](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
+* [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
+* [SimpsonsWorld](https://tinyurl.com/y5pqzqsl) - (Simpsons episodes)
 * [SeriesFree](https://tinyurl.com/y7onqc4r) - (TV, Anime, Mixed Servers, Medium Library, SD/HD) 
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Mixed Servers, Medium Library, SD)
 * [TVBox](https://tinyurl.com/yyrjyjz4) - (TV, Mixed Servers, Medium Library, SD)
@@ -115,6 +120,7 @@
 * [TopCartoons](https://tinyurl.com/y2yt2k9q) - (Cartoons, JW Player, Small Library, SD)
 * [Toonova](https://tinyurl.com/y6hlns9h) - (Cartoons, Mixed Servers, Medium Library, SD)
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoons, RapidVideo, Small Library, SD)
+* [b98](https://tinyurl.com/y35mbjyo) - (Cartoons, JW Player, Small Library, SD)
 * [123TV](https://tinyurl.com/y72b3y7s) - (Live TV)
 * [LiveTVCafe](https://tinyurl.com/yc2a5bmd) - (Live TV)
 * [Pluto.tv](https://tinyurl.com/n4d8sb5) - (Live TV)
@@ -174,6 +180,7 @@
 * [DramaCool](https://tinyurl.com/y2bwycvx) - (Foreign)
 * [DaebakDrama](https://tinyurl.com/y5t883lv) - (Korean)
 * [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
+* [VK](https://bit.ly/2NyWSKd) - (Obscure Movies)
 * [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
 
 **YouTube** 
@@ -259,6 +266,7 @@
 
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
 * [Direct DL Sites](https://tinyurl.com/yyzv49rv) - (List)
+* [xpause](https://tinyurl.com/yyhl7aja) - (DL's)
 * [filechef](https://tinyurl.com/y8cgtd8t) - (Search DL's)
 * [Iplive](https://tinyurl.com/yxjho6up) - (Search DL's)
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive DL's)
