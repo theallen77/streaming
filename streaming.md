@@ -280,9 +280,9 @@
 **Torrent** 
 
 * **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the apps below.
+* [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App) (Android compatible.) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
 * [**Popcorn Time**](https://tinyurl.com/h3c36ec) - (Torrent Streaming App) (Android compatible.)
 * [Flixerr](https://tinyurl.com/y59eeheg) - (Torrent Streaming App)
-* [Stremio](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App) (*Get All Available Add-Ons!*) (Android compatible.)
 * You can automatically stream any Magnet Link or .Torrent File from the sites below by pasting them into [Sodaplayer](https://tinyurl.com/y7jp5uz7) or [BitLord.](https://tinyurl.com/3c97z9) Popcorn Time & Streamio have this feature as well.
 * [Magnetoo](https://tinyurl.com/y5c5mojq) - Stream movie torrents via browser 
 * [BTorrent](https://tinyurl.com/y6l3krsx) - Download/stream torrents from browser 
