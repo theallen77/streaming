@@ -16,7 +16,7 @@
 * [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search GoUnlimited & more)
 * [**P4Pirate**](https://tinyurl.com/y4d9qpxc) - (Search FEmbed & more)
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB IDs)
-* [Netu.tv](https://tinyurl.com/y6awyn6n) - (Click [blue box](https://tinyurl.com/y2o7pkpu) on any Netu video, IMDB ID's work)
+* [Netu.tv](https://tinyurl.com/y2crxmbb) - (Click [blue box](https://tinyurl.com/y2o7pkpu) on any Netu video, IMDB ID's work)
 * [MegaSearch](https://tinyurl.com/pvbf924) - (Search Mega)
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Providers)
 * Add "site:drive.google.com" to a google search to search Google Drive 
