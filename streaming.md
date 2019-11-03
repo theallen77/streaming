@@ -299,5 +299,6 @@
 * [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Pirate Homepage)
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
 * /r/MovieStreamingSites - (Streaming Sites Sub)
+* [SubShifter](https://tinyurl.com/y7wt6gv8) - (Change timing of subtitles to match your video)
 * [Shortlinks](https://tinyurl.com/y4osv5xt) - (Easily Share/Save Post)
 * Backups - [Github](https://tinyurl.com/yy44atmj) & [Pastebin](https://tinyurl.com/yynsqkl2)
