@@ -66,6 +66,7 @@
 * [**ZoeChip**](https://tinyurl.com/y3etfyg7) - (Movies, TV, Anime, Mixed Servers, Huge Library, 720p)
 * [**Openload.watch**](https://tinyurl.com/y5m6hbea) - (Movies, TV, Anime, VidSRC, Big Library, 720p)
 * [TopEuroPix](https://tinyurl.com/y3datoqg) or [HDeuropix](https://tinyurl.com/y4rn4p42) - (Movies, TV, Anime, NetU Player, Big Library, 720p)
+* [123movie.page](https://tinyurl.com/yyy6s5by) - (Movies, TV, Anime, GoMo, Big Library, 720p)
 * [Series9](https://tinyurl.com/y75dvzxn) - (Movies, TV, Anime, Mixed Servers, Huge Library, 720p)
 * [Yes! Movies](https://tinyurl.com/y49j28s3) or [Solarmoviez](https://tinyurl.com/y69bm4mf) - (Movies, TV, Anime, JW Player, Big Library, 720p)
 * [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV, JW Players, Big Library, 720p)
