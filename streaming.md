@@ -214,6 +214,7 @@
 
 **Sports**
 
+* [**Highlightstore**](https://tinyurl.com/v6tr26h) - (Full Replays all sports)
 * [**NBAfullhd**](https://tinyurl.com/y3528nze), [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
 * [**Watchraw**](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
 * [**Rutracker**](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
