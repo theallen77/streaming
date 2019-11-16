@@ -218,7 +218,7 @@
 * [**Watchraw**](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
 * [**Rutracker**](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
 * [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA/Wrestling Events)
-* [**AllWrestling**](https://tinyurl.com/y2d2joba) - (Full MMA/Wrestling Events)
+* [**AllWrestling**](https://tinyurl.com/vbblfdg) - (Full MMA/Wrestling Events)
 * [**Bellator**](https://tinyurl.com/y63ejnbd) - (Full Events)
 * [Kodi MMA Apps](https://tinyurl.com/yylxq89g)
 * MMA Videos - [MMA Core](https://tinyurl.com/y2qkxvwa), [MMA Versus](https://tinyurl.com/y4a4vrl8), [All The Best Fights](https://tinyurl.com/yymvf7hs), [r/MMAFights](https://www.reddit.com/r/mmafights/)
