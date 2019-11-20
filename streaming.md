@@ -239,12 +239,12 @@
 **Android/iOS**
 
 * **Important** - Block Ads with [**AdGuard** (Premium Unlocked)](https://tinyurl.com/y36xrkkd), [AdAway](https://tinyurl.com/yavxv6zr) or [Blokada](https://tinyurl.com/yxllgklz). If using sites try [Opera](https://www.opera.com/mobile/operabrowser) as it has a built in adblocker. Apks work on PC/Mac via [BlueStacks](https://tinyurl.com/pf7ahx8) or [Nox.](https://tinyurl.com/l6pxakt)
-* [**TeaTV**](https://tinyurl.com/y6s36tkt) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**TVZion**](https://tinyurl.com/y2lgr3uz) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**BeeTV**](https://tinyurl.com/y6ze6k89) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**CotoMovies**](https://tinyurl.com/y23vttk7) - (Movies, TV, Anime, 1080p, Medium Library, Chromecast, **iOS**)
 * [**Crunchyroll**](https://tinyurl.com/y4gxzr9f) - (Premium Features unlocked, Anime, 1080p)
 * [Kodi](https://tinyurl.com/zymo4y7) - (Android/**iOS**) - /r/Addons4Kodi, [Tracker](https://tinyurl.com/y2ygqbyw) + [Trending](https://tinyurl.com/ycthlf8t)
+* [TeaTV](https://tinyurl.com/y6s36tkt) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [MediaBoxHD](https://tinyurl.com/y2gefs4a) - (Movies, TV, 1080p, Medium library, Chromecast, **iOS**)
 * [UnlockMyTV](https://tinyurl.com/y5po32l9) or [Cinema HD Movies](https://tinyurl.com/yalfc2m9) - (Movies, TV, Anime, 1080p, Big Library, Chromecast)
 * [AnimeGlare](https://tinyurl.com/y4capwf7) - (Anime, Some 1080p/720p, Chromecast, **iOS**)
