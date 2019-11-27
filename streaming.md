@@ -13,7 +13,7 @@
 **Search**
 
 * [**P4Pirate**](https://tinyurl.com/wl3qkzu) - (Search Google Drive & more)
-* [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Player at bottom of page, Click [blue box](https://tinyurl.com/y2o7pkpu) on any Netu video, IMDB ID's work)
+* [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Click [blue box](https://tinyurl.com/y2o7pkpu) on player at bottom of page, IMDB ID's work)
 * [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search Multiple Players)
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB IDs)
 * [MegaSearch](https://tinyurl.com/pvbf924) - (Search Mega)
