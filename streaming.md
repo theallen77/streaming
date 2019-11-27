@@ -87,6 +87,7 @@
 * [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, NetU Player, Big Library, 720p)
 * [UWatchfree](https://tinyurl.com/y2p8yhfl) - (Movies, TV, Netu Player, Medium Library, 720p)
 * [ZMovies](https://tinyurl.com/y5aqhrr9) or [Movies24](https://tinyurl.com/y2z956op) - (Movies, TV, Netu Player, Medium Library, 720p)
+* [Yesmovies.tech](https://tinyurl.com/w6odsye) - (Movies, JW Player, Medium Library, 720p)
 * [AZMovies](https://tinyurl.com/y2s7c7ur) - (Movies, Dedicated Server, Small Library, 720p)
 * [Roku](https://tinyurl.com/y8ddb5be) - (Movies, TV, Dedicated Server, Small Library, 720p)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, Mixed servers, Small Library, 720p)
