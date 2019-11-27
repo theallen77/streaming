@@ -24,11 +24,11 @@
 **1080p**
 
 * [**LookMovie**](https://tinyurl.com/y95z3flk) - (Movies, TV, Dedicated Server, Big Library, 1080p) 
+* [**Soap2Day**](https://tinyurl.com/y57ed4om) - (Movies, TV, Dedicated Server, Big Library, 1080p)
 * [**MovieJoy**](https://tinyurl.com/y2hmozd9) or [F2Movie](https://tinyurl.com/y4k8l26k) - (Movies, TV, Anime, Mixed Servers, Huge Library, 1080p)
 * [**5Movies**](https://tinyurl.com/y3ckcq79) - (Movies, TV, Anime, Mixed Servers, Huge Library, 1080p) 
 * [**2TwoMovies**](https://tinyurl.com/y3pry22t) - (Movies, TV, Anime, Mixed Servers, Huge Library, 1080p) 
 * [**Vikv**](https://tinyurl.com/y2dg76vm) - (Movies, Dedicated Server, Big Library, 1080p)
-* [**Soap2Day**](https://tinyurl.com/y57ed4om) - (Movies, TV, Dedicated Server, Medium Library, 1080p)
 * [**FlixGo**](https://tinyurl.com/y6pl2zbz) - (Movies, TV, Dedicated Server, Small Library)
 * [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Mixed Servers, Big Library, 1080p)
 * [**RainierLand**](https://tinyurl.com/y5ev24fz) - (Movies, TV, Anime, Dedicated Server, Medium Library, 1080p)
@@ -191,7 +191,7 @@
 * [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
 * [**Youtube Movies Multireddit**](https://www.reddit.com/user/nbatman/m/streaming/) - (Youtube streaming subreddits)
 * [**Official YT Movies**](https://tinyurl.com/ya3zskdv) - (Free with Ads)
-* [Full YouTube Movies](https://tinyurl.com/y4e3l4cv) - (Blog that posts Movies on Youtube, Dead?)
+* [Vanced](https://tinyurl.com/ya86n837) - (Android YT w/ background play, no ads & dark mode)
 * [TromaMovies](https://tinyurl.com/kd2v3hg) - (Horror)
 * [KingsofHorror](https://tinyurl.com/y2xk4rv5) - (Horror)
 * [MutantSorority](https://tinyurl.com/y6q8n74f) - (Horror)
@@ -212,6 +212,7 @@
 * [Popcornflix](https://tinyurl.com/yxwszlmw) - (General Movies)
 * [Artflix](https://tinyurl.com/y3owmkjy) - (General Movies)
 * [Flixdome](https://tinyurl.com/y67hygqg) - (General Movies)
+* [Full YouTube Movies](https://tinyurl.com/y4e3l4cv) - (Blog that posts Movies on Youtube, Dead?)
 
 **Sports**
 
