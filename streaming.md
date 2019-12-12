@@ -69,7 +69,7 @@
 
 * [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Big Library, 1080p)
 * [**MovieJoy**](https://tinyurl.com/y2hmozd9), [ZoeChip](https://tinyurl.com/y3etfyg7), [Attacker.tv](https://tinyurl.com/uopmpow) or [F2Movie](https://tinyurl.com/y4k8l26k) - (Movies, TV, Anime, Huge Library, 1080p)
-* [**1movies.is**](https://tinyurl.com/y8wd57n3) - (Movies, TV, Anime, Huge Library, 720p) 
+* [**1movies.is**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p) 
 * [**Streamlord**](https://tinyurl.com/ybrtnppf) - (Movies, TV, Medium Library, 720p)
 * [**M4uhd**](https://tinyurl.com/y2lkjvwk), [M4uFree.tv](https://tinyurl.com/y7hf9et8) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, Big Library, 1080p) 
 * [**Yes! Movies**](https://tinyurl.com/y49j28s3) or [Solarmoviez](https://tinyurl.com/y69bm4mf) - (Movies, TV, Anime, Big Library, 1080p)
@@ -89,7 +89,6 @@
 * [Bmovies.nl](https://tinyurl.com/y266yqpn) or [1movies.pl](https://tinyurl.com/y87nunr5) - (Movies, TV, Anime, Big Library, 720p)
 * [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV, Big Library, 720p)
 * [Openload.watch](https://tinyurl.com/y5m6hbea) - (Movies, TV, Anime, Big Library, 720p)
-* [New-Primewire](https://tinyurl.com/y6tjsf8x)  - (Movies, TV, Anime, Big Library, 720p)
 * [HDFlix](https://tinyurl.com/y9etmuvk) or [YesMovies.fun](https://tinyurl.com/y95qduzm) - (Movies, TV, Medium Library, 1080p)  
 * [MovieMax](https://tinyurl.com/wdxa2sy) - (Movies, Medium Library, 720p)
 * [UWatchfree](https://tinyurl.com/y2p8yhfl) - (Movies, TV, Medium Library, 720p)
