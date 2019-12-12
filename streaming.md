@@ -90,7 +90,7 @@
 * [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV, Big Library, 720p)
 * [Openload.watch](https://tinyurl.com/y5m6hbea) - (Movies, TV, Anime, Big Library, 720p)
 * [New-Primewire](https://tinyurl.com/y6tjsf8x)  - (Movies, TV, Anime, Big Library, 720p)
-* [HDFlix](https://tinyurl.com/y9etmuvk) or [YesMovies.fun](https://tinyurl.com/y95qduzm) - (Movies, TV, Medium Library, 720p)  
+* [HDFlix](https://tinyurl.com/y9etmuvk) or [YesMovies.fun](https://tinyurl.com/y95qduzm) - (Movies, TV, Medium Library, 1080p)  
 * [MovieMax](https://tinyurl.com/wdxa2sy) - (Movies, Medium Library, 720p)
 * [UWatchfree](https://tinyurl.com/y2p8yhfl) - (Movies, TV, Medium Library, 720p)
 * [OnionPlay](https://tinyurl.com/v8k74np) - (Movies, TV, Small Library, 1080p) 
