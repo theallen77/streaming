@@ -46,7 +46,7 @@
 * [Pluto.tv](https://tinyurl.com/n4d8sb5) - (Live TV, Movies, TV, Small Library, 720p)
 * [Tubi](https://tinyurl.com/yd3sgrry) - (Movies, Big Library, SD)
 
-**JW Players**
+**JW Servers**
 
 * [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Big Library, 1080p)
 * [**MovieJoy**](https://tinyurl.com/y2hmozd9), [ZoeChip](https://tinyurl.com/y3etfyg7), [Attacker.tv](https://tinyurl.com/uopmpow) or [F2Movie](https://tinyurl.com/y4k8l26k) - (Movies, TV, Anime, Huge Library, 1080p)
@@ -80,7 +80,7 @@
 * [Los-Movies](https://tinyurl.com/rdexz2c) - (Movies, TV, Big Library, 720p)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, Small Library, 720p)
 
-**NetU Players**
+**NetU Servers**
 
 * [Portalultautv](https://tinyurl.com/y6bor2jw) - (Movies, TV, Medium Library, 1080p)
 * [TopEuroPix](https://tinyurl.com/y3datoqg) or [HDeuropix](https://tinyurl.com/y4rn4p42) - (Movies, TV, Anime, Big Library, 720p)
@@ -89,7 +89,7 @@
 * [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, Big Library, 720p)
 * [MovieFire](https://tinyurl.com/y36tj8w4) - (Movies, Small Library, 720p)
 
-**Mixed Players**
+**Mixed Servers**
 
 * [**5Movies**](https://tinyurl.com/y3ckcq79) - (Movies, TV, Anime, Huge Library, 1080p) 
 * [**123movie.page**](https://tinyurl.com/yyy6s5by) - (Movies, TV, Anime, Big Library, 720p)
