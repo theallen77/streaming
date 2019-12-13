@@ -78,6 +78,7 @@
 * [Openload.bz](https://tinyurl.com/y2yshmvk) - (Movies, TV, Big Library, 1080p) 
 * [Putlocker.vip](https://tinyurl.com/y52cbzlk) - (Movies, TV, Anime, Big Library 1080p)
 * [Movie4u](https://tinyurl.com/y3745pdx) - (Movies, TV, Big Library, 1080p)
+* [HDM](https://tinyurl.com/wfjwurr) - (Movies, TV, Medium Library, 1080p)
 * [Nites](https://tinyurl.com/y4fspmxn) - (Movies, Medium Library, 1080p)
 * [Moononline](https://tinyurl.com/y66w8wne) - (Movies, Small Library, 1080p)
 * [Ymovies](https://tinyurl.com/ychw2l6y) - (Movies, Medium Library, 1080p)
