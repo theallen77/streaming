@@ -67,7 +67,7 @@
 ###JW Hosts
 
 * [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Big Library, 1080p)
-* [**MovieJoy**](https://tinyurl.com/y2hmozd9), [ZoeChip](https://tinyurl.com/y3etfyg7), [Attacker.tv](https://tinyurl.com/uopmpow) or [F2Movie](https://tinyurl.com/y4k8l26k) - (Movies, TV, Anime, Huge Library, 1080p)
+* [**F2Movie**](https://tinyurl.com/y4k8l26k), [ZoeChip](https://tinyurl.com/y3etfyg7), [Attacker.tv](https://tinyurl.com/uopmpow) or [MovieJoy](https://tinyurl.com/y2hmozd9) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p) 
 * [**Streamlord**](https://tinyurl.com/ybrtnppf) - (Movies, TV, Medium Library, 720p)
 * [**M4uhd**](https://tinyurl.com/y2lkjvwk), [M4uFree.tv](https://tinyurl.com/y7hf9et8) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, Big Library, 1080p) 
