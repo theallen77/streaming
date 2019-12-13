@@ -341,4 +341,4 @@
 * [SubShifter](https://tinyurl.com/y7wt6gv8) - (Change timing of subtitles to match your video)
 * [Shortlinks](https://tinyurl.com/y4osv5xt) - (Easily Share/Save Post)
 * Backup - [Github](https://tinyurl.com/yxj5eev6)
-* Follow me on [Letterboxd](https://letterboxd.com/imtoad/)
+* *Follow me on [Letterboxd](https://letterboxd.com/imtoad/)* 
