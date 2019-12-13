@@ -83,7 +83,7 @@
 * [Ymovies](https://tinyurl.com/ychw2l6y) - (Movies, Medium Library, 1080p)
 * [1watchfree](https://tinyurl.com/y5o733hu) - (Movies, TV, Small Library, 1080p)
 * [Genvideos](https://tinyurl.com/yynbep4b) - (Movies, TV, Medium Library, 1080p)
-* [Yesmovies.tech](https://tinyurl.com/w6odsye) - (Movies, Medium Library, 1080p)
+* [Yesmovies.tech](https://tinyurl.com/w6odsye), [Clone Sites](https://tinyurl.com/vzobzmq) - (Movies, Medium Library, 1080p)
 * [HackIMDb](https://tinyurl.com/yyj8awpq) - (Movies, Medium Library, 1080p)  
 * [DutaFilm](https://tinyurl.com/skjaz6h) - (Movies, TV, Anime, Big Library, 1080p)
 * [Bmovies.nl](https://tinyurl.com/y266yqpn) or [1movies.pl](https://tinyurl.com/y87nunr5) - (Movies, TV, Anime, Big Library, 720p)
