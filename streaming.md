@@ -338,7 +338,8 @@
 * [WebOas.is](https://tinyurl.com/ycmfrdu4) - (Pirate Homepage)
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
 * /r/MovieStreamingSites - (Streaming Sites Sub)
+* Openvideo - (Plays streams in new player, add subs, bypass ads & more) [Firefox](https://tinyurl.com/y3lpnpgo), [Chrome](https://tinyurl.com/y276xn9a)
 * [SubShifter](https://tinyurl.com/y7wt6gv8) - (Change timing of subtitles to match your video)
 * [Shortlinks](https://tinyurl.com/y4osv5xt) - (Easily Share/Save Post)
 * Backup - [Github](https://tinyurl.com/yxj5eev6)
-* *Follow me on [Letterboxd](https://letterboxd.com/imtoad/)* 
+* *Follow me on [Letterboxd](https://letterboxd.com/imtoad/)*
