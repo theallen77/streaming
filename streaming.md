@@ -68,6 +68,7 @@
 ###JW Hosts
 
 * [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Big Library, 1080p)
+* [**Ymovies**](https://tinyurl.com/ychw2l6y) - (Movies, Big Library, 1080p)
 * [**F2Movie**](https://tinyurl.com/y4k8l26k), [Clone Sites](https://tinyurl.com/uz43lxa) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p) 
 * [**Streamlord**](https://tinyurl.com/ybrtnppf) - (Movies, TV, Medium Library, 720p)
@@ -81,7 +82,6 @@
 * [HDM](https://tinyurl.com/wfjwurr) - (Movies, TV, Medium Library, 1080p)
 * [Nites](https://tinyurl.com/y4fspmxn) - (Movies, Medium Library, 1080p)
 * [Moononline](https://tinyurl.com/y66w8wne) - (Movies, Small Library, 1080p)
-* [Ymovies](https://tinyurl.com/ychw2l6y) - (Movies, Medium Library, 1080p)
 * [1watchfree](https://tinyurl.com/y5o733hu) - (Movies, TV, Small Library, 1080p)
 * [Genvideos](https://tinyurl.com/yynbep4b) - (Movies, TV, Medium Library, 1080p)
 * [Yesmovies.tech](https://tinyurl.com/w6odsye), [Clone Sites](https://tinyurl.com/vzobzmq) - (Movies, Medium Library, 1080p)
