@@ -347,4 +347,4 @@
 * [Dead Sites/Apps](https://tinyurl.com/rap22mu) - (In case they come back online)
 * [Shortlinks](https://tinyurl.com/y4osv5xt) - (Share/Save Post)
 * Backup - [Github](https://tinyurl.com/yxj5eev6)
-* *Follow me on [Letterboxd](https://letterboxd.com/imtoad/)*
+* *Follow on [Letterboxd](https://letterboxd.com/imtoad/)*
