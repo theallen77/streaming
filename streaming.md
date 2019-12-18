@@ -205,7 +205,8 @@
 
 ###YouTube 
 
-* note - [YouTube](https://www.youtube.com/) has thousands of films so it's worth checking if looking for obscure content. If you're on android try [Vanced](https://tinyurl.com/ya86n837) (Background play, no ads & dark mode)
+* If you're on android try [Vanced](https://tinyurl.com/ya86n837) - (Background play, no ads & dark mode)
+* [YouTube](https://www.youtube.com/) 
 * [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
 * [**Youtube Movies Multireddit**](https://www.reddit.com/user/nbatman/m/streaming/) - (Youtube streaming subreddits)
 * [**Official YT Movies**](https://tinyurl.com/ya3zskdv) - (Free with Ads)
@@ -325,7 +326,7 @@
 * **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the apps below.
 * [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App) (Android compatible.) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
 * [**Popcorn Time**](https://tinyurl.com/h3c36ec) - (Torrent Streaming App) (Android compatible.)
-* [Flixerr](https://tinyurl.com/y59eeheg) - (Torrent Streaming App)
+* [**Flixerr**](https://tinyurl.com/y59eeheg) - (Torrent Streaming App)
 * [Sodaplayer](https://tinyurl.com/y7jp5uz7) - (Torrent Streaming App)
 * [BitLord](https://tinyurl.com/3c97z9) - (Torrent Streaming App)
 * [Magnetoo](https://tinyurl.com/y5c5mojq) - (Stream movie torrents via browser) 
