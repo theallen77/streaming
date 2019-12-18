@@ -20,7 +20,6 @@
 * [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search Multiple Players)
 * [**CrocoVid**](https://tinyurl.com/vood4uo) - (Search Multiple Players)
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB IDs)
-* [MegaSearch](https://tinyurl.com/pvbf924) - (Search Mega)
 * [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search NetU & more)
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Providers)
 * Add "site:drive.google.com" to a google search to search Google Drive 
@@ -315,6 +314,7 @@
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD DL's)
 * [Animekaizoku](https://tinyurl.com/yxqfdlex), [Animetosho](https://tinyurl.com/83kpyt2) - (Direct DL Anime)
 * [RareLust](https://tinyurl.com/yyuypz77) - (Rare NSFW Film DL's)
+* [MegaSearch](https://tinyurl.com/pvbf924) - (Search Mega)
 * You can stream Megalink files with [Megasync.](https://tinyurl.com/y3vvtwrx) Select the gear icon, stream, public link, paste, choose app & enjoy. 
 
 ***
