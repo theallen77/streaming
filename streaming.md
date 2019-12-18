@@ -206,7 +206,7 @@
 
 ###YouTube 
 
-* If you're on android try [Vanced](https://tinyurl.com/ya86n837) - (Background play, no ads & dark mode)
+* If on android try [Vanced](https://tinyurl.com/ya86n837) - (Background play, no ads & dark mode)
 * [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
 * [**Youtube Movies Multireddit**](https://www.reddit.com/user/nbatman/m/streaming/) - (Youtube streaming subreddits)
 * [**Official YT Movies**](https://tinyurl.com/ya3zskdv) - (Free with Ads)
