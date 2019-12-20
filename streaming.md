@@ -58,7 +58,7 @@
 ###JW Hosts
 
 * [**HiMovies**](https://tinyurl.com/wmh7yrc), [Clone Sites](https://tinyurl.com/uew6urb) - (Movies, TV, Anime, Huge Library, 1080p)
-* [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Huge Library, 1080p)
+* [**FMovies**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**Ymovies**](https://tinyurl.com/ychw2l6y) - (Movies, Huge Library, 1080p)
 * [**M4uhd**](https://tinyurl.com/y2lkjvwk), [M4uFree.tv](https://tinyurl.com/y7hf9et8) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, Big Library, 1080p) 
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p) 
