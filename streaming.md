@@ -18,7 +18,7 @@
 * [**P4Pirate**](https://tinyurl.com/wl3qkzu) - (Search Google Drive & more)
 * [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Click [blue box](https://tinyurl.com/y2o7pkpu) on player at bottom of page, IMDB ID's work)
 * [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search Multiple Players)
-* [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB IDs)
+* [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB ID's)
 * [CrocoVid](https://tinyurl.com/vood4uo) - (Search Multiple Players)
 * [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search NetU & more)
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Providers)
