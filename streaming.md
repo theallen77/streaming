@@ -55,21 +55,10 @@
 
 ***
 
-###NetU Hosts
-
-* [**TopEuroPix**](https://tinyurl.com/y3datoqg) or [HDeuropix](https://tinyurl.com/y4rn4p42) - (Movies, TV, Anime, Big Library, 720p)
-* [**5movies.live**](https://tinyurl.com/y2fukz3y) - (Movies, TV, Big Library, 720p)
-* [Portalultautv](https://tinyurl.com/y6bor2jw) - (Movies, TV, Medium Library, 1080p)
-* [WatchFree.ac](https://tinyurl.com/y4jwysar) - (Movies, TV, Big Library, SD)
-* [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, Big Library, 720p)
-* [MovieFire](https://tinyurl.com/y36tj8w4) - (Movies, Small Library, 720p)
-
-***
-
 ###JW Hosts
 
-* [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Big Library, 1080p)
 * [**HiMovies**](https://tinyurl.com/wmh7yrc), [Clone Sites](https://tinyurl.com/uz43lxa) - (Movies, TV, Anime, Huge Library, 1080p)
+* [**FMovie**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**Ymovies**](https://tinyurl.com/ychw2l6y) - (Movies, Big Library, 1080p)
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p) 
 * [**Streamlord**](https://tinyurl.com/ybrtnppf) - (Movies, TV, Medium Library, 720p)
@@ -99,6 +88,17 @@
 * [Vumoo](https://tinyurl.com/y3q422ft) - (Movies, TV, Small Library, 720p)
 * [Los-Movies](https://tinyurl.com/rdexz2c) - (Movies, TV, Big Library, 720p)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, Small Library, 720p)
+
+***
+
+###NetU Hosts
+
+* [**TopEuroPix**](https://tinyurl.com/y3datoqg) or [HDeuropix](https://tinyurl.com/y4rn4p42) - (Movies, TV, Anime, Big Library, 720p)
+* [**5movies.live**](https://tinyurl.com/y2fukz3y) - (Movies, TV, Big Library, 720p)
+* [Portalultautv](https://tinyurl.com/y6bor2jw) - (Movies, TV, Medium Library, 1080p)
+* [WatchFree.ac](https://tinyurl.com/y4jwysar) - (Movies, TV, Big Library, SD)
+* [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, Big Library, 720p)
+* [MovieFire](https://tinyurl.com/y36tj8w4) - (Movies, Small Library, 720p)
 
 ***
 
