@@ -21,8 +21,12 @@
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB ID's)
 * [CrocoVid](https://tinyurl.com/vood4uo) - (Search Multiple Players)
 * [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search NetU & more)
+* [OK](https://tinyurl.com/t2my7vq) - (Obscure Movies)
+* [YouTube](https://www.youtube.com/) - (Obscure Movies)
+* [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Providers)
-* Add "site:drive.google.com" to a google search to search Google Drive 
+* Add "site:drive.google.com" to a search to search Google Drive 
+* Add "site:vk.com" to a search to search VK
 
 ***
 
@@ -201,10 +205,6 @@
 * [Eroti.ga](https://tinyurl.com/y3gpuqba) - (NSFW movies)
 * [7StarHD](https://tinyurl.com/y39x6ovg) - (NSFW movies)
 * [PornDude](https://tinyurl.com/npbgc2c) - (NSFW Sites List)
-* [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
-* [VK](https://bit.ly/2NyWSKd) - (Obscure Movies)
-* [OK](https://tinyurl.com/t2my7vq) - (Obscure Movies)
-* [YouTube](https://www.youtube.com/) - (Obscure Movies)
 * [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
 
 ***
