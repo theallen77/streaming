@@ -39,6 +39,7 @@
 * [**Vmovee**](https://tinyurl.com/y5okppou) - (Movies, TV, Big Library, 1080p)
 * [**CineWhale**](https://tinyurl.com/y3uh48sn) or [CineBloom](https://tinyurl.com/y4k9j8k9) - (Movies, TV, Big Library, 1080p)
 * [**HDBest**](https://tinyurl.com/y2dg76vm) or [VikV](https://tinyurl.com/rw5k6q2) - (Movies, Big Library, 1080p)
+* [WatchMoviesNow](https://tinyurl.com/s35rsvs) - (Movies, Medium Library, 720p, Megaplayer)
 * [Daxiv](https://tinyurl.com/yd63n78v) - (Movies, TV, Anime, Big Library, 1080p)
 * [GoStream](https://tinyurl.com/y2tluukl) - (Movies, TV, Medium Library, 720p)
 * [FlixGo](https://tinyurl.com/y6pl2zbz) - (Movies, TV, Small Library, 1080p)
