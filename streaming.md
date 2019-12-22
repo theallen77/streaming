@@ -180,7 +180,7 @@
 
 * **Note** - Many of the sites above have anime as well
 * [**r/AnimePiracy**](https://www.reddit.com/r/animepiracy/wiki/index) - (Anime + Manga sites)
-* [**9Anime**](https://tinyurl.com/ydgladf3) - (RapidVideo, Big Library, 1080p) 
+* [**9Anime**](https://tinyurl.com/ydgladf3) - (Mixed, Big Library, 1080p) 
 * [**Kissanime.ru**](https://tinyurl.com/yyxzrgtu) or [Kissanime.ac](https://tinyurl.com/y66v33go) - (Mixed Servers, Big Library, 1080p)
 * [4Anime](https://tinyurl.com/yxu7hqmj) - (Dedicated Servers, Medium Library, 1080p)
 * [AnimePahe](https://tinyurl.com/yyuzwr7m) - (Mixed Servers, Big Library, 1080p)
@@ -193,7 +193,6 @@
 * [GoGoAnime](https://tinyurl.com/y37d92my) or [AnimeSeries](https://tinyurl.com/y42yovha) - (Mixed Servers, Big Library, 720p)
 * [VidStreaming](https://tinyurl.com/y6ru87sr) - (Mixed Servers, Big Library, 720p)
 * [Dubbed Anime](https://tinyurl.com/yy9oeogy) - (+ Cartoons, Dedicated Server, Medium Library, 720p)
-* [Otakustream](https://tinyurl.com/y6rw3ge7) - (RapidVideo, Medium Library, 720p)
 * [AnimeHub](https://tinyurl.com/y63k7nn7) - (JW Player, Medium Library, 720p)
 * [Anime Show](https://tinyurl.com/npeukxu) - (JW Player, Medium Library, 720p)
 * [Chia-Anime](https://tinyurl.com/y4vbk9fv) - (JW Player, Medium Library, 720p)
