@@ -125,7 +125,7 @@
 
 ***
 
-###Specialty Hosts
+###Specialty Sites 
 
 * [**RareFilmm**](https://tinyurl.com/y5l8ot86) - (Rare/Forgotten Films)
 * [**Club MST3k**](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
@@ -147,7 +147,7 @@
 
 ***
 
-###TV
+###TV Sites
 
 * **Note** - Many of the sites above have TV as well
 * [**WatchSeries**](https://tinyurl.com/y48qbzg6) - (TV, Anime, Mixed Servers, Huge Library, SD/HD)
@@ -176,7 +176,7 @@
 
 ***
 
-###Anime
+###Anime Sites
 
 * **Note** - Many of the sites above have anime as well
 * [**r/AnimePiracy**](https://www.reddit.com/r/animepiracy/wiki/index) - (Anime + Manga sites)
@@ -210,7 +210,7 @@
 
 ***
 
-###Sports
+###Sports Sites
 
 * [**Highlightstore**](https://tinyurl.com/v6tr26h) - (Full Replays all sports)
 * [**NBAfullhd**](https://tinyurl.com/y3528nze), [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
