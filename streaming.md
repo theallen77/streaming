@@ -125,6 +125,28 @@
 
 ***
 
+###Specialty Hosts
+
+* [**RareFilmm**](https://tinyurl.com/y5l8ot86) - (Rare/Forgotten Films)
+* [**Club MST3k**](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
+* [Classic Cinema Online](https://tinyurl.com/27r9a5) - (Classic Films)
+* [Archive.org](https://tinyurl.com/cdv2tdr) - (Classic Films)
+* [Videoneat](https://tinyurl.com/yxd5oko3) - (Documentaries/Science Movies)
+* [Top Documentary Films](https://tinyurl.com/yy6k2lup) - (Documentaries)
+* [Ihavenotv](https://tinyurl.com/y8hszwz8) - (Documentaries)
+* [DocumentaryHeaven](https://tinyurl.com/v6westa) - (Documentaries)
+* [Dramago](https://tinyurl.com/y33wsqja) - (Foreign)
+* [Layarkaca](https://tinyurl.com/y6l25lfj) - (Foreign)
+* [DramaCool](https://tinyurl.com/y2bwycvx) or [WatchAsian](https://tinyurl.com/yyd9uq46) - (Foreign)
+* [DaebakDrama](https://tinyurl.com/y5t883lv) - (Korean)
+* [Film1k](https://tinyurl.com/y4m3e44m) - (NSFW movies)
+* [Eroti.ga](https://tinyurl.com/y3gpuqba) - (NSFW movies)
+* [7StarHD](https://tinyurl.com/y39x6ovg) - (NSFW movies)
+* [PornDude](https://tinyurl.com/npbgc2c) - (NSFW Sites List)
+* [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
+
+***
+
 ###TV
 
 * **Note** - Many of the sites above have TV as well
@@ -188,25 +210,33 @@
 
 ***
 
-###Specialty
+###Sports
 
-* [**RareFilmm**](https://tinyurl.com/y5l8ot86) - (Rare/Forgotten Films)
-* [**Club MST3k**](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
-* [Classic Cinema Online](https://tinyurl.com/27r9a5) - (Classic Films)
-* [Archive.org](https://tinyurl.com/cdv2tdr) - (Classic Films)
-* [Videoneat](https://tinyurl.com/yxd5oko3) - (Documentaries/Science Movies)
-* [Top Documentary Films](https://tinyurl.com/yy6k2lup) - (Documentaries)
-* [Ihavenotv](https://tinyurl.com/y8hszwz8) - (Documentaries)
-* [DocumentaryHeaven](https://tinyurl.com/v6westa) - (Documentaries)
-* [Dramago](https://tinyurl.com/y33wsqja) - (Foreign)
-* [Layarkaca](https://tinyurl.com/y6l25lfj) - (Foreign)
-* [DramaCool](https://tinyurl.com/y2bwycvx) or [WatchAsian](https://tinyurl.com/yyd9uq46) - (Foreign)
-* [DaebakDrama](https://tinyurl.com/y5t883lv) - (Korean)
-* [Film1k](https://tinyurl.com/y4m3e44m) - (NSFW movies)
-* [Eroti.ga](https://tinyurl.com/y3gpuqba) - (NSFW movies)
-* [7StarHD](https://tinyurl.com/y39x6ovg) - (NSFW movies)
-* [PornDude](https://tinyurl.com/npbgc2c) - (NSFW Sites List)
-* [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
+* [**Highlightstore**](https://tinyurl.com/v6tr26h) - (Full Replays all sports)
+* [**NBAfullhd**](https://tinyurl.com/y3528nze), [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
+* [**Watchraw**](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
+* [**Rutracker**](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
+* [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA/Wrestling Events)
+* [**AllWrestling**](https://tinyurl.com/vbblfdg) - (Full MMA/Wrestling Events)
+* [**Bellator**](https://tinyurl.com/y63ejnbd) - (Full Events)
+* [Kodi MMA Apps](https://tinyurl.com/yylxq89g)
+* MMA Videos - [MMA Core](https://tinyurl.com/y2qkxvwa), [All The Best Fights](https://tinyurl.com/yymvf7hs), [r/MMAFights](https://www.reddit.com/r/mmafights/)
+* [NFLBite](https://tinyurl.com/r6yuwxm) - (Live NFL)
+* [Stream2Watch](https://tinyurl.com/y2fn9axa) - (Live Sports)
+* [SportsSurge](https://tinyurl.com/y66fyus3) - (Live Sports)
+* [720pstream](https://tinyurl.com/y24m3b78) - (Live Sports)
+* [HulkStreams](https://tinyurl.com/y5qaxqnb) - (Live Sports)
+* [First Row Sports](https://tinyurl.com/ybx4jvz8) - (Live Sports)
+* [VipBox](https://tinyurl.com/y5z6mlwh) or [VipLeague](https://tinyurl.com/y5589le3) - (Live Sports)
+* [livetv.sx](https://tinyurl.com/y86duvg7) - (Live Sports)
+* [Ripple](https://tinyurl.com/yxk69ls5) - (Live Sports)
+* [BilaSport](https://tinyurl.com/y3gzwvky) - (Live Sports)
+* [SportsHD](https://tinyurl.com/y4xfy6r4) - (Live Sports)
+* [WatchKobe](https://tinyurl.com/y7lsqk3z) - (Live Sports)
+* [CrickFRee](https://tinyurl.com/y543jv8j) - (Live Sports)
+* [MamaHD](https://tinyurl.com/y4se477p) - (Live Sports)
+* [BossCast](https://tinyurl.com/s3z82tu) - (Live Sports)
+* *Sports Streaming Subbreddits* - /r/MLBStreams, /r/NHLStreams, /r/ncaaBBallStreams, /r/CFBStreams, /r/WWEstreams, /r/rugbystreams
 
 ***
 
@@ -237,36 +267,6 @@
 * [Artflix](https://tinyurl.com/y3owmkjy) - (General Movies)
 * [Flixdome](https://tinyurl.com/y67hygqg) - (General Movies)
 * [Full YouTube Movies](https://tinyurl.com/y4e3l4cv) - (Blog that posts Movies on Youtube, Dead?)
-
-***
-
-###Sports
-
-* [**Highlightstore**](https://tinyurl.com/v6tr26h) - (Full Replays all sports)
-* [**NBAfullhd**](https://tinyurl.com/y3528nze), [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
-* [**Watchraw**](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
-* [**Rutracker**](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
-* [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA/Wrestling Events)
-* [**AllWrestling**](https://tinyurl.com/vbblfdg) - (Full MMA/Wrestling Events)
-* [**Bellator**](https://tinyurl.com/y63ejnbd) - (Full Events)
-* [Kodi MMA Apps](https://tinyurl.com/yylxq89g)
-* MMA Videos - [MMA Core](https://tinyurl.com/y2qkxvwa), [All The Best Fights](https://tinyurl.com/yymvf7hs), [r/MMAFights](https://www.reddit.com/r/mmafights/)
-* [NFLBite](https://tinyurl.com/r6yuwxm) - (Live NFL)
-* [Stream2Watch](https://tinyurl.com/y2fn9axa) - (Live Sports)
-* [SportsSurge](https://tinyurl.com/y66fyus3) - (Live Sports)
-* [720pstream](https://tinyurl.com/y24m3b78) - (Live Sports)
-* [HulkStreams](https://tinyurl.com/y5qaxqnb) - (Live Sports)
-* [First Row Sports](https://tinyurl.com/ybx4jvz8) - (Live Sports)
-* [VipBox](https://tinyurl.com/y5z6mlwh) or [VipLeague](https://tinyurl.com/y5589le3) - (Live Sports)
-* [livetv.sx](https://tinyurl.com/y86duvg7) - (Live Sports)
-* [Ripple](https://tinyurl.com/yxk69ls5) - (Live Sports)
-* [BilaSport](https://tinyurl.com/y3gzwvky) - (Live Sports)
-* [SportsHD](https://tinyurl.com/y4xfy6r4) - (Live Sports)
-* [WatchKobe](https://tinyurl.com/y7lsqk3z) - (Live Sports)
-* [CrickFRee](https://tinyurl.com/y543jv8j) - (Live Sports)
-* [MamaHD](https://tinyurl.com/y4se477p) - (Live Sports)
-* [BossCast](https://tinyurl.com/s3z82tu) - (Live Sports)
-* *Sports Streaming Subbreddits* - /r/MLBStreams, /r/NHLStreams, /r/ncaaBBallStreams, /r/CFBStreams, /r/WWEstreams, /r/rugbystreams
 
 ***
 
