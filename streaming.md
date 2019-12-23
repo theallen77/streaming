@@ -328,7 +328,7 @@
 
 ###Torrent
 
-* **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/y4o6qrgz) before torrenting or using any of the apps below.
+* **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting or using any of the apps below.
 * [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App) (Android compatible.) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
 * [**Popcorn Time**](https://tinyurl.com/h3c36ec) - (Torrent Streaming App) (Android compatible.)
 * [**Flixerr**](https://tinyurl.com/y59eeheg) - (Torrent Streaming App)
