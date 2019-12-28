@@ -150,7 +150,7 @@
 ###TV Sites
 
 * **Note** - Many of the sites above have TV as well
-* [**WatchSeries**](https://tinyurl.com/y48qbzg6) - (TV, Anime, Mixed Servers, Huge Library, SD/HD)
+* [**WatchSeries**](https://tinyurl.com/y968ezyj) - (TV, Anime, Mixed Servers, Huge Library, SD/HD)
 * [**WatchEpisodes**](https://tinyurl.com/kzrdpkk) - (TV, Anime, Mixed Servers, Big Library, 1080p)
 * [**KissCartoon**](https://tinyurl.com/ycm25f9z) or [KimCartoon](https://tinyurl.com/y4xp3yny) - (Cartoons, JW Player, Big Library, 1080p)
 * [Watchseries 2.0](https://tinyurl.com/tcp947w) - (TV, Anime, JWPlayer, Big Library, 720p)
