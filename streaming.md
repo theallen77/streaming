@@ -139,10 +139,7 @@
 * [Layarkaca](https://tinyurl.com/y6l25lfj) - (Foreign)
 * [DramaCool](https://tinyurl.com/y2bwycvx) or [WatchAsian](https://tinyurl.com/yyd9uq46) - (Foreign)
 * [DaebakDrama](https://tinyurl.com/y5t883lv) - (Korean)
-* [Film1k](https://tinyurl.com/y4m3e44m) - (NSFW movies)
-* [Eroti.ga](https://tinyurl.com/y3gpuqba) - (NSFW movies)
-* [7StarHD](https://tinyurl.com/y39x6ovg) - (NSFW movies)
-* [PornDude](https://tinyurl.com/npbgc2c) - (NSFW Sites List)
+* [NSFW Steaming Sites](https://tinyurl.com/taklee2)
 * [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
 
 ***
@@ -320,7 +317,6 @@
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive DL's)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD DL's)
 * [Animekaizoku](https://tinyurl.com/yxqfdlex), [Animetosho](https://tinyurl.com/83kpyt2) - (Direct DL Anime)
-* [RareLust](https://tinyurl.com/yyuypz77) - (Rare NSFW Film DL's)
 * [MegaSearch](https://tinyurl.com/pvbf924) - (Search Mega)
 * You can stream Megalink files with [Megasync.](https://tinyurl.com/y3vvtwrx) Select the gear icon, stream, public link, paste, choose app & enjoy. 
 
