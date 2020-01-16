@@ -33,7 +33,7 @@
 ###Dedicated Hosts
 
 * [**LookMovie**](https://tinyurl.com/y95z3flk) - (Movies, TV, Big Library, 1080p) 
-* [**Soap2Day**](https://tinyurl.com/y57ed4om) - (Movies, TV, Big Library, 1080p)
+* [**Soap2Day**](https://tinyurl.com/v938lqc) - (Movies, TV, Big Library, 1080p)
 * [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://tinyurl.com/y38fhzgc) - (Movies, TV, Anime, Huge Library, SD) 
 * [**Batflix**](https://tinyurl.com/tnq38sy) - (Movies, TV, Medium Library, 720p)
 * [**Vmovee**](https://tinyurl.com/y5okppou) - (Movies, TV, Big Library, 1080p)
