@@ -313,7 +313,7 @@
 * **[filesearch.link](https://tinyurl.com/vhp6pfn)** - (Search Multiple DL Sites)
 * **r/opendirectories** + [How to Search](https://redd.it/933pzm)
 * [Direct DL Sites](https://tinyurl.com/yyzv49rv) - (List)
-* [Pahe.in](https://tinyurl.com/hewn3dy)
+* [Pahe.in](https://tinyurl.com/hewn3dy) - (DL's)
 * [xpause](https://tinyurl.com/yyhl7aja) - (DL's)
 * [filechef](https://tinyurl.com/y8cgtd8t) - (Search DL's)
 * [FileListing](https://tinyurl.com/yx46ydgd) - (Search DL's)
