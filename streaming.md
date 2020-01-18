@@ -310,6 +310,7 @@
 ###Download
 
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
+* **r/opendirectories**
 * [Direct DL Sites](https://tinyurl.com/yyzv49rv) - (List)
 * [xpause](https://tinyurl.com/yyhl7aja) - (DL's)
 * [filechef](https://tinyurl.com/y8cgtd8t) - (Search DL's)
