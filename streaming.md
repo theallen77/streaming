@@ -198,6 +198,7 @@
 * [AnimeFlix](https://tinyurl.com/y5yltekb) - (JW Player, Medium Library, 720p)
 * [Anime Rush](https://tinyurl.com/jx7vewu) - (JW Player, Medium Library, 720p)
 * [Anime HD 47](https://tinyurl.com/yxf7rbfe) - (JW Player, Medium Library, 720p)
+* [Soul-Anime](https://tinyurl.com/s9pko22) - (Dedicated Server, Medium Library, 720p)
 * [DarkAnime](https://tinyurl.com/y6daa756) - (JW Player, Small Library, 720p)
 * [Kawaiifu](https://tinyurl.com/y6yvdm5b) - (Dedicated Server, Small Library, 720p)
 * [HotAnime](https://tinyurl.com/y33vlmkl) - (Dedicated Server, Small Library, 720p)
