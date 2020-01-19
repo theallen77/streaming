@@ -355,4 +355,4 @@
 * /r/MovieStreamingSites - (Streaming Sites Sub)
 * [Dead Sites/Apps](https://tinyurl.com/rap22mu) - (In case they come back online)
 * [Shortlinks](https://tinyurl.com/y4osv5xt) - (Share/Save Post)
-* Backup - [Github](https://tinyurl.com/yxj5eev6)
+* Backup's - [Raddle](https://tinyurl.com/v8eq8f8), [Github](https://github.com/Quakes4days123), [Ceddit](https://tinyurl.com/sdm58nb), [Archive](https://tinyurl.com/wtmllju)
