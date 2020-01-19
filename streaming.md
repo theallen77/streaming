@@ -7,14 +7,14 @@
 
 ***
 
-###Apps
+**Apps**
 
 * [**LeonFlix**](https://tinyurl.com/y6vtutak) - (PC/Mac) - /r/leonflix 
 * [Kodi](https://tinyurl.com/zymo4y7) - (PC/Mac/Android/iOS) - /r/Addons4Kodi, [Tracker](https://tinyurl.com/y2ygqbyw) + [Trending](https://tinyurl.com/ycthlf8t)
 
 ***
 
-###Search
+**Search**
 
 * [**P4Pirate**](https://tinyurl.com/wl3qkzu) - (Search Google Drive & more)
 * [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Click [blue box](https://tinyurl.com/y2o7pkpu) on player at bottom of page, IMDB ID's work)
@@ -31,7 +31,7 @@
 
 ***
 
-###Dedicated Hosts
+**Dedicated Hosts**
 
 * [**LookMovie**](https://tinyurl.com/y95z3flk) - (Movies, TV, Big Library, 1080p) 
 * [**Soap2Day**](https://tinyurl.com/v938lqc) - (Movies, TV, Big Library, 1080p)
@@ -61,7 +61,7 @@
 
 ***
 
-###JW Hosts
+**JW Hosts**
 
 * [**HiMovies**](https://tinyurl.com/wmh7yrc), [Clone Sites](https://tinyurl.com/uew6urb) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**FMovies**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Huge Library, 1080p)
@@ -97,7 +97,7 @@
 
 ***
 
-###NetU Hosts
+**NetU Hosts**
 
 * [**TopEuroPix**](https://tinyurl.com/y3datoqg) or [HDeuropix](https://tinyurl.com/y4rn4p42) - (Movies, TV, Anime, Big Library, 720p)
 * [**5movies.live**](https://tinyurl.com/y2fukz3y) - (Movies, TV, Big Library, 720p)
@@ -108,7 +108,7 @@
 
 ***
 
-###Mixed Hosts
+**Mixed Hosts**
 
 * [**123movie.page**](https://tinyurl.com/yyy6s5by) - (Movies, TV, Anime, Big Library, 1080p)
 * [**5Movies**](https://tinyurl.com/y3ckcq79) - (Movies, TV, Anime, Huge Library, 1080p) 
@@ -126,7 +126,7 @@
 
 ***
 
-###Specialty Sites 
+**Specialty Sites**
 
 * [**RareFilmm**](https://tinyurl.com/y5l8ot86) - (Rare/Forgotten Films)
 * [**Club MST3k**](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
@@ -146,7 +146,7 @@
 
 ***
 
-###TV Sites
+**TV Sites**
 
 * **Note** - Many of the sites above have TV as well
 * [**WatchSeries**](https://tinyurl.com/y968ezyj) - (TV, Anime, Mixed Servers, Huge Library, SD/HD)
@@ -175,7 +175,7 @@
 
 ***
 
-###Anime Sites
+**Anime Sites**
 
 * **Note** - Many of the sites above have anime as well
 * [**r/AnimePiracy**](https://www.reddit.com/r/animepiracy/wiki/index) - (Anime + Manga sites)
@@ -209,7 +209,7 @@
 
 ***
 
-###Sports Sites
+**Sports Sites**
 
 * [**Highlightstore**](https://tinyurl.com/v6tr26h) - (Full Replays all sports)
 * [**NBAfullhd**](https://tinyurl.com/y3528nze), [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
@@ -239,7 +239,7 @@
 
 ***
 
-###YouTube 
+**YouTube**
 
 * If on android try [Vanced](https://tinyurl.com/ya86n837) - (Background play, no ads & dark mode)
 * [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
@@ -269,7 +269,7 @@
 
 ***
 
-###Android/iOS
+**Android/iOS**
 
 * **Important** - Block Ads with [**AdGuard** (Premium Unlocked)](https://redd.it/d0zair), [AdAway](https://tinyurl.com/yavxv6zr) or [Blokada](https://blokada.org/). If using sites try [Opera](https://www.opera.com/mobile/operabrowser) as it has a built in adblocker. 
 * Note - Apks work on PC/Mac via [BlueStacks](https://tinyurl.com/pf7ahx8) or [Nox.](https://tinyurl.com/l6pxakt)
@@ -309,7 +309,7 @@
 
 ***
 
-###Download
+**Download**
 
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
 * **[filesearch.link](https://tinyurl.com/vhp6pfn)** - (Search Multiple DL Sites)
@@ -328,7 +328,7 @@
 
 ***
 
-###Torrent
+**Torrent**
 
 * **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting or using any of the apps below.
 * [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App) (Android compatible.) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
@@ -345,7 +345,7 @@
 
 ***
 
-###Helpful
+**Helpful**
 
 * [**Tracking & Discovery**](https://tinyurl.com/yynm3ozu) - (Track content & find stuff to watch)
 * [**WhereYouWatch**](https://tinyurl.com/y8opktgy), [Squawkr](https://tinyurl.com/y3ea3xl6) or /r/movieleaks - (Get Notified when movie is streamable)
