@@ -314,6 +314,8 @@
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
 * **[filesearch.link](https://tinyurl.com/vhp6pfn)** - (Search Multiple DL Sites)
 * **r/opendirectories** + [How to Search](https://redd.it/933pzm), [All Directories](https://redd.it/dxt28f)
+* [Ewasion](https://tinyurl.com/u9ykq2m) - (Search directories)
+* [Filer](https://tinyurl.com/upr72yz) - (Search directories)
 * [Direct DL Sites](https://tinyurl.com/yyzv49rv) - (List)
 * [Pahe.in](https://tinyurl.com/hewn3dy) - (DL's)
 * [xpause](https://tinyurl.com/yyhl7aja) - (DL's)
