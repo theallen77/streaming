@@ -321,6 +321,7 @@
 * [Pahe.in](https://tinyurl.com/hewn3dy) - (DL's)
 * [xpause](https://tinyurl.com/yyhl7aja) - (DL's)
 * [filechef](https://tinyurl.com/y8cgtd8t) - (Search DL's)
+* [SoftArchive](https://tinyurl.com/yxzw6tnp) - (Search DL's)
 * [FileListing](https://tinyurl.com/yx46ydgd) - (Search DL's)
 * [Iplive](https://tinyurl.com/yxjho6up) - (Search DL's)
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive DL's)
