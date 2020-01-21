@@ -54,7 +54,7 @@
 * [Crackle](https://tinyurl.com/ycotdtsk) - (Movies, TV, Small Library, 1080p)
 * [Roku](https://tinyurl.com/y8ddb5be) - (Movies, TV, Small Library, 720p)
 * [Vudu](https://tinyurl.com/undxnps) - (Movies, Small Library, 720p)
-* [Pluto.tv](https://tinyurl.com/n4d8sb5) - (Live TV, Movies, TV, Small Library, 720p)
+* [Pluto.tv](https://tinyurl.com/wqezspv) - (Movies, TV, Small Library, 720p)
 * [Tubi](https://tinyurl.com/yd3sgrry) - (Movies, Big Library, SD)
 
 ***
