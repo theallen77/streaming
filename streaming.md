@@ -1,4 +1,4 @@
-* **Important** - [**Adblocking Guide**](https://tinyurl.com/y4e59rq4) 
+* **Important** - [**Adblocking Guide**](https://github.com/freemediaheckyeah/streaming/wiki/Adblockers) 
 * [FAQ, Suggest Sites & Changelog](https://redd.it/emesmu) 
 * [PC, Emulator & Android Games](https://redd.it/dhcmkw)
 * [Books, Comics, Manga & Magazines](https://redd.it/cveubp)
@@ -35,7 +35,7 @@
 
 * [**LookMovie**](https://tinyurl.com/y95z3flk) - (Movies, TV, Big Library, 1080p) 
 * [**Soap2Day**](https://tinyurl.com/v938lqc) - (Movies, TV, Big Library, 1080p)
-* [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://tinyurl.com/y38fhzgc) - (Movies, TV, Anime, Huge Library, SD) 
+* [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/Cafehulu-Clones) - (Movies, TV, Anime, Huge Library, SD) 
 * [**Batflix**](https://tinyurl.com/tnq38sy) - (Movies, TV, Medium Library, 720p)
 * [**Vmovee**](https://tinyurl.com/y5okppou) - (Movies, TV, Big Library, 1080p)
 * [**CineWhale**](https://tinyurl.com/y3uh48sn) or [CineBloom](https://tinyurl.com/y4k9j8k9) - (Movies, TV, Big Library, 1080p)
@@ -63,14 +63,14 @@
 
 **JW Hosts**
 
-* [**HiMovies**](https://tinyurl.com/wmh7yrc), [Clone Sites](https://tinyurl.com/uew6urb) - (Movies, TV, Anime, Huge Library, 1080p)
+* [**HiMovies**](https://tinyurl.com/wmh7yrc), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/HiMovies-Clones) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**FMovies**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**Ymovies**](https://tinyurl.com/ychw2l6y) - (Movies, Huge Library, 1080p)
 * [**M4uhd**](https://tinyurl.com/y2lkjvwk), [M4uFree.tv](https://tinyurl.com/y7hf9et8) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, Big Library, 1080p) 
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p) 
 * [**Yes! Movies**](https://tinyurl.com/y49j28s3) or [Solarmoviez](https://tinyurl.com/y69bm4mf) - (Movies, TV, Anime, Big Library, 1080p)
 * [**Streamlord**](https://tinyurl.com/ybrtnppf) - (Movies, TV, Medium Library, 720p)
-* [Yesmovies.tech](https://tinyurl.com/w6odsye), [Clone Sites](https://tinyurl.com/vzobzmq) - (Movies, Big Library, 1080p)
+* [Yesmovies.tech](https://tinyurl.com/w6odsye), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/yesmovies.tech-Clones) - (Movies, Big Library, 1080p)
 * [MovieGaga](https://tinyurl.com/y5x3lqyy) - (Movies, TV, Anime, Big Library, 1080p)
 * [Afdah](https://tinyurl.com/tzh3jck) - (Movies, TV, Big Library, 1080p)
 * [123Movies.mx](https://tinyurl.com/y3rk2ccp) - (Movies, TV, Big Library, 1080p) 
@@ -142,7 +142,7 @@
 * [DramaCool](https://tinyurl.com/y2bwycvx) or [WatchAsian](https://tinyurl.com/yyd9uq46) - (KDrama)
 * [DaebakDrama](https://tinyurl.com/y5t883lv) - (KDrama)
 * [NSFW Steaming Sites](https://tinyurl.com/t3z8eeo) - (Voat account needed)
-* [Spanish, German & French Sites](https://tinyurl.com/y59p4vuh)
+* [Spanish, German & French Sites](https://github.com/freemediaheckyeah/streaming/wiki/Espanol,-German,-French-Streaming)
 
 ***
 
@@ -332,7 +332,7 @@
 
 **Torrent**
 
-* **IMPORTANT** - Get a [**VPN**](https://tinyurl.com/vraun2r) before torrenting or using any of the apps below.
+* **IMPORTANT** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting or using any of the apps below.
 * [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App) (Android compatible.) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
 * [**Popcorn Time**](https://tinyurl.com/h3c36ec) - (Torrent Streaming App) (Android compatible.)
 * [**Flixerr**](https://tinyurl.com/y59eeheg) - (Torrent Streaming App)
@@ -349,12 +349,12 @@
 
 **Helpful**
 
-* [**Tracking & Discovery**](https://tinyurl.com/yynm3ozu) - (Track content & find stuff to watch)
+* [**Tracking & Discovery**](https://github.com/freemediaheckyeah/streaming/wiki/Content-Discovery) - (Track content & find stuff to watch)
 * [**WhereYouWatch**](https://tinyurl.com/y8opktgy), [Squawkr](https://tinyurl.com/y3ea3xl6) or /r/movieleaks - (Get Notified when movie is streamable)
 * [**SubShifter**](https://tinyurl.com/y7wt6gv8) - (Change timing of subtitles to match your video)
 * Openvideo - [Firefox](https://tinyurl.com/y3lpnpgo), [Chrome](https://tinyurl.com/y276xn9a) - (External player, bypass ads, favs, subs & more) 
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
 * /r/MovieStreamingSites - (Streaming Sites Sub)
-* [Dead Sites/Apps](https://tinyurl.com/rap22mu) - (In case they come back online)
-* [Shortlinks](https://tinyurl.com/y4osv5xt) - (Share/Save Post)
-* [**Sub Backups**](https://tinyurl.com/qm8tqwv)
+* [Dead Sites/Apps](https://github.com/freemediaheckyeah/streaming/wiki/Dead-Sites-Apps) - (In case they come back online)
+* [Shortlinks](https://github.com/freemediaheckyeah/streaming/wiki/Shareable-Short-Links) - (Share/Save Post)
+* [**Sub Backups**](https://github.com/freemediaheckyeah/streaming/wiki/r-freemediaheckyeah-Backups)
