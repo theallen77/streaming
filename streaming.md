@@ -121,6 +121,8 @@
 * [VMovie](https://tinyurl.com/rlr4xlz) - (Movies, TV, Small Library, 1080p)
 * [MovieBay](https://tinyurl.com/y9g9z4md) - (Movies, TV, Anime, Huge Library, 720p)
 * [Series9](https://tinyurl.com/y75dvzxn) - (Movies, TV, Anime, Huge Library, 720p)
+* [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
+* /r/MovieStreamingSites - (Streaming Sites Sub)
 
 ***
 
@@ -344,8 +346,6 @@
 * [**WhereYouWatch**](https://tinyurl.com/y8opktgy), [Squawkr](https://tinyurl.com/y3ea3xl6) or /r/movieleaks - (Get Notified when movie is streamable)
 * [**SubShifter**](https://tinyurl.com/y7wt6gv8) - (Change timing of subtitles to match your video)
 * Openvideo - [Firefox](https://tinyurl.com/y3lpnpgo), [Chrome](https://tinyurl.com/y276xn9a) - (External player, bypass ads, favs, subs & more) 
-* [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
-* /r/MovieStreamingSites - (Streaming Sites Sub)
 * [Dead Sites/Apps](https://github.com/freemediaheckyeah/streaming/wiki/Dead-Sites-Apps) - (In case they come back online)
 * [Shortlinks](https://github.com/freemediaheckyeah/streaming/wiki/Shareable-Short-Links) - (Share/Save Post)
 * [**Sub Backups**](https://github.com/freemediaheckyeah/streaming/wiki/r-freemediaheckyeah-Backups)
