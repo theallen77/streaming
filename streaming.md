@@ -205,7 +205,6 @@
 * [**Highlightstore**](https://tinyurl.com/v6tr26h) - (Full Replays all sports)
 * [**NBAfullhd**](https://tinyurl.com/y3528nze), [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
 * [**Watchraw**](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
-* [**Rutracker**](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
 * [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA/Wrestling Events)
 * [**AllWrestling**](https://tinyurl.com/vbblfdg) - (Full MMA/Wrestling Events)
 * [**Bellator**](https://tinyurl.com/y63ejnbd) - (Full Events)
@@ -335,6 +334,7 @@
 * [BTorrent](https://tinyurl.com/y6l3krsx) - (Download/stream torrents from browser) 
 * [Torrent Sites](https://tinyurl.com/y2rfhvsy)
 * [Anime Torrent Sites](https://www.reddit.com/r/animepiracy/wiki/animetorrentlist)
+* [**Rutracker**](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
 * [Torrent Clients](https://tinyurl.com/y3l8o4zb)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Torrents, Streaming, DL's, Sports, Music, Books & Porn)
 
