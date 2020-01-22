@@ -140,7 +140,6 @@
 * [Dramago](https://tinyurl.com/y33wsqja) - (KDrama)
 * [DramaCool](https://tinyurl.com/y2bwycvx) or [WatchAsian](https://tinyurl.com/yyd9uq46) - (KDrama)
 * [DaebakDrama](https://tinyurl.com/y5t883lv) - (KDrama)
-* [NSFW Steaming Sites](https://tinyurl.com/t3z8eeo) - (Voat account needed)
 * [Spanish, German & French Sites](https://github.com/freemediaheckyeah/streaming/wiki/Espanol,-German,-French-Streaming)
 
 ***
