@@ -82,7 +82,7 @@
 * [Genvideos](https://tinyurl.com/yynbep4b) - (Movies, TV, Medium Library, 1080p)
 * [HackIMDb](https://tinyurl.com/yyj8awpq) - (Movies, Medium Library, 1080p)  
 * [DutaFilm](https://tinyurl.com/skjaz6h) - (Movies, TV, Anime, Big Library, 1080p)
-* [Bmovies.nl](https://tinyurl.com/y266yqpn) or [1movies.pl](https://tinyurl.com/y87nunr5) - (Movies, TV, Anime, Big Library, 720p)
+* [Bmovies.nl](https://tinyurl.com/y266yqpn) - (Movies, TV, Anime, Big Library, 720p)
 * [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV, Big Library, 720p)
 * [Openload.watch](https://tinyurl.com/y5m6hbea) - (Movies, TV, Anime, Big Library, 720p)
 * [HDFlix](https://tinyurl.com/y9etmuvk) or [YesMovies.fun](https://tinyurl.com/y95qduzm) - (Movies, TV, Medium Library, 1080p)  
