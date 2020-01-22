@@ -334,7 +334,7 @@
 * [Anime Torrent Sites](https://www.reddit.com/r/animepiracy/wiki/animetorrentlist)
 * [**Rutracker**](https://tinyurl.com/y2togjmp) - (Sports Torrents)
 * [Torrent Clients](https://tinyurl.com/y3l8o4zb)
-* [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblock versions of torrent sites)
+* [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked versions of torrent sites)
 
 ***
 
