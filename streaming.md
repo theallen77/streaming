@@ -323,18 +323,18 @@
 **Torrent**
 
 * **IMPORTANT** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting or using any of the apps below.
-* [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App) (Android compatible.) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
-* [**Popcorn Time**](https://tinyurl.com/wdfv7qz) - (Torrent Streaming App) (Android compatible.)
-* [**Flixerr**](https://tinyurl.com/y59eeheg) - (Torrent Streaming App)
-* [Sodaplayer](https://tinyurl.com/y7jp5uz7) - (Torrent Streaming App)
-* [BitLord](https://tinyurl.com/3c97z9) - (Torrent Streaming App)
-* [Magnetoo](https://tinyurl.com/y5c5mojq) - (Stream movie torrents via browser) 
+* [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App, PC, Mac, Linix, Android, IOS) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
+* [**Popcorn Time**](https://tinyurl.com/wdfv7qz) - (Torrent Streaming App, PC, Mac, Android)
+* [**Flixerr**](https://tinyurl.com/y59eeheg) - (Torrent Streaming App, PC)
+* [Sodaplayer](https://tinyurl.com/y7jp5uz7) - (Torrent Streaming App, PC/Mac)
+* [BitLord](https://tinyurl.com/3c97z9) - (Torrent Streaming App, PC/Mac)
+* [Magnetoo](https://tinyurl.com/y5c5mojq) - (Stream torrents via browser) 
 * [BTorrent](https://tinyurl.com/y6l3krsx) - (Download/stream torrents from browser) 
 * [Torrent Sites](https://tinyurl.com/y2rfhvsy)
 * [Anime Torrent Sites](https://www.reddit.com/r/animepiracy/wiki/animetorrentlist)
-* [**Rutracker**](https://tinyurl.com/y2togjmp) - (NBA Game Torrents)
+* [**Rutracker**](https://tinyurl.com/y2togjmp) - (Sports Torrents)
 * [Torrent Clients](https://tinyurl.com/y3l8o4zb)
-* [Unblocked](https://tinyurl.com/ybkdftjg) - (Torrents, Streaming, DL's, Sports, Music, Books & Porn)
+* [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblock versions of torrent sites)
 
 ***
 
