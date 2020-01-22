@@ -287,7 +287,6 @@
 * [Anime Molecules](https://tinyurl.com/t7mf6sb) - (Anime)
 * [Mobdro](https://tinyurl.com/spw5y8j) - (Live TV)
 * [AOS TV](https://tinyurl.com/ro7wubj) - (Live TV)
-* [LiveLounge](https://tinyurl.com/ua5fvp2) - (Live TV)
 * [Live NetTV](https://tinyurl.com/su3rqem) - (Live TV)
 * [SwiftStreams](https://tinyurl.com/y42xbqth) - (Live TV)
 * [TVTap](https://tinyurl.com/rfj48a3) - (Live TV)
