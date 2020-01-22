@@ -324,7 +324,7 @@
 
 * **IMPORTANT** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting or using any of the apps below.
 * [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App) (Android compatible.) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
-* [**Popcorn Time**](https://tinyurl.com/h3c36ec) - (Torrent Streaming App) (Android compatible.)
+* [**Popcorn Time**](https://tinyurl.com/wdfv7qz) - (Torrent Streaming App) (Android compatible.)
 * [**Flixerr**](https://tinyurl.com/y59eeheg) - (Torrent Streaming App)
 * [Sodaplayer](https://tinyurl.com/y7jp5uz7) - (Torrent Streaming App)
 * [BitLord](https://tinyurl.com/3c97z9) - (Torrent Streaming App)
