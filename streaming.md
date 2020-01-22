@@ -136,7 +136,6 @@
 * [DocumentaryHeaven](https://tinyurl.com/v6westa) - (Documentaries)
 * [GoPlay](https://tinyurl.com/wxktu3s) - (KDrama)
 * [Dramago](https://tinyurl.com/y33wsqja) - (KDrama)
-* [Layarkaca](https://tinyurl.com/y6l25lfj) - (KDrama)
 * [DramaCool](https://tinyurl.com/y2bwycvx) or [WatchAsian](https://tinyurl.com/yyd9uq46) - (KDrama)
 * [DaebakDrama](https://tinyurl.com/y5t883lv) - (KDrama)
 * [NSFW Steaming Sites](https://tinyurl.com/t3z8eeo) - (Voat account needed)
