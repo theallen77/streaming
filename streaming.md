@@ -194,7 +194,6 @@
 * [Soul-Anime](https://tinyurl.com/s9pko22) - (Dedicated Server, Medium Library, 720p)
 * [DarkAnime](https://tinyurl.com/y6daa756) - (JW Player, Small Library, 720p)
 * [Kawaiifu](https://tinyurl.com/y6yvdm5b) - (Dedicated Server, Small Library, 720p)
-* [HotAnime](https://tinyurl.com/y33vlmkl) - (Dedicated Server, Small Library, 720p)
 * [WatchCartoon](https://tinyurl.com/y6h2pyfn) - (+ Cartoons, Dedicated Server, Big Library, 720p)
 * [EyeOnAnime](https://tinyurl.com/y4rsqtad) - (+ Cartoons, Mixed Servers, Big Library, 720p)
 * [Cartoon Crazy](https://tinyurl.com/y3axybww) - (+ Cartoons, JW Player, Big Library, 720p)
