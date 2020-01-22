@@ -239,7 +239,6 @@
 * [**Official YT Movies**](https://tinyurl.com/y4kxshr5) - (Free with Ads)
 * [TromaMovies](https://tinyurl.com/kd2v3hg) - (Horror)
 * [KingsofHorror](https://tinyurl.com/y2xk4rv5) - (Horror)
-* [MutantSorority](https://tinyurl.com/y6q8n74f) - (Horror)
 * [New Castle After Dark](https://tinyurl.com/y544uk4m) - (Horror)
 * [Booh](https://tinyurl.com/y4jc3du8) - (Horror)
 * [PhattPhucks](https://tinyurl.com/yxcaokk3) - (Horror)
