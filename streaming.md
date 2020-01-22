@@ -252,11 +252,9 @@
 * [Barbarella X](https://tinyurl.com/y5re24t8) - (Sci-Fi)
 * [Grjngo Western](https://tinyurl.com/y5pfvo3z) - (Western)
 * [Cloud 5](https://tinyurl.com/yxb3yozw) - (Family)
-* [JesusWept](https://tinyurl.com/yxp6xqvy) - (General Movies)
 * [Popcornflix](https://tinyurl.com/yxwszlmw) - (General Movies)
 * [Artflix](https://tinyurl.com/y3owmkjy) - (General Movies)
 * [Flixdome](https://tinyurl.com/y67hygqg) - (General Movies)
-* [Full YouTube Movies](https://tinyurl.com/y4e3l4cv) - (Blog that posts Movies on Youtube, Dead?)
 
 ***
 
