@@ -85,7 +85,6 @@
 * [Bmovies.nl](https://tinyurl.com/y266yqpn) - (Movies, TV, Anime, Big Library, 720p)
 * [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV, Big Library, 720p)
 * [Openload.watch](https://tinyurl.com/y5m6hbea) - (Movies, TV, Anime, Big Library, 720p)
-* [HDFlix](https://tinyurl.com/y9etmuvk) or [YesMovies.fun](https://tinyurl.com/y95qduzm) - (Movies, TV, Medium Library, 1080p)  
 * [MovieMax](https://tinyurl.com/wdxa2sy) - (Movies, Medium Library, 720p)
 * [UWatchfree](https://tinyurl.com/y2p8yhfl) - (Movies, TV, Medium Library, 720p)
 * [Flixtor](https://tinyurl.com/y3c7leo8) - (Movies, TV, Small Library, 720p)
