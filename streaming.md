@@ -279,7 +279,6 @@
 * [Kokotime](https://tinyurl.com/y2xnxmax) - (Movies, TV, Anime, 720p, Medium Library)
 * [TyphoonTV](https://tinyurl.com/vn6knfx) - (Movies, TV, Anime, 720p, Big Library)
 * [MorphTV](https://tinyurl.com/tk7jn3h) - (Movies, TV, Anime, 720p, Medium Library, Chromecast)
-* [FlixTV](https://tinyurl.com/y384lpua) - (Movies, TV, Live TV, 720p, Big Library, Chromecast)
 * [FreeFlixHQ](https://tinyurl.com/yyaezxnn) - (Movies, TV, Anime, 720p, Medium Library)
 * [TeaTV](https://redd.it/d0zair) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [AnYme](https://tinyurl.com/y4sjymtz) - (Anime, Chromecast, Uses external sites)
