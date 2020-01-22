@@ -227,7 +227,7 @@
 * [CrickFRee](https://tinyurl.com/y543jv8j) - (Live Sports)
 * [MamaHD](https://tinyurl.com/y4se477p) - (Live Sports)
 * [BossCast](https://tinyurl.com/s3z82tu) - (Live Sports)
-* *Sports Streaming Subbreddits* - /r/MLBStreams, /r/NHLStreams, /r/ncaaBBallStreams, /r/CFBStreams, /r/WWEstreams, /r/rugbystreams
+* *Sports Streaming Subbreddits* - /r/MLBStreams, /r/ncaaBBallStreams, /r/WWEstreams, /r/rugbystreams
 
 ***
 
