@@ -346,7 +346,7 @@
 * [Rutracker](https://tinyurl.com/y2togjmp) - (Sports Torrents)
 * [Torrent Clients](https://tinyurl.com/y3l8o4zb)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked versions of torrent sites)
-* [Tracker Tracker](https://tinyurl.com/hjh48br) - (Tracker Trackers)
+* [Tracker Tracker](https://tinyurl.com/hjh48br) - (Tracker Tracker)
 
 ***
 
