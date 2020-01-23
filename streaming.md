@@ -64,7 +64,7 @@
 * [**HiMovies**](https://tinyurl.com/wmh7yrc), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/HiMovies-Clones) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**FMovies**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**Ymovies**](https://tinyurl.com/ychw2l6y) - (Movies, Huge Library, 1080p)
-* [**M4uhd**](https://tinyurl.com/y2lkjvwk), [M4uFree.tv](https://tinyurl.com/y7hf9et8) or [Streamm4u](https://tinyurl.com/y5hyu6vv) - (Movies, TV, Anime, Big Library, 1080p) 
+* [**M4uFree.tv**](https://tinyurl.com/y7hf9et8), [Streamm4u](https://tinyurl.com/y5hyu6vv) or [M4uhd](https://tinyurl.com/y2lkjvwk) - (Movies, TV, Anime, Big Library, 1080p) 
 * [**SubMovies**](https://tinyurl.com/usw4p4j) - (Movies, TV, Huge Library, 720p, Subtitles)
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p) 
 * [**Yes! Movies**](https://tinyurl.com/y49j28s3) or [Solarmoviez](https://tinyurl.com/y69bm4mf) - (Movies, TV, Anime, Big Library, 1080p)
