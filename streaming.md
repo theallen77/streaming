@@ -20,6 +20,7 @@
 * [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Click [blue box](https://tinyurl.com/y2o7pkpu) on player at bottom of page, IMDB ID's work)
 * [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search Multiple Players)
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB ID's)
+* [**AIO Search**](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream Sites)
 * [CrocoVid](https://tinyurl.com/vood4uo) - (Search Multiple Players)
 * [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search NetU & more)
 * [OK](https://tinyurl.com/t2my7vq) - (Obscure Movies)
@@ -314,6 +315,7 @@
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
 * **[filesearch.link](https://tinyurl.com/vhp6pfn)** - (Search Multiple DL Sites)
 * **r/opendirectories** + [How to Search](https://redd.it/933pzm), [All Directories](https://redd.it/dxt28f)
+* [**AIO Search**](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream Sites)
 * [FilePursuit](https://tinyurl.com/y2no5m8l) - (Search DL's) 
 * [Ewasion](https://tinyurl.com/u9ykq2m) - (Search directories)
 * [Filer](https://tinyurl.com/upr72yz) - (Search directories)
@@ -349,6 +351,7 @@
 * [Torrent Clients](https://tinyurl.com/y3l8o4zb)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked versions of torrent sites)
 * [Tracker Tracker](https://tinyurl.com/hjh48br) - (Tracker Tracker)
+* [AIO Search](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream Sites)
 
 ***
 
