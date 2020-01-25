@@ -45,7 +45,7 @@
 * [FlixGo](https://tinyurl.com/y6pl2zbz) - (Movies, TV, Small Library, 1080p)
 * [OnionPlay](https://tinyurl.com/v8k74np) - (Movies, TV, Small Library, 1080p) 
 * [Popcornflix](https://tinyurl.com/y54s87k9) - (Movies, TV, Medium Library, 1080p)
-* [LunchFlix](https://tinyurl.com/tr3lnvg) - (Movies, TV, Anime, Medium Library, 1080p)
+* [LunchFlix](https://tinyurl.com/tr3lnvg) - (Movies, TV, Medium Library, 1080p)
 * [SnagFilms](https://tinyurl.com/5aluuz) - (Movies, TV, Small Library, 1080p)
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Big Library, 720p)
 * [Putlocker.to](https://tinyurl.com/y4d7pyrc) - (Movies, TV, Anime, Big Library, 720p)
