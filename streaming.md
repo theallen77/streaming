@@ -108,6 +108,7 @@
 * [Swefilmer](https://tinyurl.com/w3xd2az) - (Movies, TV, Medium Library, 720p)
 * [MovieFire](https://tinyurl.com/y36tj8w4) - (Movies, Small Library, 720p)
 * [MoviesHDstreaming](https://tinyurl.com/v2slm42) - (Movies, Small Library, 720p)
+* [Movies4U](https://www.movies4you.org) - (Movies, TV, Small Library, 720p)
 
 ***
 
