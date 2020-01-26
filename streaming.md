@@ -318,6 +318,8 @@
 * [**AIO Search**](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream Sites)
 * [FilePursuit](https://tinyurl.com/y2no5m8l) - (Search DL's) 
 * [Ewasion](https://tinyurl.com/u9ykq2m) - (Search directories)
+* [NMHDDS](https://tinyurl.com/tjk8p45) - (Search directories)
+* [Palined](https://tinyurl.com/y9422sk6) - (Search directories)
 * [Filer](https://tinyurl.com/upr72yz) - (Search directories)
 * [Direct DL Sites](https://tinyurl.com/yyzv49rv) - (List)
 * [Pahe.in](https://tinyurl.com/hewn3dy) - (DL's)
