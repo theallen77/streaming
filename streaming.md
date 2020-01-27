@@ -313,28 +313,15 @@
 **Download**
 
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
-* **[filesearch.link](https://tinyurl.com/vhp6pfn)** - (Search Multiple DL Sites)
-* **r/opendirectories** + [How to Search](https://redd.it/933pzm), [All Directories](https://redd.it/dxt28f)
-* [**AIO Search**](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream Sites)
-* [FilePursuit](https://tinyurl.com/y2no5m8l) - (Search DL's) 
-* [Ewasion](https://tinyurl.com/u9ykq2m) - (Search directories)
-* [NMHDDS](https://tinyurl.com/tjk8p45) - (Search directories)
-* [Palined](https://tinyurl.com/y9422sk6) - (Search directories)
-* [Filer](https://tinyurl.com/upr72yz) - (Search directories)
-* [Direct DL Sites](https://tinyurl.com/yyzv49rv) - (List)
-* [Pahe.in](https://tinyurl.com/hewn3dy) - (DL's)
+* [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
+* [Pahe.in](https://tinyurl.com/hewn3dy) - (Movie DL's)
+* [Topnow](https://tinyurl.com/yyhl7aja) - (Movie DL's)
 * [Snahp](https://tinyurl.com/y3kpou3w) - (Movie, TV and Anime DL's)
-* [Topnow](https://tinyurl.com/yyhl7aja) - (DL's)
-* [filechef](https://tinyurl.com/y8cgtd8t) - (Search DL's)
-* [SoftArchive](https://tinyurl.com/saxlsz5) - (Search DL's)
-* [FileListing](https://tinyurl.com/yx46ydgd) - (Search DL's)
-* [Iplive](https://tinyurl.com/yxjho6up) - (Search DL's)
-* [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive DL's)
+* [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Movie DL's)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD DL's)
 * [Animekaizoku](https://tinyurl.com/yxqfdlex) - (Direct DL Anime)
 * [Animetosho](https://tinyurl.com/83kpyt2) - (Direct DL Anime)
-* [MegaSearch](https://tinyurl.com/pvbf924) - (Search Mega)
-* You can stream Megalink files with [Megasync.](https://tinyurl.com/y3vvtwrx) Select the gear icon, stream, public link, paste, choose app & enjoy. 
+
 ***
 
 **Torrent**
