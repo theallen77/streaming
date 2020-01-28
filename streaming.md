@@ -351,6 +351,7 @@
 * [**WhereYouWatch**](https://tinyurl.com/y8opktgy), [Squawkr](https://tinyurl.com/y3ea3xl6) or /r/movieleaks - (Get Notified when movie is streamable)
 * [**SubShifter**](https://tinyurl.com/y7wt6gv8) - (Change timing of subtitles to match your video)
 * Openvideo - [Firefox](https://tinyurl.com/y3lpnpgo), [Chrome](https://tinyurl.com/y276xn9a) - (External player, bypass ads, favs, subs & more) 
+* [Ant Movie](https://tinyurl.com/wb4tvu5) - (Movie/Show Tracker for PC)
 * [Dead Sites/Apps](https://github.com/freemediaheckyeah/streaming/wiki/Dead-Sites-Apps) - (In case they come back online)
 * [Shortlinks](https://github.com/freemediaheckyeah/streaming/wiki/Shareable-Short-Links) - (Share/Save Post)
 * [Sub Backups](https://github.com/freemediaheckyeah/streaming/wiki/r-freemediaheckyeah-Backups)
