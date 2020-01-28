@@ -316,6 +316,7 @@
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
 * [Pahe.in](https://tinyurl.com/hewn3dy) - (Movie DL's)
 * [Topnow](https://tinyurl.com/yyhl7aja) - (Movie DL's)
+* [Crazy4TV](https://tinyurl.com/vfo5mqj) - (Movies/TV DL's)
 * [Snahp](https://tinyurl.com/y3kpou3w) - (Movie, TV and Anime DL's)
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Movie DL's)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD DL's)
