@@ -197,6 +197,7 @@
 * [VidStreaming](https://tinyurl.com/y6ru87sr) - (Mixed Servers, Big Library, 720p)
 * [Dubbed Anime](https://tinyurl.com/yy9oeogy) - (+ Cartoons, Dedicated Server, Medium Library, 720p)
 * [AnimeHub](https://tinyurl.com/y63k7nn7) - (JW Player, Medium Library, 720p)
+* [AnimeHub.xyz](https://tinyurl.com/ucflumc) - (Mixed Servers, Small Library, 720p)
 * [Anime Show](https://tinyurl.com/npeukxu) - (JW Player, Medium Library, 720p)
 * [Chia-Anime](https://tinyurl.com/y4vbk9fv) - (JW Player, Medium Library, 720p)
 * [Anime Rush](https://tinyurl.com/jx7vewu) - (JW Player, Medium Library, 720p)
