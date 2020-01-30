@@ -305,7 +305,6 @@
 * [SwiftStreams](https://tinyurl.com/y42xbqth) - (Live TV)
 * [TVTap](https://tinyurl.com/rfj48a3) - (Live TV)
 * [CKayTV](https://tinyurl.com/syee72k) - (Live TV)
-* [Android Movie Apps](https://tinyurl.com/y2s275uf) - (Apps List)
 * [r/AnimePiracy Apks](https://tinyurl.com/y35pteqj) - (Anime Apps List)
 
 ***
