@@ -156,6 +156,7 @@
 * [**WatchSeries**](https://tinyurl.com/y968ezyj) - (TV, Anime, Mixed Servers, Huge Library, SD/HD)
 * [**WatchEpisodes**](https://tinyurl.com/kzrdpkk) - (TV, Anime, Mixed Servers, Big Library, 1080p)
 * [**KissCartoon**](https://tinyurl.com/ycm25f9z) or [KimCartoon](https://tinyurl.com/y4xp3yny) - (Cartoons, JW Player, Big Library, 1080p)
+* [Noxx](https://tinyurl.com/r9u9bea) - (TV, Dedicated Server, Big Library, 720p)
 * [Ctoon](https://tinyurl.com/sffe5wy) - (Cartoons, Dedicated, Small Library, 1080p)
 * [Watchseries 2.0](https://tinyurl.com/tcp947w) - (TV, Anime, JWPlayer, Big Library, 720p)
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Mixed Servers, Medium Library, SD)
