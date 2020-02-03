@@ -21,7 +21,7 @@
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB ID's)
 * [CrocoVid](https://tinyurl.com/vood4uo) - (Search Multiple Players)
 * [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search NetU & more)
-* [AIO Search](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream Sites)
+* [AIO Search](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream/Subtitle Sites)
 * [OK](https://tinyurl.com/t2my7vq) - (Obscure Movies)
 * [YouTube](https://www.youtube.com/) - (Obscure Movies)
 * [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
@@ -345,7 +345,7 @@
 * [Torrent Clients](https://tinyurl.com/y3l8o4zb)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked versions of torrent sites)
 * [Tracker Tracker](https://tinyurl.com/hjh48br) - (Tracker Tracker)
-* [AIO Search](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream Sites)
+* [AIO Search](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream/Subtitle Sites)
 
 ***
 
