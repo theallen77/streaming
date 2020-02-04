@@ -306,6 +306,7 @@
 * [SwiftStreams](https://tinyurl.com/y42xbqth) - (Live TV)
 * [TVTap](https://tinyurl.com/rfj48a3) - (Live TV)
 * [CKayTV](https://tinyurl.com/syee72k) - (Live TV)
+* [General Android APK Sites](https://tinyurl.com/stf2jsl)
 * [r/AnimePiracy Apks](https://tinyurl.com/y35pteqj) - (Anime Apps List)
 
 ***
@@ -317,7 +318,7 @@
 * [Pahe.in](https://tinyurl.com/hewn3dy) - (Movie DL's)
 * [Topnow](https://tinyurl.com/yyhl7aja) - (Movie DL's)
 * [Crazy4TV](https://tinyurl.com/vfo5mqj) - (Movies/TV DL's)
-* [megaDDL0(https://tinyurl.com/ycvx9vau) - (Movies/TV DL's)
+* [megaDDL](https://tinyurl.com/ycvx9vau) - (Movies/TV DL's)
 * [Snahp](https://tinyurl.com/y3kpou3w) - (Movie, TV and Anime DL's)
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Movie DL's)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD DL's)
