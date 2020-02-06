@@ -187,6 +187,7 @@
 * [**r/AnimePiracy Index**](https://tinyurl.com/vcppowp) - (Anime + Manga sites)
 * [**9Anime**](https://tinyurl.com/ydgladf3) - (Mixed, Big Library, 1080p) 
 * [**Kissanime.ru**](https://tinyurl.com/yyxzrgtu) or [Kissanime.ac](https://tinyurl.com/y66v33go) - (Mixed Servers, Big Library, 1080p)
+* [**Aniwatch**](https://tinyurl.com/uluwl26) - (Dedicated Server, Big Library, 1080p)
 * [Twist.moe](https://tinyurl.com/y6p7w6p4) - (Dedicated Servers, Big Library, 720p)
 * [4Anime](https://tinyurl.com/yxu7hqmj) - (Dedicated Servers, Medium Library, 1080p)
 * [AnimePahe](https://tinyurl.com/yyuzwr7m) - (Mixed Servers, Big Library, 1080p)
