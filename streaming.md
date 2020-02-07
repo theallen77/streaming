@@ -331,10 +331,11 @@
 **Torrent**
 
 * **IMPORTANT** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting or using any of the apps below.
+* [**Torrent Clients**](https://tinyurl.com/txregtr)
+* [**General Torrent Sites**](https://tinyurl.com/vbshno8) 
 * [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App, PC, Mac, Linux, Android, IOS) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
 * [**Popcorn Time**](https://tinyurl.com/wdfv7qz) - (Torrent Streaming App, PC, Mac, Android)
 * [**Flixerr**](https://tinyurl.com/y59eeheg) - (Torrent Streaming App, PC)
-* [**General Torrent Sites**](https://tinyurl.com/vbshno8) 
 * [YTS](https://tinyurl.com/y3tkjz3d) - (Movie Torrents)
 * [MovieNagnet](https://tinyurl.com/uvmbjch) - (Movie Torrents)
 * [EZTV](https://tinyurl.com/y8uwks8t) - (Movie/TV Torrents)
@@ -344,10 +345,12 @@
 * [BTorrent](https://tinyurl.com/y6l3krsx) - (Download/stream torrents from browser) 
 * [Anime Torrent Sites](https://www.reddit.com/r/animepiracy/wiki/animetorrentlist)
 * [Rutracker](https://tinyurl.com/y2togjmp) - (Sports Torrents)
-* [Torrent Clients](https://tinyurl.com/y3l8o4zb)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked versions of torrent sites)
 * [Tracker Tracker](https://tinyurl.com/hjh48br) - (Tracker Tracker)
 * [AIO Search](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream/Subtitle Sites)
+* [WebTorrent](https://tinyurl.com/yauxwmop) - (Streaming Torrent App)
+* [Peerflix](https://tinyurl.com/pu8kj3j) - (Streaming torrent client for node.js)
+* [Rapidbay](https://tinyurl.com/v5k2fra) - (Torrent streaming with Chromecast and AppleTV)
 
 ***
 
