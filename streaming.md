@@ -116,6 +116,7 @@
 * [**123movie.page**](https://tinyurl.com/yyy6s5by) - (Movies, TV, Anime, Big Library, 1080p)
 * [**5Movies**](https://tinyurl.com/y3ckcq79) - (Movies, TV, Anime, Huge Library, 1080p) 
 * [**Primewire**](https://tinyurl.com/y7densft) - (Movies, TV, Anime, Huge Library, 720p)
+* [EzWatchFree](https://tinyurl.com/tqsw2qv)  - (Movies, Huge Library, 720p)
 * [2TwoMovies](https://tinyurl.com/y3pry22t) - (Movies, TV, Anime, Huge Library, 1080p) 
 * [Stream Likers](https://tinyurl.com/y2w55gef) - (Movies, TV, Medium Library, 1080p)
 * [123mvi](https://tinyurl.com/rq7f7gk) - (Movies, TV, Small Library, 1080p)
