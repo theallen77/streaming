@@ -9,6 +9,7 @@
 **Apps**
 
 * [**LeonFlix**](https://tinyurl.com/y6vtutak) - (PC/Mac) - /r/leonflix 
+* [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (PC/Mac/Android)
 * [Kodi](https://tinyurl.com/zymo4y7) - (PC/Mac/Android/iOS) - /r/Addons4Kodi, [Tracker](https://tinyurl.com/y2ygqbyw) + [Trending](https://tinyurl.com/ycthlf8t)
 
 ***
@@ -83,6 +84,7 @@
 * [Genvideos](https://tinyurl.com/yynbep4b) - (Movies, TV, Medium Library, 1080p)
 * [HackIMDb](https://tinyurl.com/yyj8awpq) - (Movies, Medium Library, 1080p)  
 * [DutaFilm](https://tinyurl.com/skjaz6h) - (Movies, TV, Anime, Big Library, 1080p)
+* [GoStream](https://tinyurl.com/y2tluukl) - (Movies, TV, Medium Library, 720p)
 * [Bmovies.nl](https://tinyurl.com/y266yqpn) - (Movies, TV, Anime, Big Library, 720p)
 * [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV, Big Library, 720p)
 * [Openload.watch](https://tinyurl.com/y5m6hbea) - (Movies, TV, Anime, Big Library, 720p)
@@ -116,6 +118,8 @@
 * [**123movie.page**](https://tinyurl.com/yyy6s5by) - (Movies, TV, Anime, Big Library, 1080p)
 * [**5Movies**](https://tinyurl.com/y3ckcq79) - (Movies, TV, Anime, Huge Library, 1080p) 
 * [**Primewire**](https://tinyurl.com/y7densft) - (Movies, TV, Anime, Huge Library, 720p)
+* [**TeaTV**](https://tinyurl.com/y67k3mrk) - (Movies, TV, Anime, Big Library, SD)
+* [GoMovies](https://tinyurl.com/y4xnzkvp) - (Movies, TV, Anime, Huge Library, SD)
 * [EzWatchFree](https://tinyurl.com/tqsw2qv)  - (Movies, Huge Library, 720p)
 * [2TwoMovies](https://tinyurl.com/y3pry22t) - (Movies, TV, Anime, Huge Library, 1080p) 
 * [Stream Likers](https://tinyurl.com/y2w55gef) - (Movies, TV, Medium Library, 1080p)
@@ -193,6 +197,7 @@
 * [Twist.moe](https://tinyurl.com/y6p7w6p4) - (Dedicated Servers, Big Library, 720p)
 * [4Anime](https://tinyurl.com/yxu7hqmj) - (Dedicated Servers, Medium Library, 1080p)
 * [AnimePahe](https://tinyurl.com/yyuzwr7m) - (Mixed Servers, Big Library, 1080p)
+* [AnimeFlix](https://tinyurl.com/y5yltekb) - (JW Player, Medium Library, 720p)
 * [AnimeVibe](https://tinyurl.com/wchbgty) - (Mixed Servers, Big Library, 720p)
 * [AnimeBam](https://tinyurl.com/y2lmtdu4)  - (Dedicated Servers, Medium Library, 1080p)
 * [Ryuanime](https://tinyurl.com/y4z6y73z) - (Dedicated Server, Big Library, 720p)
@@ -253,7 +258,7 @@
 
 * If on android try [Vanced](https://tinyurl.com/ya86n837) - (Background play, no ads & dark mode)
 * [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
-* [**Youtube Movies Multireddit**](https://www.reddit.com/user/nbatman/m/streaming/) - (Youtube streaming subreddits)
+* [**YT Movies Multireddit**](https://www.reddit.com/user/nbatman/m/streaming/) - (Youtube streaming subreddits)
 * [**Official YT Movies**](https://tinyurl.com/y4kxshr5) - (Free with Ads)
 * [TromaMovies](https://tinyurl.com/kd2v3hg) - (Horror)
 * [KingsofHorror](https://tinyurl.com/y2xk4rv5) - (Horror)
@@ -281,6 +286,7 @@
 * **Important** - Block Ads with [**AdGuard** (Premium Unlocked)](https://redd.it/d0zair), [AdAway](https://tinyurl.com/yavxv6zr) or [Blokada](https://blokada.org/). If using sites try [Opera](https://www.opera.com/mobile/operabrowser) as it has a built in adblocker. 
 * Note - Apks work on PC/Mac via [BlueStacks](https://tinyurl.com/pf7ahx8) or [Nox.](https://tinyurl.com/l6pxakt)
 * **r/ApksApps** - (Updated Apk's DL's)
+* [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (PC/Mac/Android)
 * [**TVZion**](https://tinyurl.com/y2lgr3uz) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**BeeTV**](https://tinyurl.com/y6ze6k89) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**Crunchyroll**](https://redd.it/d0zair) - (Premium Features unlocked, Anime, 1080p)
@@ -289,7 +295,7 @@
 * [UnlockMyTV](https://tinyurl.com/y5po32l9) or [Cinema HD Movies](https://tinyurl.com/yalfc2m9) - (Movies, TV, Anime, 1080p, Big Library, Chromecast)
 * [AnimeGlare](https://tinyurl.com/y4capwf7) - (Anime, Some 1080p/720p, Chromecast, **iOS**)
 * [Titanium TV](https://tinyurl.com/y4ssamtw) - (Movies, TV, Anime, 1080p, Big Library, Chromecast)
-* [OneBox HD](https://tinyurl.com/yxk7rntf) - (Movies, TV, 1080p, Medium Library)
+* [OneBox](https://tinyurl.com/yxk7rntf) - (Movies, TV, 1080p, Medium Library)
 * [CyberFlix](https://tinyurl.com/sym6ec3) - (Movies, TV, Anime, 1080p, Medium Library)
 * [VivaTV](https://tinyurl.com/se7zvvl) - (Movies, TV, Anime 1080p, Huge Library, Chromecast)
 * [NovaTV](https://tinyurl.com/yxy3y6ph) - (Movies, TV, Anime, Big Library, 1080p, Chromecast)
