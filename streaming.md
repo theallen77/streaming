@@ -26,7 +26,7 @@
 * [YouTube](https://www.youtube.com/) - (Obscure Movies)
 * [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
 * [OK](https://tinyurl.com/t2my7vq) - (Obscure Movies)
-* [Vimeo](https://tinyurl.com/6rsk78q) - (Obscure Movies)
+* [Vimeo](https://tinyurl.com/rypmcqt) - (Obscure Movies)
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Providers)
 * Add "site:drive.google.com" to a search to search Google Drive 
 * Add "site:vk.com" to a search to search VK
