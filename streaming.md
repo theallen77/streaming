@@ -269,6 +269,7 @@
 * [Classic Movies Channel](https://tinyurl.com/yyyunayn) - (Classic)
 * [TimelessClassicMovies](https://tinyurl.com/y4zgsovx) - (Classic)
 * [Mr. SPINKS!!](https://tinyurl.com/y6467v5u) - (Classic)
+* [green lamp public domain](https://tinyurl.com/v8w7rzj) - (Classic)
 * [WTvF!](https://tinyurl.com/y4z5uzom) - (Explotation)
 * [Deranged Visions](https://tinyurl.com/y2ll3vnk) - (Explotation)
 * [Eurocrime Realm](https://tinyurl.com/y574q348) - (70's Italian Crime)
