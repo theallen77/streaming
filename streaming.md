@@ -107,7 +107,7 @@
 * [Portalultautv](https://tinyurl.com/y6bor2jw) - (Movies, TV, Medium Library, 1080p)
 * [WatchFree.ac](https://tinyurl.com/y4jwysar) - (Movies, TV, Big Library, SD)
 * [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, Big Library, 720p)
-* [AllGame4You](https://tinyurl.com/u56wszn) - (Movies, TV, Big Library, 720p)
+* [AllGames4You](https://tinyurl.com/u56wszn) - (Movies, TV, Big Library, 720p)
 * [Swefilmer](https://tinyurl.com/w3xd2az) - (Movies, TV, Medium Library, 720p)
 * [MovieFire](https://tinyurl.com/y36tj8w4) - (Movies, Small Library, 720p)
 * [MoviesHDstreaming](https://tinyurl.com/v2slm42) - (Movies, Small Library, 720p)
