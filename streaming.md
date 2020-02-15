@@ -345,6 +345,7 @@
 * [**Flixerr**](https://tinyurl.com/y59eeheg) - (Torrent Streaming App, PC)
 * [YTS](https://tinyurl.com/y3tkjz3d) - (Movie Torrents)
 * [MovieNagnet](https://tinyurl.com/uvmbjch) - (Movie Torrents)
+* [Magnet4You](https://tinyurl.com/tdc2hpc) - (Movie/TV Torrents)
 * [EZTV](https://tinyurl.com/y8uwks8t) - (Movie/TV Torrents)
 * [Sodaplayer](https://tinyurl.com/y7jp5uz7) - (Torrent Streaming App, PC/Mac)
 * [BitLord](https://tinyurl.com/3c97z9) - (Torrent Streaming App, PC/Mac)
