@@ -55,6 +55,7 @@
 * [Vudu](https://tinyurl.com/undxnps) - (Movies, Small Library, 720p)
 * [Pluto.tv](https://tinyurl.com/wqezspv) - (Movies, TV, Small Library, 720p)
 * [Tubi](https://tinyurl.com/yd3sgrry) - (Movies, Big Library, SD)
+* [Youtube Movie Channels](https://tinyurl.com/vpbql4o) - (Channels that host films)
 
 ***
 
@@ -140,6 +141,7 @@
 
 **Specialty Sites**
 
+* [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
 * [**RareFilmm**](https://tinyurl.com/y5l8ot86) - (Rare/Forgotten Films)
 * [**Club MST3k**](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
 * [Classic Cinema Online](https://tinyurl.com/27r9a5) - (Classic Films)
@@ -251,34 +253,6 @@
 * [MamaHD](https://tinyurl.com/y4se477p) - (Live Sports)
 * [BossCast](https://tinyurl.com/s3z82tu) - (Live Sports)
 * *Sports Streaming Subbreddits* - /r/MLBStreams, /r/ncaaBBallStreams, /r/WWEstreams, /r/rugbystreams
-
-***
-
-**YouTube**
-
-* If on android try [Vanced](https://tinyurl.com/ya86n837) - (Background play, no ads & dark mode)
-* [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
-* [**YT Movies Multireddit**](https://www.reddit.com/user/nbatman/m/streaming/) - (Youtube streaming subreddits)
-* [**Official YT Movies**](https://tinyurl.com/y4kxshr5) - (Free with Ads)
-* [TromaMovies](https://tinyurl.com/kd2v3hg) - (Horror)
-* [KingsofHorror](https://tinyurl.com/y2xk4rv5) - (Horror)
-* [New Castle After Dark](https://tinyurl.com/y544uk4m) - (Horror)
-* [Booh](https://tinyurl.com/y4jc3du8) - (Horror)
-* [PhattPhucks](https://tinyurl.com/yxcaokk3) - (Horror)
-* [Vulture](https://tinyurl.com/y55l9qe9) - (Classic/Horror)
-* [Classic Movies Channel](https://tinyurl.com/yyyunayn) - (Classic)
-* [TimelessClassicMovies](https://tinyurl.com/y4zgsovx) - (Classic)
-* [Mr. SPINKS!!](https://tinyurl.com/y6467v5u) - (Classic)
-* [green lamp public domain](https://tinyurl.com/v8w7rzj) - (Classic)
-* [WTvF!](https://tinyurl.com/y4z5uzom) - (Explotation)
-* [Deranged Visions](https://tinyurl.com/y2ll3vnk) - (Explotation)
-* [Eurocrime Realm](https://tinyurl.com/y574q348) - (70's Italian Crime)
-* [Barbarella X](https://tinyurl.com/y5re24t8) - (Sci-Fi)
-* [Grjngo Western](https://tinyurl.com/y5pfvo3z) - (Western)
-* [Cloud 5](https://tinyurl.com/yxb3yozw) - (Family)
-* [Popcornflix](https://tinyurl.com/yxwszlmw) - (General Movies)
-* [Artflix](https://tinyurl.com/y3owmkjy) - (General Movies)
-* [Flixdome](https://tinyurl.com/y67hygqg) - (General Movies)
 
 ***
 
