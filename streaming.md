@@ -295,7 +295,6 @@
 * [UnlockMyTV](https://tinyurl.com/y5po32l9) or [Cinema HD Movies](https://tinyurl.com/yalfc2m9) - (Movies, TV, Anime, 1080p, Big Library, Chromecast)
 * [AnimeGlare](https://tinyurl.com/y4capwf7) - (Anime, Some 1080p/720p, Chromecast, **iOS**)
 * [Titanium TV](https://tinyurl.com/y4ssamtw) - (Movies, TV, Anime, 1080p, Big Library, Chromecast)
-* [OneBox](https://tinyurl.com/yxk7rntf) - (Movies, TV, 1080p, Medium Library)
 * [CyberFlix](https://tinyurl.com/sym6ec3) - (Movies, TV, Anime, 1080p, Medium Library)
 * [VivaTV](https://tinyurl.com/se7zvvl) - (Movies, TV, Anime 1080p, Huge Library, Chromecast)
 * [NovaTV](https://tinyurl.com/yxy3y6ph) - (Movies, TV, Anime, Big Library, 1080p, Chromecast)
