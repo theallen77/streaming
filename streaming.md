@@ -301,6 +301,7 @@
 
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
+* [**Anime Download Sites**](https://tinyurl.com/sjrh26b)
 * [Pahe.in](https://tinyurl.com/hewn3dy) - (Movie DL's)
 * [Topnow](https://tinyurl.com/yyhl7aja) - (Movie DL's)
 * [Crazy4TV](https://tinyurl.com/vfo5mqj) - (Movies/TV DL's)
@@ -318,6 +319,7 @@
 * **IMPORTANT** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting or using any of the apps below.
 * [**Torrent Clients**](https://tinyurl.com/txregtr)
 * [**General Torrent Sites**](https://tinyurl.com/vbshno8) 
+* [**Anime Torrent Sites**](https://tinyurl.com/vryebbf)
 * [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App, PC, Mac, Linux, Android, IOS) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
 * [**Popcorn Time**](https://tinyurl.com/wdfv7qz) - (Torrent Streaming App, PC, Mac, Android)
 * [**Flixerr**](https://tinyurl.com/y59eeheg) - (Torrent Streaming App, PC)
@@ -329,7 +331,6 @@
 * [BitLord](https://tinyurl.com/3c97z9) - (Torrent Streaming App, PC/Mac)
 * [Magnetoo](https://tinyurl.com/y5c5mojq) - (Stream torrents via browser) 
 * [BTorrent](https://tinyurl.com/y6l3krsx) - (Download/stream torrents from browser) 
-* [Anime Torrent Sites](https://www.reddit.com/r/animepiracy/wiki/animetorrentlist)
 * [Rutracker](https://tinyurl.com/y2togjmp) - (Sports Torrents)
 * [Unblocked](https://tinyurl.com/ybkdftjg) - (Unblocked versions of torrent sites)
 * [Tracker Tracker](https://tinyurl.com/hjh48br) - (Tracker Tracker)
