@@ -47,6 +47,7 @@
 * [LunchFlix](https://tinyurl.com/tr3lnvg) - (Movies, TV, Medium Library, 1080p)
 * [SnagFilms](https://tinyurl.com/5aluuz) - (Movies, TV, Small Library, 1080p)
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Big Library, 720p)
+* [TheMovieBay](https://tinyurl.com/st25aco) - (Movies, TV, Big Library, 720p)
 * [AZMovies](https://tinyurl.com/y6f5d3p2) - (Movies, Small Library, 720p)
 * [Oakmovies](https://tinyurl.com/y2hljqqa) - (Movies, Small Library, 1080p)
 * [IMDb Freedrive](https://tinyurl.com/yybmqsds) - (Movies, TV, Small Library, 720p)
