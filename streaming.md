@@ -178,7 +178,7 @@
 * [b98](https://tinyurl.com/y35mbjyo) - (Cartoons, JW Player, Small Library, SD)
 * [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
 * [SimpsonsWorld](https://tinyurl.com/y5pqzqsl) - (Simpsons episodes)
-* [IPTV](https://tinyurl.com/y364qs5t) - (8000+ publicly available Live IPTV channel) + [Awesome IPTV](https://tinyurl.com/w3q65t9), [Kodi App](https://tinyurl.com/uyeklow), [Android App](https://tinyurl.com/w4d2mmf)
+* [IPTV](https://tinyurl.com/y364qs5t) - (8000+ publicly available Live IPTV channels) + [Awesome IPTV](https://tinyurl.com/w3q65t9), [Kodi App](https://tinyurl.com/uyeklow), [Android App](https://tinyurl.com/w4d2mmf)
 * [CXTv](https://tinyurl.com/tt5ezfx) - (Live TV) 
 * [Stream2Watch](https://tinyurl.com/y2fn9axa) - (Live TV)
 * [WebOas.is TV](https://tinyurl.com/wtrz9zh) - (Live TV)
