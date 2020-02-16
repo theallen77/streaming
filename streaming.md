@@ -309,8 +309,6 @@
 * [Snahp](https://tinyurl.com/y3kpou3w) - (Movie, TV and Anime DL's)
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Movie DL's)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD DL's)
-* [Animekaizoku](https://tinyurl.com/yxqfdlex) - (Direct DL Anime)
-* [Animetosho](https://tinyurl.com/83kpyt2) - (Direct DL Anime)
 
 ***
 
