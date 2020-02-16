@@ -315,7 +315,7 @@
 **Torrent**
 
 * **IMPORTANT** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting or using any of the apps below.
-* [**Torrent Clients**](https://tinyurl.com/txregtr)
+* [**Torrent Clients**](https://tinyurl.com/txregtr) + Android Clients
 * [**General Torrent Sites**](https://tinyurl.com/vbshno8) 
 * [**Anime Torrent Sites**](https://tinyurl.com/vryebbf)
 * [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App, PC, Mac, Linux, Android, IOS) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
