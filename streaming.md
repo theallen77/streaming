@@ -97,6 +97,7 @@
 * [Vumoo](https://tinyurl.com/y3q422ft) - (Movies, TV, Small Library, 720p)
 * [Los-Movies](https://tinyurl.com/rdexz2c) - (Movies, TV, Big Library, 720p)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, Small Library, 720p)
+* [SolarMovie123](https://tinyurl.com/t9mf2cl) - (Movies, Small Library, 720p)
 
 ***
 
