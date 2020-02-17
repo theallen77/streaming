@@ -131,6 +131,7 @@
 * [2TwoMovies](https://tinyurl.com/y3pry22t) - (Movies, TV, Anime, Huge Library, 1080p) 
 * [123mvi](https://tinyurl.com/rq7f7gk) - (Movies, TV, Small Library, 1080p)
 * [123Movies4u](https://tinyurl.com/uejf5j8) - (Movies, TV, Anime, Big Library, 720p)
+* [SirFlix](https://tinyurl.com/va7avc9) - (Movies, TV, Big Library, 1080p)
 * [ProjectFreeTV](https://tinyurl.com/y3qbsemt) - (Movies, TV, Small Library, 1080p)
 * [CMovies](https://tinyurl.com/y2hbnwx4) - (Movies, TV, Anime, Huge Library, 720p)
 * [FFilms](https://tinyurl.com/vzq88ul) - (Movies, TV, Big Library, 720p)
