@@ -37,7 +37,6 @@
 
 * [**LookMovie**](https://tinyurl.com/y95z3flk) - (Movies, TV, Big Library, 1080p) 
 * [**Soap2Day**](https://tinyurl.com/v938lqc) - (Movies, TV, Big Library, 1080p)
-* [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/Cafehulu-Clones) - (Movies, TV, Anime, Huge Library, SD) 
 * [**Batflix**](https://tinyurl.com/tnq38sy) - (Movies, TV, Medium Library, 720p)
 * [**CineWhale**](https://tinyurl.com/y3uh48sn) or [CineBloom](https://tinyurl.com/y4k9j8k9) - (Movies, TV, Big Library, 1080p)
 * [**HDBest**](https://tinyurl.com/y2dg76vm) or [VikV](https://tinyurl.com/rw5k6q2) - (Movies, Big Library, 1080p)
@@ -98,6 +97,13 @@
 * [Los-Movies](https://tinyurl.com/rdexz2c) - (Movies, TV, Big Library, 720p)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, Small Library, 720p)
 * [SolarMovie123](https://tinyurl.com/t9mf2cl) - (Movies, Small Library, 720p)
+
+***
+
+**ePlayVid Hosts**
+
+* [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/Cafehulu-Clones) - (Movies, TV, Anime, Huge Library, 720p) 
+* [FMoviesTV](https://tinyurl.com/ttoa43b) - (Movies, TV, Anime, Big Library, 720p) 
 
 ***
 
