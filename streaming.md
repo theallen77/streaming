@@ -78,6 +78,7 @@
 * [Movie4u](https://tinyurl.com/y3745pdx) - (Movies, TV, Big Library, 1080p)
 * [Movies-Free](https://tinyurl.com/rfgrzdq) - (Movies, TV, Big Library, 1080p)
 * [hdmo](https://tinyurl.com/wfjwurr) - (Movies, TV, Medium Library, 1080p)
+* [Moovies](https://tinyurl.com/w7kmofm) - (Movies, TV, Big Library, 1080p)
 * [MoTView](https://tinyurl.com/sphv7r7) - (Movies, TV, Anime, Medium Library, 720p)
 * [Nites](https://tinyurl.com/y4fspmxn) - (Movies, Medium Library, 1080p)
 * [1watchfree](https://tinyurl.com/y5o733hu) - (Movies, TV, Small Library, 1080p)
@@ -98,7 +99,7 @@
 * [Los-Movies](https://tinyurl.com/rdexz2c) - (Movies, TV, Big Library, 720p)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, Small Library, 720p)
 * [SolarMovie123](https://tinyurl.com/t9mf2cl) - (Movies, Small Library, 720p)
-* [CouchTuner](https://tinyurl.com/ruzyyje)  (Movies, TV, Anime, Huge Library, SD)
+* [CouchTuner](https://tinyurl.com/ruzyyje) - (Movies, TV, Anime, Huge Library, SD)
 
 ***
 
