@@ -98,6 +98,7 @@
 * [Los-Movies](https://tinyurl.com/rdexz2c) - (Movies, TV, Big Library, 720p)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, Small Library, 720p)
 * [SolarMovie123](https://tinyurl.com/t9mf2cl) - (Movies, Small Library, 720p)
+* [CouchTuner](https://tinyurl.com/ruzyyje)  (Movies, TV, Anime, Huge Library, SD)
 
 ***
 
