@@ -113,9 +113,10 @@
 **NetU Hosts**
 
 * [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Click [blue box](https://tinyurl.com/y2o7pkpu) on player at bottom of page, IMDB ID's work)
+* [**Alluc.uno**](https://tinyurl.com/y4vbvde9) - (Search NetU & more)
 * [**TopEuroPix**](https://tinyurl.com/y3datoqg) or [HDeuropix](https://tinyurl.com/y4rn4p42) - (Movies, TV, Anime, Big Library, 720p)
 * [**5movies.live**](https://tinyurl.com/y2fukz3y) - (Movies, TV, Big Library, 720p)
-* [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search NetU & more)
+* [MovieUltima](https://tinyurl.com/vv8h9a4) - (Movies, Big Library, 720p)
 * [Portalultautv](https://tinyurl.com/y6bor2jw) - (Movies, TV, Medium Library, 1080p)
 * [WatchMoviesNow](https://tinyurl.com/s35rsvs) - (Movies, Medium Library, 720p)
 * [WatchFree.ac](https://tinyurl.com/y4jwysar) - (Movies, TV, Big Library, SD)
@@ -130,6 +131,7 @@
 
 **Mixed Hosts**
 
+* [**Movie-Forum**](https://tinyurl.com/s3n3z4v) - (Movie Hosting Forum)
 * [**123movie.page**](https://tinyurl.com/yyy6s5by) - (Movies, TV, Anime, Big Library, 1080p)
 * [**5Movies**](https://tinyurl.com/y3ckcq79) - (Movies, TV, Anime, Huge Library, 1080p) 
 * [**Primewire**](https://tinyurl.com/y7densft) - (Movies, TV, Anime, Huge Library, 720p)
