@@ -42,6 +42,7 @@
 * [**HDBest**](https://tinyurl.com/y2dg76vm) or [VikV](https://tinyurl.com/rw5k6q2) - (Movies, Big Library, 1080p)
 * [FlixGo](https://tinyurl.com/y6pl2zbz) - (Movies, TV, Big Library, 1080p)
 * [Popcornflix](https://tinyurl.com/y54s87k9) - (Movies, TV, Medium Library, 1080p)
+* [UniqueStream](https://tinyurl.com/ycxswmmd) - (Movies, TV, Anime, Big Library, 1080p)
 * [LunchFlix](https://tinyurl.com/tr3lnvg) - (Movies, TV, Medium Library, 1080p)
 * [SnagFilms](https://tinyurl.com/5aluuz) - (Movies, TV, Small Library, 1080p)
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Big Library, 720p)
