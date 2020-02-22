@@ -328,6 +328,10 @@
 * [Snahp](https://tinyurl.com/y3kpou3w) - (Movie, TV and Anime DL's)
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Movie DL's)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD DL's)
+* [x265 Movies](https://tinyurl.com/umjvn9g) - (Movies/TV DL's)
+* [MoviesWBB](https://tinyurl.com/y9xryp2n) - (Movies/TV DL's)
+* [HugeWarez](https://tinyurl.com/yx2gpfb8) - (Movies/TV DL's)
+* [Best-MovieZ](https://tinyurl.com/wotktw8) - (Movies/TV DL's)
 
 ***
 
