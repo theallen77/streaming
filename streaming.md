@@ -152,6 +152,7 @@
 * [VMovie](https://tinyurl.com/rlr4xlz) - (Movies, TV, Small Library, 1080p)
 * [MovieBay](https://tinyurl.com/y9g9z4md) - (Movies, TV, Anime, Huge Library, 720p)
 * [Series9](https://tinyurl.com/y75dvzxn) or [CMovies](https://tinyurl.com/y2hbnwx4) - (Movies, TV, Anime, Huge Library, 720p)
+* [DirtyWarez Streaming](https://tinyurl.com/y7tfspy2) - (Ranks Streaming Sites)
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
 * /r/MovieStreamingSites - (Streaming Sites Sub)
 
