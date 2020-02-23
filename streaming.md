@@ -70,9 +70,11 @@
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p) 
 * [**Yes! Movies**](https://tinyurl.com/y49j28s3), [Putlocker.vip](https://tinyurl.com/y52cbzlk) or [Solarmoviez](https://tinyurl.com/y69bm4mf) - (Movies, TV, Anime, Big Library, 1080p)
 * [**Streamlord**](https://tinyurl.com/ybrtnppf) - (Movies, TV, Medium Library, 720p)
+* [MovieGaga](https://tinyurl.com/y5x3lqyy) - (Movies, TV, Anime, Big Library, 1080p)
+* [CouchTuner](https://tinyurl.com/ruzyyje) - (Movies, TV, Anime, Huge Library, SD)
+* [iCin3ma](https://tinyurl.com/utrqag4) - (Movies, TV, Medium Library, 1080p)
 * [OnionPlay](https://tinyurl.com/v8k74np) - (Movies, TV, Small Library, 1080p) 
 * [Yesmovies.tech](https://tinyurl.com/w6odsye), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/yesmovies.tech-Clones) - (Movies, Big Library, 1080p)
-* [MovieGaga](https://tinyurl.com/y5x3lqyy) - (Movies, TV, Anime, Big Library, 1080p)
 * [Afdah](https://tinyurl.com/tzh3jck) - (Movies, TV, Big Library, 1080p)
 * [123Movies.mx](https://tinyurl.com/y3rk2ccp) - (Movies, TV, Big Library, 1080p) 
 * [Openload.bz](https://tinyurl.com/y2yshmvk) - (Movies, TV, Big Library, 1080p) 
@@ -100,7 +102,6 @@
 * [Los-Movies](https://tinyurl.com/rdexz2c) - (Movies, TV, Big Library, 720p)
 * [Filmxy](https://tinyurl.com/y7lr4h69) - (Movies, Small Library, 720p)
 * [SolarMovie123](https://tinyurl.com/t9mf2cl) - (Movies, Small Library, 720p)
-* [CouchTuner](https://tinyurl.com/ruzyyje) - (Movies, TV, Anime, Huge Library, SD)
 
 ***
 
