@@ -245,6 +245,7 @@
 * [WatchCartoon](https://tinyurl.com/y6h2pyfn) - (+ Cartoons, Dedicated Server, Big Library, 720p)
 * [Cartoon Crazy](https://tinyurl.com/y3axybww) - (+ Cartoons, JW Player, Big Library, 720p)
 * [Anime-Loads](https://tinyurl.com/yy2cse8o) - (German dubs/subs, Mixed Servers, Big Library, 720p)
+* [Aninow](https://tinyurl.com/us8uwom) - (English Subs/dubs, Multple servers,720p)
 
 ***
 
