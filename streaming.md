@@ -131,7 +131,7 @@
 
 ***
 
-**Mixed Hosts**
+**Multi Hosts**
 
 * [**YourPTFlixMovies**](https://tinyurl.com/u3qnwj9) - (Movie Hosting Forum)
 * [**Movie-Forum**](https://tinyurl.com/s3n3z4v) - (Movie Hosting Forum)
@@ -183,18 +183,18 @@
 **TV Sites**
 
 * **Note** - Many of the sites above have TV as well
-* [**WatchSeries**](https://tinyurl.com/y968ezyj) - (TV, Anime, Mixed Servers, Huge Library, SD/HD)
-* [**WatchEpisodes**](https://tinyurl.com/kzrdpkk) - (TV, Anime, Mixed Servers, Big Library, 1080p)
+* [**WatchSeries**](https://tinyurl.com/y968ezyj) - (TV, Anime, Multi Host, Huge Library, SD/HD)
+* [**WatchEpisodes**](https://tinyurl.com/kzrdpkk) - (TV, Anime, Multi Host, Big Library, 1080p)
 * [**KissCartoon**](https://tinyurl.com/ycm25f9z), [KissCartoon.to](https://tinyurl.com/y4p4slbc) or [KimCartoon.si](https://tinyurl.com/y4xp3yny) - (Cartoons, JW Player, Big Library, 1080p)
 * [Noxx](https://tinyurl.com/r9u9bea) - (TV, Dedicated Server, Big Library, 720p)
 * [Ctoon](https://tinyurl.com/sffe5wy) - (Cartoons, Dedicated, Small Library, 1080p)
 * [Watchseries 2.0](https://tinyurl.com/tcp947w) - (TV, Anime, JWPlayer, Big Library, 720p)
-* [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Mixed Servers, Medium Library, SD)
-* [WSO](https://tinyurl.com/y4bcfykq) - (TV, Mixed Servers, Small Library, SD)
+* [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Multi Host, Medium Library, SD)
+* [WSO](https://tinyurl.com/y4bcfykq) - (TV, Multi Host, Small Library, SD)
 * [TVZion](https://tinyurl.com/y3mg2cv3) - (TV, Big Library, 720p)
 * [TopCartoons](https://tinyurl.com/y2yt2k9q) - (Cartoons, JW Player, Small Library, SD)
 * [Kisscartoon love](https://tinyurl.com/ut77xdo) - (Cartoons, JW Player, Mediuim Library, 720p)
-* [Toonova](https://tinyurl.com/y6hlns9h) - (Cartoons, Mixed Servers, Medium Library, SD)
+* [Toonova](https://tinyurl.com/y6hlns9h) - (Cartoons, Multi Host, Medium Library, SD)
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoons, RapidVideo, Small Library, SD)
 * [b98](https://tinyurl.com/y35mbjyo) - (Cartoons, JW Player, Small Library, SD)
 * [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
@@ -217,22 +217,23 @@
 
 * **Note** - Many of the sites above have anime as well
 * [**r/AnimePiracy Index**](https://tinyurl.com/vcppowp) - (Anime + Manga sites)
-* [**9Anime**](https://tinyurl.com/ydgladf3) - (Mixed, Big Library, 1080p) 
-* [**Kissanime.ru**](https://tinyurl.com/yyxzrgtu) or [Kissanime.ac](https://tinyurl.com/y66v33go) - (Mixed Servers, Big Library, 1080p)
+* [**9Anime**](https://tinyurl.com/ydgladf3) - (Multi Host, Big Library, 1080p) 
+* [**Kissanime.ru**](https://tinyurl.com/yyxzrgtu) or [Kissanime.ac](https://tinyurl.com/y66v33go) - (Multi Host, Big Library, 1080p)
 * [**Aniwatch**](https://tinyurl.com/uluwl26) - (Dedicated Server, Big Library, 1080p)
 * [Twist.moe](https://tinyurl.com/y6p7w6p4) - (Dedicated Servers, Big Library, 720p)
 * [4Anime](https://tinyurl.com/yxu7hqmj) - (Dedicated Servers, Medium Library, 1080p)
-* [AnimePahe](https://tinyurl.com/yyuzwr7m) - (Mixed Servers, Big Library, 1080p)
+* [AnimePahe](https://tinyurl.com/yyuzwr7m) - (Multi Host, Big Library, 1080p)
+* [Aninow](https://tinyurl.com/us8uwom) - (Multi Host, Big Library, 720p)
 * [AnimeFlix](https://tinyurl.com/y5yltekb) - (JW Player, Medium Library, 720p)
-* [AnimeVibe](https://tinyurl.com/wchbgty) - (Mixed Servers, Big Library, 720p)
+* [AnimeVibe](https://tinyurl.com/wchbgty) - (Multi Host, Big Library, 720p)
 * [AnimeBam](https://tinyurl.com/y2lmtdu4)  - (Dedicated Servers, Medium Library, 1080p)
 * [Ryuanime](https://tinyurl.com/y4z6y73z) - (Dedicated Server, Big Library, 720p)
 * [Justdubs](https://tinyurl.com/yxk46cxf) - (JW Player, Big Library, 720p)
-* [GoGoAnime](https://tinyurl.com/y37d92my) or [AnimeSeries](https://tinyurl.com/y42yovha) - (Mixed Servers, Big Library, 720p)
-* [VidStreaming](https://tinyurl.com/y6ru87sr) - (Mixed Servers, Big Library, 720p)
+* [GoGoAnime](https://tinyurl.com/y37d92my) or [AnimeSeries](https://tinyurl.com/y42yovha) - (Multi Host, Big Library, 720p)
+* [VidStreaming](https://tinyurl.com/y6ru87sr) - (Multi Host, Big Library, 720p)
 * [Dubbed Anime](https://tinyurl.com/yy9oeogy) - (+ Cartoons, Dedicated Server, Medium Library, 720p)
 * [AnimeHub](https://tinyurl.com/y63k7nn7) - (JW Player, Medium Library, 720p)
-* [AnimeHub.xyz](https://tinyurl.com/ucflumc) - (Mixed Servers, Small Library, 720p)
+* [AnimeHub.xyz](https://tinyurl.com/ucflumc) - (Multi Host, Small Library, 720p)
 * [Anime Show](https://tinyurl.com/npeukxu) - (JW Player, Medium Library, 720p)
 * [Chia-Anime](https://tinyurl.com/y4vbk9fv) - (JW Player, Medium Library, 720p)
 * [Anime Rush](https://tinyurl.com/jx7vewu) - (JW Player, Medium Library, 720p)
@@ -244,8 +245,7 @@
 * [AnimeToon](https://tinyurl.com/yx5kw929) - (+ Cartoons, Dedicated Server, Big Library, 720p)
 * [WatchCartoon](https://tinyurl.com/y6h2pyfn) - (+ Cartoons, Dedicated Server, Big Library, 720p)
 * [Cartoon Crazy](https://tinyurl.com/y3axybww) - (+ Cartoons, JW Player, Big Library, 720p)
-* [Anime-Loads](https://tinyurl.com/yy2cse8o) - (German dubs/subs, Mixed Servers, Big Library, 720p)
-* [Aninow](https://tinyurl.com/us8uwom) - (English Subs/dubs, Mixed servers, Big Library, 720p)
+* [Anime-Loads](https://tinyurl.com/yy2cse8o) - (German dubs/subs, Multi Host, Big Library, 720p)
 
 ***
 
