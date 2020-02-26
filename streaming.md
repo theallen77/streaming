@@ -74,6 +74,7 @@
 * [CouchTuner](https://tinyurl.com/ruzyyje) - (Movies, TV, Anime, Huge Library, SD)
 * [iCin3ma](https://tinyurl.com/utrqag4) - (Movies, TV, Medium Library, 1080p)
 * [OnionPlay](https://tinyurl.com/v8k74np) - (Movies, TV, Small Library, 1080p) 
+* [Movies123](https://tinyurl.com/wnquzpk) - (Movies, TV, Anime, Huge Library, 720p)
 * [Yesmovies.tech](https://tinyurl.com/w6odsye), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/yesmovies.tech-Clones) - (Movies, Big Library, 1080p)
 * [BtoMovie](https://tinyurl.com/ujqkjm6) - (Movie, TV, Big Library, 720p)
 * [c1ne.co](https://tinyurl.com/yxxee458) - (Movie, TV, Big Library, 720p)
