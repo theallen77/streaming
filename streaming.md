@@ -232,6 +232,7 @@
 * [Ryuanime](https://tinyurl.com/y4z6y73z) - (Dedicated Server, Big Library, 720p)
 * [Justdubs](https://tinyurl.com/yxk46cxf) - (JW Player, Big Library, 720p)
 * [GoGoAnime](https://tinyurl.com/y37d92my) or [AnimeSeries](https://tinyurl.com/y42yovha) - (Multi Host, Big Library, 720p)
+* [StreamAnimeTV](https://tinyurl.com/sd3ez9p) - (JW Player, Big Library, 720p)
 * [VidStreaming](https://tinyurl.com/y6ru87sr) - (Multi Host, Big Library, 720p)
 * [Dubbed Anime](https://tinyurl.com/yy9oeogy) - (+ Cartoons, Dedicated Server, Medium Library, 720p)
 * [AnimeHub](https://tinyurl.com/y63k7nn7) - (JW Player, Medium Library, 720p)
