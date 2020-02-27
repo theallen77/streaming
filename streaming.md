@@ -20,7 +20,7 @@
 * [**P4Pirate**](https://tinyurl.com/wl3qkzu) - (Search Multiple Players)
 * [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Click [blue box](https://tinyurl.com/y2o7pkpu) on player at bottom of page, IMDB ID's work)
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB ID's)
-* [AIO Search](https://tinyurl.com/s55txxb) - (Multi Site Search)
+* [**AIO Search**](https://tinyurl.com/s55txxb) + [AIO Guide](https://tinyurl.com/vkvk3fm)
 * [CrocoVid](https://tinyurl.com/vood4uo) - (Search Multiple Players)
 * [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search NetU & more)
 * [YouTube](https://www.youtube.com/) - (Obscure Movies)
