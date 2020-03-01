@@ -9,7 +9,6 @@
 **Apps**
 
 * [**LeonFlix**](https://tinyurl.com/y6vtutak) - (PC/Mac) - /r/leonflix 
-* [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (PC/Mac/Android)
 * [Kodi](https://tinyurl.com/zymo4y7) - (PC/Mac/Android/iOS) - /r/Addons4Kodi, [Tracker](https://tinyurl.com/y2ygqbyw) + [Trending](https://tinyurl.com/ycthlf8t)
 
 ***
@@ -22,7 +21,6 @@
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search via direct IMDB & TMDB ID's)
 * [**AIO Search**](https://tinyurl.com/s55txxb) + [AIO Guide](https://redd.it/fa81st)
 * [CrocoVid](https://tinyurl.com/vood4uo) - (Search Multiple Players)
-* [Alluc.uno](https://tinyurl.com/y4vbvde9) - (Search NetU & more)
 * [YouTube](https://www.youtube.com/) - (Obscure Movies)
 * [Dailymotion](https://tinyurl.com/c9jk36r) - (Obscure Movies)
 * [OK](https://tinyurl.com/t2my7vq) - (Obscure Movies)
