@@ -38,6 +38,7 @@
 * [**Batflix**](https://tinyurl.com/tnq38sy) - (Movies, TV, Medium Library, 720p)
 * [**CineWhale**](https://tinyurl.com/y3uh48sn) or [CineBloom](https://tinyurl.com/y4k9j8k9) - (Movies, TV, Big Library, 1080p)
 * [**HDBest**](https://tinyurl.com/y2dg76vm) or [VikV](https://tinyurl.com/rw5k6q2) - (Movies, Big Library, 1080p)
+* [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/Cafehulu-Clones) - (Movies, TV, Anime, Huge Library, 720p) 
 * [FlixGo](https://tinyurl.com/y6pl2zbz) - (Movies, TV, Big Library, 1080p)
 * [Popcornflix](https://tinyurl.com/y54s87k9) - (Movies, TV, Medium Library, 1080p)
 * [UniqueStream](https://tinyurl.com/ycxswmmd) - (Movies, TV, Anime, Big Library, 1080p)
@@ -47,6 +48,7 @@
 * [TheMovieBay](https://tinyurl.com/st25aco) - (Movies, TV, Big Library, 720p, ProStream)
 * [AZMovies](https://tinyurl.com/y6f5d3p2) - (Movies, Small Library, 720p)
 * [Soap2Day.biz](https://tinyurl.com/varegdv) - (Movies, TV, Small Library, 720p, MyStream)
+* [FMoviesTV](https://tinyurl.com/ttoa43b) - (Movies, TV, Anime, Big Library, 720p) 
 * [IMDb Freedrive](https://tinyurl.com/yybmqsds) - (Movies, TV, Small Library, 720p)
 * [Crackle](https://tinyurl.com/ycotdtsk) - (Movies, TV, Small Library, 1080p)
 * [Roku](https://tinyurl.com/y8ddb5be) - (Movies, TV, Small Library, 720p)
@@ -54,13 +56,6 @@
 * [Pluto.tv](https://tinyurl.com/wqezspv) - (Movies, TV, Small Library, 720p)
 * [Tubi](https://tinyurl.com/yd3sgrry) - (Movies, Big Library, SD)
 * [Youtube Movie Channels](https://tinyurl.com/vpbql4o) - (Channels that host films)
-
-***
-
-**ePlayVid Hosts**
-
-* [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/Cafehulu-Clones) - (Movies, TV, Anime, Huge Library, 720p) 
-* [FMoviesTV](https://tinyurl.com/ttoa43b) - (Movies, TV, Anime, Big Library, 720p) 
 
 ***
 
