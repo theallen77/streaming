@@ -43,6 +43,7 @@
 * [Popcornflix](https://tinyurl.com/y54s87k9) - (Movies, TV, Medium Library, 1080p)
 * [UniqueStream](https://tinyurl.com/ycxswmmd) - (Movies, TV, Anime, Big Library, 1080p)
 * [LunchFlix](https://tinyurl.com/tr3lnvg) - (Movies, TV, Medium Library, 1080p, GoUnlimited)
+* [HDFY](https://tinyurl.com/vkqbxu8) - (Movies, TV, Anime, Big Library, 1080p)
 * [SnagFilms](https://tinyurl.com/5aluuz) - (Movies, TV, Small Library, 1080p)
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Big Library, 720p)
 * [TheMovieBay](https://tinyurl.com/st25aco) - (Movies, TV, Big Library, 720p, ProStream)
