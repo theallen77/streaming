@@ -137,10 +137,8 @@
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Huge Library, 720p, TheVideoBee Host)
 * [c1ne.co](https://tinyurl.com/yxxee458) - (Movie, TV, Big Library, 720p, ManyVideos Host)
 * [Swefilmer](https://tinyurl.com/w3xd2az) - (Movies, TV, Medium Library, 720p, UpStream Host)
-* [Genvideos](https://tinyurl.com/yynbep4b) - (Movies, TV, Medium Library, 1080p, VidLink Host)
 * [GoStream](https://tinyurl.com/y2tluukl) - (Movies, TV, Medium Library, 720p, Putload Host)
 * [TopMoviesOnline](https://tinyurl.com/r6765yq) - (Movies, TV, Medium Library, 720p, EzyLink Host)
-* [VexMovies](https://tinyurl.com/y3dqeldv) - (Movies, TV, Big Library, 720p, 123Files Host)
 
 ***
 
