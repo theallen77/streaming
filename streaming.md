@@ -351,7 +351,6 @@
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
 * [**Anime Download Sites**](https://tinyurl.com/sjrh26b)
 * [**Piracy Forums**](https://tinyurl.com/vn53xqm) -  (General Piracy Forums)
-* [Pahe.in](https://tinyurl.com/hewn3dy) - (Movie DL's)
 * [Topnow](https://tinyurl.com/yyhl7aja) - (Movie DL's)
 * [Crazy4TV](https://tinyurl.com/vfo5mqj) - (Movies/TV DL's)
 * [megaDDL](https://tinyurl.com/ycvx9vau) - (Movies/TV DL's)
