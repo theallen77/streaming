@@ -208,7 +208,6 @@
 * [**WatchEpisodes**](https://tinyurl.com/kzrdpkk) - (TV, Anime, Multi Host, Big Library, 1080p)
 * [**KissCartoon**](https://tinyurl.com/ycm25f9z), [KissCartoon.to](https://tinyurl.com/y4p4slbc) or [KimCartoon.si](https://tinyurl.com/y4xp3yny) - (Cartoons, JW Player, Big Library, 1080p)
 * [Noxx](https://tinyurl.com/r9u9bea) - (TV, Big Library, 720p)
-* [Ctoon](https://tinyurl.com/sffe5wy) - (Cartoons, Small Library, 1080p)
 * [Watchseries 2.0](https://tinyurl.com/tcp947w) - (TV, Anime, Big Library, 720p)
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Medium Library, SD)
 * [WSO](https://tinyurl.com/y4bcfykq) - (TV, Small Library, SD)
