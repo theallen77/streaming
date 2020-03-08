@@ -25,6 +25,8 @@
 
 **Search**
 
+* [**OpenVideo Search**](https://redd.it/ff5t27) 
+* [**AIO Search**](https://redd.it/fa81st)
 * **Google Drive Search - [Movies](https://tinyurl.com/rhtpro9), [TV](https://tinyurl.com/wwdrjpa), [Anime](https://tinyurl.com/qwxe7hu), [KDrama](https://tinyurl.com/whug6ru)**
 * [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search Multiple Hosts)
 * [**P4Pirate**](https://tinyurl.com/wl3qkzu) - (Search Multiple Hosts)
@@ -40,8 +42,6 @@
 * [Vimeo](https://tinyurl.com/rypmcqt) - (Search)
 * [YouTube](https://www.youtube.com/) - (Search)
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Hosts)
-* [OpenVideo Search Guide](https://redd.it/ff5t27)
-* [AIO Search Guide](https://redd.it/fa81st)
 * Add "site:drive.google.com" to a search to search Google Drive 
 * Add "site:vk.com" to a search to search VK
 
