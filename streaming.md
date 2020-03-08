@@ -25,8 +25,8 @@
 
 **Search**
 
-* [**OpenVideo Search**](https://redd.it/ff5t27) 
-* [**AIO Search**](https://redd.it/fa81st)
+* [**OpenVideo**](https://redd.it/ff5t27) - (Search Multiple Hosts)
+* [**AIO**](https://redd.it/fa81st) - (Search Multiple Hosts)
 * **Google Drive Search - [Movies](https://tinyurl.com/rhtpro9), [TV](https://tinyurl.com/wwdrjpa), [Anime](https://tinyurl.com/qwxe7hu), [KDrama](https://tinyurl.com/whug6ru)**
 * [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search Multiple Hosts)
 * [**P4Pirate**](https://tinyurl.com/wl3qkzu) - (Search Multiple Hosts)
