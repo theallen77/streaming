@@ -325,7 +325,6 @@
 * [CyberFlix](https://tinyurl.com/sym6ec3) - (Movies, TV, Anime, 1080p, Medium Library)
 * [VivaTV](https://tinyurl.com/se7zvvl) - (Movies, TV, Anime 1080p, Huge Library, Chromecast)
 * [NovaTV](https://tinyurl.com/yxy3y6ph) - (Movies, TV, Anime, Big Library, 1080p, Chromecast)
-* [Apollo TV](https://tinyurl.com/yxr2mntz) - (Movies, TV, Anime, 720p, Big Library, Chromecast, **iOS**)
 * [Kokotime](https://tinyurl.com/y2xnxmax) - (Movies, TV, Anime, 720p, Medium Library)
 * [TyphoonTV](https://tinyurl.com/vn6knfx) - (Movies, TV, Anime, 720p, Big Library)
 * [MorphTV](https://tinyurl.com/tk7jn3h) - (Movies, TV, Anime, 720p, Medium Library, Chromecast)
