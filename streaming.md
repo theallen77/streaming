@@ -44,6 +44,7 @@
 * [Vimeo](https://tinyurl.com/rypmcqt) - (Search)
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Hosts)
 * Add "site:drive.google.com" to a search to search Google Drive 
+* Add "site:vup.to" to a search to search VUP
 * Add "site:vk.com" to a search to search VK
 * [Stream IMDb](https://tinyurl.com/ugkjmc7) - (Add Stream Site Search Buttons to IMDb Pages)
 
