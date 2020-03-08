@@ -40,7 +40,8 @@
 * [Vimeo](https://tinyurl.com/rypmcqt) - (Search)
 * [YouTube](https://www.youtube.com/) - (Search)
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Hosts)
-* [AIO Search](https://tinyurl.com/s55txxb) + [Guide](https://redd.it/fa81st)
+* [OpenVideo Search Guide](https://redd.it/ff5t27)
+* [AIO Search Guide](https://redd.it/fa81st)
 * Add "site:drive.google.com" to a search to search Google Drive 
 * Add "site:vk.com" to a search to search VK
 
