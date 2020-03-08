@@ -31,6 +31,7 @@
 * [**P4Pirate**](https://tinyurl.com/wl3qkzu) - (Search Multiple Hosts)
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search Multiple Hosts)
 * [**123Files**](https://tinyurl.com/snlldso) - (Search Multiple Hosts)
+* [**VidSrc**](https://tinyurl.com/yx3wault) - (Search FEmbed)
 * [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/y2o7pkpu) try IMDB ID's)
 * **Google Drive Search - [Movies](https://tinyurl.com/rhtpro9), [TV](https://tinyurl.com/wwdrjpa), [Anime](https://tinyurl.com/qwxe7hu), [KDrama](https://tinyurl.com/whug6ru)**
 * [CrocoVid](https://tinyurl.com/vood4uo) - (Search Multiple Hosts)
@@ -44,6 +45,7 @@
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Hosts)
 * Add "site:drive.google.com" to a search to search Google Drive 
 * Add "site:vk.com" to a search to search VK
+* [Stream IMDb](https://tinyurl.com/ugkjmc7) - (Add Stream Site Search Buttons to IMDb Pages)
 
 ***
 
@@ -125,6 +127,7 @@
 
 **Fembed Hosts**
 
+* [**VidSrc**](https://tinyurl.com/yx3wault) - (Search FEmbed)
 * [**Vmovee**](https://tinyurl.com/y5okppou) - (Movies, TV, Big Library, 1080p)
 * [HackIMDb](https://tinyurl.com/yyj8awpq) - (Movies, Medium Library, 1080p)  
 * [hdmo](https://tinyurl.com/wfjwurr) - (Movies, TV, Medium Library, 1080p)
