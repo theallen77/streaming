@@ -172,8 +172,6 @@
 * [StreamDreams](https://tinyurl.com/y298659z) - (Movies, TV, Anime, Big Library, SD)
 * [VMovie](https://tinyurl.com/rlr4xlz) - (Movies, TV, Small Library, 1080p)
 * [Yesmovies.tech](https://tinyurl.com/w6odsye), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/yesmovies.tech-Clones) - (Movies, Big Library, 1080p)
-* [123Movies4u](https://tinyurl.com/uejf5j8) - (Movies, TV, Anime, Big Library, 720p)
-* [123movies.town](https://tinyurl.com/tuoyms8) - (Movies, TV, Big Library 720p)
 * [Soap2Day.biz](https://tinyurl.com/varegdv) - (Movies, TV, Big Library, 720p)
 * [UWatchfree](https://tinyurl.com/y2p8yhfl) - (Movies, TV, Medium Library, 720p)
 * [Yes! Movies](https://tinyurl.com/y49j28s3), [Putlocker.vip](https://tinyurl.com/y52cbzlk) or [Solarmoviez](https://tinyurl.com/y69bm4mf) - (Movies, TV, Anime, Big Library, 1080p)
