@@ -208,9 +208,9 @@
 
 * **Note** - Many of the sites above have TV as well
 * [**GDrive Series**](https://tinyurl.com/wwdrjpa) - (Search Google Drive)
-* [**WatchSeries**](https://tinyurl.com/y968ezyj) - (TV, Anime, Multi Host, Huge Library, SD/HD)
-* [**WatchEpisodes**](https://tinyurl.com/kzrdpkk) - (TV, Anime, Multi Host, Big Library, 1080p)
-* [**KissCartoon**](https://tinyurl.com/ycm25f9z), [KissCartoon.to](https://tinyurl.com/y4p4slbc) or [KimCartoon.si](https://tinyurl.com/y4xp3yny) - (Cartoons, JW Player, Big Library, 1080p)
+* [**WatchSeries**](https://tinyurl.com/y968ezyj) - (TV, Anime, Huge Library, SD/HD)
+* [**WatchEpisodes**](https://tinyurl.com/kzrdpkk) - (TV, Anime, Big Library, 1080p)
+* [**KissCartoon**](https://tinyurl.com/ycm25f9z), [KissCartoon.to](https://tinyurl.com/y4p4slbc) or [KimCartoon.si](https://tinyurl.com/y4xp3yny) - (Cartoons, Big Library, 1080p)
 * [Noxx](https://tinyurl.com/r9u9bea) - (TV, Big Library, 720p)
 * [Watchseries 2.0](https://tinyurl.com/tcp947w) - (TV, Anime, Big Library, 720p)
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Medium Library, SD)
@@ -333,7 +333,7 @@
 * [MorphTV](https://tinyurl.com/tk7jn3h) - (Movies, TV, Anime, 720p, Medium Library, Chromecast)
 * [FreeFlixHQ](https://tinyurl.com/yyaezxnn) - (Movies, TV, Anime, 720p, Medium Library)
 * [AnYme](https://tinyurl.com/y4sjymtz) - (Anime, Chromecast, Uses external sites)
-* [FireAnime](https://tinyurl.com/yxl2w44q) - (Anime, SD, Small Library Chromecast)
+* [FireAnime](https://tinyurl.com/yxl2w44q) - (Anime, SD, Small Library, Chromecast)
 * [AnimeDLR](https://redd.it/d0zair) - (Anime, SD, Small Library)
 * [Anime Molecules](https://tinyurl.com/t7mf6sb) - (Anime)
 * [Mobdro](https://tinyurl.com/spw5y8j) - (Live TV)
