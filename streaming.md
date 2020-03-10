@@ -32,6 +32,7 @@
 * [**VidSrc**](https://tinyurl.com/yx3wault) - (Search FEmbed)
 * [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/y2o7pkpu) try IMDB ID's)
 * **Google Drive Search - [Movies](https://tinyurl.com/rhtpro9), [TV](https://tinyurl.com/wwdrjpa), [Anime](https://tinyurl.com/qwxe7hu), [KDrama](https://tinyurl.com/whug6ru)**
+* [**Manually Scrape Google**](https://tinyurl.com/uga8o24) - (Search hosts directly) 
 * [CrocoVid](https://tinyurl.com/vood4uo) - (Search Multiple Hosts)
 * [VidLink](https://tinyurl.com/y2mcan3y) - (Search VidLink)
 * [VidUPlayer](https://tinyurl.com/r4u22ef) - (Search via IMDB ID's)
@@ -41,9 +42,6 @@
 * [OxDB](https://tinyurl.com/vqfvvh7) - (Search)
 * [Vimeo](https://tinyurl.com/rypmcqt) - (Search)
 * [JustSearch](https://tinyurl.com/gtoenej) or [ReelGood](https://tinyurl.com/y2gxypl4) - (Search Legal Streaming Hosts)
-* Add "site:drive.google.com" to a search to search Google Drive 
-* Add "site:vup.to" to a search to search VUP
-* Add "site:vk.com" to a search to search VK
 * [AIO](https://redd.it/fa81st) - (Multi Engine Search Tool)
 * [OpenVideo](https://redd.it/ff5t27) - (Multi Engine Search Tool)
 * [Stream IMDb](https://tinyurl.com/ugkjmc7) - (Add Stream Site Search Buttons to IMDb Pages)
@@ -65,6 +63,7 @@
 * [HDBest](https://tinyurl.com/y2dg76vm) or [VikV](https://tinyurl.com/rw5k6q2) - (Movies, Huge Library, 1080p)
 * [UniqueStream](https://tinyurl.com/ycxswmmd) - (Movies, TV, Anime, Big Library, 1080p)
 * [123Movies.ws](https://tinyurl.com/qqjjv4y) - (Movies, TV, Huge Library, 1080p)
+* [KuruKuru](https://tinyurl.com/wdwd37q) - (Movies, TV, Anime, Huge Library, 1080p)
 * [Streamlord](https://tinyurl.com/ybrtnppf) - (Movies, TV, Medium Library, 720p)
 * [Vumoo](https://tinyurl.com/y3q422ft) - (Movies, TV, Big Library, 720p)
 * [OnionPlay](https://tinyurl.com/v8k74np) - (Movies, TV, Small Library, 1080p) 
@@ -162,6 +161,7 @@
 * [Movie4u](https://tinyurl.com/y3745pdx) - (Movies, TV, Big Library, 1080p)
 * [EzWatchFree](https://tinyurl.com/tqsw2qv)  - (Movies, Huge Library, 720p)
 * [CouchTuner](https://tinyurl.com/ruzyyje) - (Movies, TV, Anime, Huge Library, 720p)
+* [Flenix](https://tinyurl.com/uevfm68) - (Movies, TV, Big Library, 720p)
 * [DutaFilm](https://tinyurl.com/skjaz6h) - (Movies, TV, Anime, Big Library, 1080p)
 * [SolarMovie123](https://tinyurl.com/t9mf2cl) - (Movies, Medium Library, 720p)
 * [Bmovies.nl](https://tinyurl.com/y266yqpn) - (Movies, TV, Anime, Big Library, 720p)
