@@ -29,6 +29,7 @@
 * [**P4Pirate**](https://tinyurl.com/wl3qkzu) - (Search Multiple Hosts)
 * [**Videospider**](https://tinyurl.com/y3fn29cp) - (Search Multiple Hosts)
 * [**123Files**](https://tinyurl.com/snlldso) - (Search Multiple Hosts)
+* [**FS Api**](https://tinyurl.com/wxxs2am) - (Search Multiple Hosts)
 * [**VidSrc**](https://tinyurl.com/yx3wault) - (Search FEmbed)
 * [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/y2o7pkpu) try IMDB ID's)
 * **Google Drive Search - [Movies](https://tinyurl.com/rhtpro9), [TV](https://tinyurl.com/wwdrjpa), [Anime](https://tinyurl.com/qwxe7hu), [KDrama](https://tinyurl.com/whug6ru)**
@@ -357,9 +358,10 @@
 * [GDriveDL](https://tinyurl.com/y5kpjfba) - (Google Drive Movie DL's)
 * [Movie Files](https://tinyurl.com/yac9lo87) - (HD DL's)
 * [x265 Movies](https://tinyurl.com/umjvn9g) - (Movies/TV DL's)
+* [MkvBee](https://tinyurl.com/sjz8dy7) - (Movies/TV DL's)
 * [MoviesWBB](https://tinyurl.com/y9xryp2n) - (Movies/TV DL's)
-* [HugeWarez](https://tinyurl.com/yx2gpfb8) - (Movies/TV DL's)
 * [Best-MovieZ](https://tinyurl.com/wotktw8) - (Movies/TV DL's)
+* [HugeWarez](https://tinyurl.com/yx2gpfb8) - (Movies/TV DL's)
 
 ***
 
