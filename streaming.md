@@ -18,7 +18,7 @@
 * [**YourPTFlixMovies**](https://tinyurl.com/u3qnwj9) - (Movie Linking Forum)
 * [**Movie-Forum**](https://tinyurl.com/s3n3z4v) - (Movie Linking Forum)
 * [**DirtyWarez**](https://tinyurl.com/y7tfspy2) - (Alexa Streaming Site Rankings)
-* [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Site)
+* [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
 * /r/MovieStreamingSites - (Streaming Sites Subbreddit)
 
 ***
