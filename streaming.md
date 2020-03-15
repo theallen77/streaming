@@ -80,6 +80,7 @@
 
 * [**Batflix**](https://tinyurl.com/tnq38sy) - (Movies, TV, Big Library, 720p)
 * [**TheMovieBay**](https://tinyurl.com/st25aco) - (Movies, TV, Big Library, 720p)
+* [FreeMoviesSee](https://tinyurl.com/tf3xv79) - (Movies, Medium Library, 720p)
 
 ***
 
