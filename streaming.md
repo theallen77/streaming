@@ -89,6 +89,11 @@
 * [**FMovies**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**MovieGaga**](https://tinyurl.com/y5x3lqyy) - (Movies, TV, Anime, Big Library, 1080p)
 
+**GoUnlimited Hosts** 
+
+* [LunchFlix](https://tinyurl.com/tr3lnvg) - (Movies, TV, Small Library, 1080p, GoUnlimited Host)
+* [Simple Stream](https://tinyurl.com/ql878g8) - (Movies, Small Library, 1080p, GoUnlimited Host)
+
 ***
 
 **Google Hosts**
@@ -132,7 +137,6 @@
 
 * [**1movies.is**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p, LoadShare Host)
 * [**SubMovies**](https://tinyurl.com/usw4p4j) - (Movies, TV, Huge Library, 720p, FlowYourVideo Host)
-* [LunchFlix](https://tinyurl.com/tr3lnvg) - (Movies, TV, Small Library, 1080p, GoUnlimited Host)
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Huge Library, 720p, TheVideoBee Host)
 * [c1ne.co](https://tinyurl.com/yxxee458) - (Movie, TV, Big Library, 720p, ManyVideos Host)
 * [Swefilmer](https://tinyurl.com/w3xd2az) - (Movies, TV, Medium Library, 720p, UpStream Host)
