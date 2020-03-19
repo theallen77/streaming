@@ -42,6 +42,7 @@
 * [AIO](https://redd.it/fa81st) - (Multi Engine Search Tool)
 * [OpenVideo](https://redd.it/ff5t27) - (Multi Engine Search Tool)
 * [Stream IMDb](https://tinyurl.com/ugkjmc7) - (Add Stream Site Search Buttons to IMDb Pages)
+* [IMDb Link em All](https://tinyurl.com/tygel94) - (Add Torrent Site Results to IMDb Pages)
 
 ***
 
