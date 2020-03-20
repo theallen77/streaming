@@ -17,9 +17,6 @@
 
 * [**YourPTFlixMovies**](https://tinyurl.com/u3qnwj9) - (Movie Linking Forum)
 * [**Movie-Forum**](https://tinyurl.com/s3n3z4v) - (Movie Linking Forum)
-* [**DirtyWarez**](https://tinyurl.com/y7tfspy2) - (Alexa Streaming Site Rankings)
-* [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
-* /r/MovieStreamingSites - (Streaming Sites Subbreddit)
 
 ***
 
@@ -398,8 +395,11 @@
 
 * [**Tracking & Discovery**](https://github.com/freemediaheckyeah/streaming/wiki/Content-Discovery) - (Track content & find stuff to watch)
 * [**WhereYouWatch**](https://tinyurl.com/y8opktgy), [Squawkr](https://tinyurl.com/y3ea3xl6) or /r/movieleaks - (Get Notified when movie is streamable)
-* [**SubShifter**](https://tinyurl.com/y7wt6gv8) - (Change timing of subtitles to match your video)
+* [**DirtyWarez**](https://tinyurl.com/y7tfspy2) - (Alexa Streaming Site Rankings)
+* [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
+* /r/MovieStreamingSites - (Streaming Sites Subbreddit)
 * Openvideo - [Firefox](https://tinyurl.com/y3lpnpgo), [Chrome](https://tinyurl.com/y276xn9a) - (External player, bypass ads, favs, subs & more) 
 * [Ant Movie](https://tinyurl.com/wb4tvu5) - (Movie/Show Catalog for PC)
+* [SubShifter](https://tinyurl.com/y7wt6gv8) - (Change timing of subtitles to match your video)
 * [Shortlinks](https://github.com/freemediaheckyeah/streaming/wiki/Shareable-Short-Links) - (Share/Save Post)
 * [Sub Backups](https://github.com/freemediaheckyeah/streaming/wiki/r-freemediaheckyeah-Backups)
