@@ -121,6 +121,30 @@
 
 ***
 
+**NetU Hosts**
+
+* [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/y2o7pkpu) Try IMDB ID's)
+* [**5movies.live**](https://tinyurl.com/y2fukz3y) - (Movies, TV, Big Library, 720p)
+* [**AllGames4You**](https://tinyurl.com/u56wszn) - (Movies, TV, Big Library, 720p)
+* [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, Big Library, 720p)
+* [Moovies](https://tinyurl.com/w7kmofm) - (Movies, TV, Big Library, 1080p)
+* [MoviesHDstreaming](https://tinyurl.com/v2slm42) - (Movies, Big Library, 720p)
+* [MovieUltima](https://tinyurl.com/vv8h9a4) - (Movies, Big Library, 720p)
+* [WatchMoviesNow](https://tinyurl.com/s35rsvs) - (Movies, Medium Library, 720p)
+* [WatchFree.ac](https://tinyurl.com/y4jwysar) - (Movies, TV, Big Library, SD)
+
+***
+
+**Fembed Hosts**
+
+* [**VidSrc**](https://tinyurl.com/yx3wault) - (Search FEmbed)
+* [**Vmovee**](https://tinyurl.com/y5okppou) - (Movies, TV, Big Library, 1080p)
+* [HackIMDb](https://tinyurl.com/yyj8awpq) - (Movies, Medium Library, 1080p)  
+* [hdmo](https://tinyurl.com/wfjwurr) - (Movies, TV, Medium Library, 1080p)
+* [iCin3ma](https://tinyurl.com/utrqag4) - (Movies, TV, Medium Library, 1080p)
+
+***
+
 **Videyo Hosts**
 
 * [**Batflix**](https://tinyurl.com/tnq38sy) - (Movies, TV, Big Library, 720p)
@@ -140,30 +164,6 @@
 
 * [**Simple Stream**](https://tinyurl.com/ql878g8) - (Movies, TV, Medium Library, 1080p, GoUnlimited Host)
 * [LunchFlix](https://tinyurl.com/tr3lnvg) - (Movies, TV, Medium Library, 1080p, GoUnlimited Host)
-
-***
-
-**Fembed Hosts**
-
-* [**VidSrc**](https://tinyurl.com/yx3wault) - (Search FEmbed)
-* [**Vmovee**](https://tinyurl.com/y5okppou) - (Movies, TV, Big Library, 1080p)
-* [HackIMDb](https://tinyurl.com/yyj8awpq) - (Movies, Medium Library, 1080p)  
-* [hdmo](https://tinyurl.com/wfjwurr) - (Movies, TV, Medium Library, 1080p)
-* [iCin3ma](https://tinyurl.com/utrqag4) - (Movies, TV, Medium Library, 1080p)
-
-***
-
-**NetU Hosts**
-
-* [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/y2o7pkpu) Try IMDB ID's)
-* [**5movies.live**](https://tinyurl.com/y2fukz3y) - (Movies, TV, Big Library, 720p)
-* [**AllGames4You**](https://tinyurl.com/u56wszn) - (Movies, TV, Big Library, 720p)
-* [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, Big Library, 720p)
-* [Moovies](https://tinyurl.com/w7kmofm) - (Movies, TV, Big Library, 1080p)
-* [MoviesHDstreaming](https://tinyurl.com/v2slm42) - (Movies, Big Library, 720p)
-* [MovieUltima](https://tinyurl.com/vv8h9a4) - (Movies, Big Library, 720p)
-* [WatchMoviesNow](https://tinyurl.com/s35rsvs) - (Movies, Medium Library, 720p)
-* [WatchFree.ac](https://tinyurl.com/y4jwysar) - (Movies, TV, Big Library, SD)
 
 ***
 
