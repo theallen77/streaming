@@ -270,6 +270,7 @@
 * [WatchCartoon](https://tinyurl.com/y6h2pyfn) - (+ Cartoons, Big Library, 720p)
 * [Cartoon Crazy](https://tinyurl.com/y3axybww) - (+ Cartoons, Big Library, 720p)
 * [Anime-Loads](https://tinyurl.com/yy2cse8o) - (German dubs/subs, Big Library, 720p)
+* [Pokeflix](https://tinyurl.com/yymxltlb) - (Pokemon Episodes / Films)
 
 ***
 
@@ -298,6 +299,7 @@
 * [VipBox](https://tinyurl.com/y5z6mlwh) or [VipLeague](https://tinyurl.com/y5589le3) - (Live Sports)
 * [livetv.sx](https://tinyurl.com/y86duvg7) - (Live Sports)
 * [Ripple](https://tinyurl.com/yxk69ls5) - (Live Sports)
+* [Cestream](https://tinyurl.com/qm8cr3s) - (Live Sports)
 * [BilaSport](https://tinyurl.com/y3gzwvky) - (Live Sports)
 * [SportsHD](https://tinyurl.com/y4xfy6r4) - (Live Sports)
 * [WatchKobe](https://tinyurl.com/y7lsqk3z) - (Live Sports)
