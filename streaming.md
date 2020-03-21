@@ -312,7 +312,7 @@
 
 **Android/iOS**
 
-* **Important** - Block Ads with [**AdGuard** (Premium Unlocked)](https://redd.it/d0zair), [AdAway](https://tinyurl.com/yavxv6zr) or [Blokada](https://blokada.org/). If using sites try [Opera](https://www.opera.com/mobile/operabrowser) as it has a built in adblocker. 
+* **Important** - Block Ads with [**AdGuard** (Premium Unlocked)](https://redd.it/d0zair), [AdAway](https://tinyurl.com/yavxv6zr) or [Blokada](https://tinyurl.com/yxllgklz). If using sites try [Opera](https://tinyurl.com/udtkztj) as it has a built in adblocker. 
 * Note - Apks work on PC/Mac via [BlueStacks](https://tinyurl.com/pf7ahx8) or [Nox.](https://tinyurl.com/l6pxakt)
 * **r/ApksApps** - (Updated Apk's DL's)
 * [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
