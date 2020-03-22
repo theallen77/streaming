@@ -170,6 +170,7 @@
 **Other Hosts** 
 
 * [**1movies**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p, LoadShare Host)
+* [**NyaFilmer**](https://tinyurl.com/wg8djqc) - (Movies, TV, Big Library, 1080p, JawCloud Host)
 * [**SubMovies**](https://tinyurl.com/usw4p4j) - (Movies, TV, Huge Library, 720p, FlowYourVideo Host)
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Huge Library, 720p, TheVideoBee Host)
 * [c1ne.co](https://tinyurl.com/yxxee458) - (Movie, TV, Big Library, 720p, ManyVideos Host)
