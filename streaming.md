@@ -46,17 +46,17 @@
 **Dedicated Hosts**
 
 * [**LookMovie**](https://tinyurl.com/y95z3flk) - (Movies, TV, Huge Library, 1080p) 
-* [**HiMovies**](https://tinyurl.com/wmh7yrc), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/HiMovies-Clones) - (Movies, TV, Anime, Huge Library, 1080p)
-* [**M4uFree.tv**](https://tinyurl.com/y7hf9et8), [Streamm4u](https://tinyurl.com/y5hyu6vv) or [M4uhd](https://tinyurl.com/y2lkjvwk) - (Movies, TV, Anime, Big Library, 1080p) 
-* [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/Cafehulu-Clones) - (Movies, TV, Anime, Huge Library, 720p) 
+* [**HiMovies**](https://tinyurl.com/wmh7yrc), [Clone Sites](https://tinyurl.com/tjo63zr) - (Movies, TV, Anime, Huge Library, 1080p)
+* [**M4uFree**](https://tinyurl.com/y7hf9et8), [Streamm4u](https://tinyurl.com/y5hyu6vv) or [M4uhd](https://tinyurl.com/y2lkjvwk) - (Movies, TV, Anime, Big Library, 1080p) 
+* [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://tinyurl.com/vshrzne) - (Movies, TV, Anime, Huge Library, 720p) 
 * [**Soap2Day**](https://tinyurl.com/v938lqc) - (Movies, TV, Big Library, 1080p)
 * [**UniqueStream**](https://tinyurl.com/ycxswmmd) - (Movies, TV, Anime, Big Library, 1080p)
-* [**123Movies.ws**](https://tinyurl.com/qqjjv4y) - (Movies, TV, Huge Library, 1080p)
+* [**123Movies**](https://tinyurl.com/qqjjv4y) - (Movies, TV, Huge Library, 1080p)
 * [**Afdah**](https://tinyurl.com/tzh3jck) - (Movies, TV, Big Library, 1080p)
 * [**HDFY**](https://tinyurl.com/vkqbxu8) - (Movies, TV, Anime, Huge Library, 1080p)
 *  [**FlixGo**](https://tinyurl.com/y6pl2zbz) or [IMDbGO](https://tinyurl.com/tte4bcr) - (Movies, TV, Big Library, 1080p)
 * [**AZMovies**](https://tinyurl.com/y6f5d3p2) - (Movies, Big Library, 720p)
-* [Openloadmovies.ac](https://tinyurl.com/y2yshmvk) - (Movies, TV, Huge Library, 1080p) 
+* [Openloadmovies](https://tinyurl.com/y2yshmvk) - (Movies, TV, Huge Library, 1080p) 
 * [HDBest](https://tinyurl.com/y2dg76vm) or [VikV](https://tinyurl.com/rw5k6q2) - (Movies, Huge Library, 1080p)
 * [KuruKuru](https://tinyurl.com/wdwd37q) - (Movies, TV, Anime, Huge Library, 1080p)
 * [Streamlord](https://tinyurl.com/ybrtnppf) - (Movies, TV, Medium Library, 720p)
@@ -97,12 +97,12 @@
 * [MoTView](https://tinyurl.com/sphv7r7) - (Movies, TV, Anime, Medium Library, 720p)
 * [StreamDreams](https://tinyurl.com/y298659z) - (Movies, TV, Anime, Big Library, SD)
 * [VMovie](https://tinyurl.com/rlr4xlz) - (Movies, TV, Small Library, 1080p)
-* [Yesmovies.tech](https://tinyurl.com/w6odsye), [Clone Sites](https://github.com/freemediaheckyeah/streaming/wiki/yesmovies.tech-Clones) - (Movies, Big Library, 1080p)
-* [Soap2Day.biz](https://tinyurl.com/varegdv) - (Movies, TV, Big Library, 720p)
+* [Yesmovies](https://tinyurl.com/w6odsye), [Clone Sites](https://tinyurl.com/vlz223h) - (Movies, Big Library, 1080p)
+* [Soap2Day](https://tinyurl.com/varegdv) - (Movies, TV, Big Library, 720p)
 * [UWatchfree](https://tinyurl.com/y2p8yhfl) - (Movies, TV, Medium Library, 720p)
 * [Yes! Movies](https://tinyurl.com/y49j28s3), [Putlocker.vip](https://tinyurl.com/y52cbzlk) or [Solarmoviez](https://tinyurl.com/y69bm4mf) - (Movies, TV, Anime, Big Library, 1080p)
 * [Primewire](https://tinyurl.com/y7densft) - (Movies, TV, Anime, Huge Library, 720p)
-* [123Movies.mx](https://tinyurl.com/y3rk2ccp) - (Movies, TV, Big Library, 1080p) 
+* [123Movies](https://tinyurl.com/y3rk2ccp) - (Movies, TV, Big Library, 1080p) 
 * [ProjectFreeTV](https://tinyurl.com/y3qbsemt) - (Movies, TV, Small Library, 1080p)
 * [Los-Movies](https://tinyurl.com/rdexz2c) - (Movies, TV, Big Library, 720p)
 
@@ -111,7 +111,7 @@
 **Google Hosts**
 
 * **Google Drive Search - [Movies](https://tinyurl.com/rhtpro9), [TV](https://tinyurl.com/wwdrjpa), [Anime](https://tinyurl.com/qwxe7hu), [KDrama](https://tinyurl.com/whug6ru)**
-* [**Openloadmovies.ws**](https://tinyurl.com/vczzsv4) - (Movies, Huge Library, 1080p)
+* [**Openloadmovies**](https://tinyurl.com/vczzsv4) - (Movies, Huge Library, 1080p)
 * [**VidCloud9**](https://tinyurl.com/tfpzvjl) - (Movies, TV, Anime, Huge Library, 720p)
 * [**FFilms**](https://tinyurl.com/vzq88ul) - (Movies, TV, Big Library, 720p)
 * [Best-Movies](https://tinyurl.com/rlrflt2) - (Movies, Big Library, 720p)
@@ -123,15 +123,15 @@
 
 **NetU Hosts**
 
-* [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/y2o7pkpu) Try IMDB ID's)
-* [**5movies.live**](https://tinyurl.com/y2fukz3y) - (Movies, TV, Big Library, 720p)
+* [**Netu**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/y2o7pkpu) Try IMDB ID's)
+* [**5movies**](https://tinyurl.com/y2fukz3y) - (Movies, TV, Big Library, 720p)
 * [**AllGames4You**](https://tinyurl.com/u56wszn) - (Movies, TV, Big Library, 720p)
 * [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, Big Library, 720p)
 * [Moovies](https://tinyurl.com/w7kmofm) - (Movies, TV, Big Library, 1080p)
 * [MoviesHDstreaming](https://tinyurl.com/v2slm42) - (Movies, Big Library, 720p)
 * [MovieUltima](https://tinyurl.com/vv8h9a4) - (Movies, Big Library, 720p)
 * [WatchMoviesNow](https://tinyurl.com/s35rsvs) - (Movies, Medium Library, 720p)
-* [WatchFree.ac](https://tinyurl.com/y4jwysar) - (Movies, TV, Big Library, SD)
+* [WatchFree](https://tinyurl.com/y4jwysar) - (Movies, TV, Big Library, SD)
 
 ***
 
@@ -169,7 +169,7 @@
 
 **Other Hosts** 
 
-* [**1movies.is**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p, LoadShare Host)
+* [**1movies**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p, LoadShare Host)
 * [**SubMovies**](https://tinyurl.com/usw4p4j) - (Movies, TV, Huge Library, 720p, FlowYourVideo Host)
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Huge Library, 720p, TheVideoBee Host)
 * [c1ne.co](https://tinyurl.com/yxxee458) - (Movie, TV, Big Library, 720p, ManyVideos Host)
@@ -186,7 +186,7 @@
 * [**Club MST3k**](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
 * [Youtube Movie Channels](https://tinyurl.com/vpbql4o) - (Channels that host films)
 * [Classic Cinema Online](https://tinyurl.com/27r9a5) - (Classic Films)
-* [Archive.org](https://tinyurl.com/cdv2tdr) - (Classic Films)
+* [Archive](https://tinyurl.com/cdv2tdr) - (Classic Films)
 * [Videoneat](https://tinyurl.com/yxd5oko3) - (Documentaries/Science Movies)
 * [Top Documentary Films](https://tinyurl.com/yy6k2lup) - (Documentaries)
 * [Ihavenotv](https://tinyurl.com/y8hszwz8) - (Documentaries)
@@ -197,7 +197,7 @@
 * [Dramago](https://tinyurl.com/y33wsqja) - (KDrama)
 * [DramaCool](https://tinyurl.com/y2bwycvx) or [WatchAsian](https://tinyurl.com/yyd9uq46) - (KDrama)
 * [DaebakDrama](https://tinyurl.com/y5t883lv) - (KDrama)
-* [Spanish, German & French Sites](https://github.com/freemediaheckyeah/streaming/wiki/Espanol,-German,-French-Streaming)
+* [Spanish, German & French Sites](https://tinyurl.com/tpg9dnb)
 
 ***
 
@@ -226,12 +226,12 @@
 * [Time4TV](https://tinyurl.com/r4w5yds) - (Live TV)
 * [WebOas.is TV](https://tinyurl.com/wtrz9zh) - (Live TV)
 * [123TV](https://tinyurl.com/y72b3y7s) - (Live TV)
-* [Pluto.tv](https://tinyurl.com/n4d8sb5) - (Live TV)
+* [Pluto](https://tinyurl.com/n4d8sb5) - (Live TV)
 * [uStreamix](https://tinyurl.com/y87khgal) - (Live TV)
 * [Arconaitv](https://tinyurl.com/y3gqvzha) - (Live TV)
 * [StreamAll](https://tinyurl.com/yxwsguvg) - (Live TV)
-* [cytu.be](https://tinyurl.com/ybo4c5n8) - (Live TV, chatrooms)
-* [Topfile.Argus](https://tinyurl.com/r6mahbh) - (TV Show Directory)
+* [cytube](https://tinyurl.com/ybo4c5n8) - (Live TV, chatrooms)
+* [Topfile](https://tinyurl.com/r6mahbh) - (TV Show Directory)
 
 ***
 
@@ -243,7 +243,7 @@
 * [**9Anime**](https://tinyurl.com/ydgladf3) - (Multi Host, Big Library, 1080p) 
 * [**Kissanime.ru**](https://tinyurl.com/yyxzrgtu) or [Kissanime.ac](https://tinyurl.com/y66v33go) - (Big Library, 1080p)
 * [**Aniwatch**](https://tinyurl.com/uluwl26) - (Big Library, 1080p)
-* [Twist.moe](https://tinyurl.com/y6p7w6p4) - (Big Library, 720p)
+* [Twist](https://tinyurl.com/y6p7w6p4) - (Big Library, 720p)
 * [4Anime](https://tinyurl.com/yxu7hqmj) - (Medium Library, 1080p)
 * [AnimePahe](https://tinyurl.com/yyuzwr7m) - (Big Library, 1080p)
 * [Aninow](https://tinyurl.com/us8uwom) - (Big Library, 720p)
@@ -257,7 +257,7 @@
 * [VidStreaming](https://tinyurl.com/y6ru87sr) - (Big Library, 720p)
 * [Dubbed Anime](https://tinyurl.com/yy9oeogy) - (+ Cartoons, Medium Library, 720p)
 * [AnimeHub](https://tinyurl.com/y63k7nn7) - (Medium Library, 720p)
-* [AnimeHub.xyz](https://tinyurl.com/ucflumc) - (Small Library, 720p)
+* [AnimeHub](https://tinyurl.com/ucflumc) - (Small Library, 720p)
 * [Anime Show](https://tinyurl.com/npeukxu) - (Medium Library, 720p)
 * [Chia-Anime](https://tinyurl.com/y4vbk9fv) - (Medium Library, 720p)
 * [Anime Rush](https://tinyurl.com/jx7vewu) - (Medium Library, 720p)
@@ -297,7 +297,7 @@
 * [HulkStreams](https://tinyurl.com/y5qaxqnb) - (Live Sports)
 * [First Row Sports](https://tinyurl.com/ybx4jvz8) - (Live Sports)
 * [VipBox](https://tinyurl.com/y5z6mlwh) or [VipLeague](https://tinyurl.com/y5589le3) - (Live Sports)
-* [livetv.sx](https://tinyurl.com/y86duvg7) - (Live Sports)
+* [livetv](https://tinyurl.com/y86duvg7) - (Live Sports)
 * [Ripple](https://tinyurl.com/yxk69ls5) - (Live Sports)
 * [Cestream](https://tinyurl.com/qm8cr3s) - (Live Sports)
 * [BilaSport](https://tinyurl.com/y3gzwvky) - (Live Sports)
@@ -397,7 +397,7 @@
 
 **Helpful**
 
-* [**Tracking & Discovery**](https://github.com/freemediaheckyeah/streaming/wiki/Content-Discovery) - (Track content & find stuff to watch)
+* [**Tracking & Discovery**](https://tinyurl.com/vvdt796) - (Track content & find stuff to watch)
 * [**WhereYouWatch**](https://tinyurl.com/y8opktgy), [Squawkr](https://tinyurl.com/y3ea3xl6) or /r/movieleaks - (Get Notified when movie is streamable)
 * [**DirtyWarez**](https://tinyurl.com/y7tfspy2) - (Alexa Streaming Site Rankings)
 * [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
@@ -405,5 +405,5 @@
 * Openvideo - [Firefox](https://tinyurl.com/y3lpnpgo), [Chrome](https://tinyurl.com/y276xn9a) - (External player, bypass ads, favs, subs & more) 
 * [Ant Movie](https://tinyurl.com/wb4tvu5) - (Movie/Show Catalog for PC)
 * [SubShifter](https://tinyurl.com/y7wt6gv8) - (Change timing of subtitles to match your video)
-* [Shortlinks](https://github.com/freemediaheckyeah/streaming/wiki/Shareable-Short-Links) - (Share/Save Post)
-* [Sub Backups](https://github.com/freemediaheckyeah/streaming/wiki/r-freemediaheckyeah-Backups)
+* [Shortlinks](https://tinyurl.com/tgnnzju) - (Share/Save Post)
+* [Sub Backups](https://tinyurl.com/tg2g9g6)
