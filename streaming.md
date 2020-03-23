@@ -6,21 +6,21 @@
 
 ***
 
-**Apps**
+### **Apps**
 
 * [**LeonFlix**](https://tinyurl.com/y6vtutak) - (PC/Mac) - /r/leonflix 
 * [Kodi](https://tinyurl.com/zymo4y7) - (PC/Mac/Android/iOS) - /r/Addons4Kodi, [Tracker](https://tinyurl.com/y2ygqbyw) + [Trending](https://tinyurl.com/ycthlf8t)
 
 ***
 
-**Forums**
+### **Forums**
 
 * [**YourPTFlixMovies**](https://tinyurl.com/u3qnwj9) - (Movie Linking Forum)
 * [**Movie-Forum**](https://tinyurl.com/s3n3z4v) - (Movie Linking Forum)
 
 ***
 
-**Search**
+### **Search**
 
 * [**Ololo**](https://tinyurl.com/y6kxgahk) - (Search Multiple Hosts)
 * [**P4Pirate**](https://tinyurl.com/wl3qkzu) - (Search Multiple Hosts)
@@ -43,7 +43,7 @@
 
 ***
 
-**Dedicated Hosts**
+### **Dedicated Hosts**
 
 * [**LookMovie**](https://tinyurl.com/y95z3flk) - (Movies, TV, Huge Library, 1080p) 
 * [**HiMovies**](https://tinyurl.com/wmh7yrc), [Clone Sites](https://tinyurl.com/tjo63zr) - (Movies, TV, Anime, Huge Library, 1080p)
@@ -74,7 +74,7 @@
 
 ***
 
-**Multi Hosts**
+### **Multi Hosts**
 
 * [**Ymovies**](https://tinyurl.com/ychw2l6y) - (Movies, Huge Library, 1080p)
 * [**CineBloom**](https://tinyurl.com/y4k9j8k9) or [CineWhale](https://tinyurl.com/y3uh48sn) - (Movies, TV, Huge Library, 1080p)
@@ -108,7 +108,7 @@
 
 ***
 
-**Google Hosts**
+### **Google Hosts**
 
 * **Google Drive Search - [Movies](https://tinyurl.com/rhtpro9), [TV](https://tinyurl.com/wwdrjpa), [Anime](https://tinyurl.com/qwxe7hu), [KDrama](https://tinyurl.com/whug6ru)**
 * [**Openloadmovies**](https://tinyurl.com/vczzsv4) - (Movies, Huge Library, 1080p)
@@ -121,7 +121,7 @@
 
 ***
 
-**NetU Hosts**
+### **NetU Hosts**
 
 * [**Netu**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/y2o7pkpu) Try IMDB ID's)
 * [**5movies**](https://tinyurl.com/y2fukz3y) - (Movies, TV, Big Library, 720p)
@@ -135,7 +135,7 @@
 
 ***
 
-**Fembed Hosts**
+### **Fembed Hosts**
 
 * [**VidSrc**](https://tinyurl.com/yx3wault) - (Search FEmbed)
 * [**Vmovee**](https://tinyurl.com/y5okppou) - (Movies, TV, Big Library, 1080p)
@@ -145,7 +145,7 @@
 
 ***
 
-**Videyo Hosts**
+### **Videyo Hosts**
 
 * [**Batflix**](https://tinyurl.com/tnq38sy) - (Movies, TV, Big Library, 720p)
 * [**TheMovieBay**](https://tinyurl.com/st25aco) - (Movies, TV, Big Library, 720p)
@@ -153,21 +153,21 @@
 
 ***
 
-**MyCloud Hosts**
+### **MyCloud Hosts**
 
 * [**FMovies**](https://tinyurl.com/yd2nosat) or [Putlockertv](https://tinyurl.com/yb922czd) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**MovieGaga**](https://tinyurl.com/y5x3lqyy) - (Movies, TV, Anime, Big Library, 1080p)
 
 ***
 
-**GoUnlimited Hosts** 
+### **GoUnlimited Hosts** 
 
 * [**Simple Stream**](https://tinyurl.com/ql878g8) - (Movies, TV, Medium Library, 1080p, GoUnlimited Host)
 * [LunchFlix](https://tinyurl.com/tr3lnvg) - (Movies, TV, Medium Library, 1080p, GoUnlimited Host)
 
 ***
 
-**Other Hosts** 
+### **Other Hosts** 
 
 * [**1movies**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p, LoadShare Host)
 * [**NyaFilmer**](https://tinyurl.com/wg8djqc) - (Movies, TV, Big Library, 1080p, JawCloud Host)
@@ -180,7 +180,7 @@
 
 ***
 
-**Specialty Sites**
+### **Specialty Sites**
 
 * [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
 * [**RareFilmm**](https://tinyurl.com/y5l8ot86) - (Rare/Forgotten Films)
@@ -202,7 +202,7 @@
 
 ***
 
-**TV Sites**
+### **TV Sites**
 
 * **Note** - Many of the sites above have TV as well
 * [**GDrive Series**](https://tinyurl.com/wwdrjpa) - (Search Google Drive)
@@ -236,7 +236,7 @@
 
 ***
 
-**Anime Sites**
+### **Anime Sites**
 
 * **Note** - Many of the sites above have anime as well
 * [**r/AnimePiracy Index**](https://tinyurl.com/vcppowp) - (Anime + Manga sites)
@@ -275,7 +275,7 @@
 
 ***
 
-**Sports Sites**
+### **Sports Sites**
 
 * [**Highlightstore**](https://tinyurl.com/v6tr26h) - (Full Replays all sports)
 * [**NBAfullhd**](https://tinyurl.com/y3528nze), [NBAhdreplay](https://tinyurl.com/yywpp3f4) - (Full NBA Games)
@@ -311,7 +311,7 @@
 
 ***
 
-**Android/iOS**
+### **Android/iOS**
 
 * **Important** - Block Ads with [**AdGuard** (Premium Unlocked)](https://redd.it/d0zair), [AdAway](https://tinyurl.com/yavxv6zr) or [Blokada](https://tinyurl.com/yxllgklz). If using sites try [Opera](https://tinyurl.com/udtkztj) as it has a built in adblocker. 
 * Note - Apks work on PC/Mac via [BlueStacks](https://tinyurl.com/pf7ahx8) or [Nox.](https://tinyurl.com/l6pxakt)
@@ -348,7 +348,7 @@
 
 ***
 
-**Download**
+### **Download**
 
 * You can stream any direct download with [VLC](https://tinyurl.com/k3jyx4d) or [MPC.](https://tinyurl.com/pvy9sgj) 
 * [**Direct Download Sites**](https://tinyurl.com/t3vct42) - (General DL Sites)
@@ -369,7 +369,7 @@
 
 ***
 
-**Torrent**
+### **Torrent**
 
 * **IMPORTANT** - Get a [**VPN**](https://github.com/freemediaheckyeah/streaming/wiki/VPNS) before torrenting or using any of the apps below.
 * [**Torrent Clients**](https://tinyurl.com/txregtr) + Android Clients
@@ -396,7 +396,7 @@
 
 ***
 
-**Helpful**
+### **Helpful**
 
 * [**Tracking & Discovery**](https://tinyurl.com/vvdt796) - (Track content & find stuff to watch)
 * [**WhereYouWatch**](https://tinyurl.com/y8opktgy), [Squawkr](https://tinyurl.com/y3ea3xl6) or /r/movieleaks - (Get Notified when movie is streamable)
