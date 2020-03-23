@@ -51,7 +51,7 @@
 * [**CafeHulu**](https://tinyurl.com/y4re8ywr), [Clone Sites](https://tinyurl.com/vshrzne) - (Movies, TV, Anime, Huge Library, 720p) 
 * [**HDFY**](https://tinyurl.com/vkqbxu8) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**AZMovies**](https://tinyurl.com/y6f5d3p2) - (Movies, Big Library, 720p)
-* [**HDBest]**(https://tinyurl.com/y2dg76vm) or [VikV](https://tinyurl.com/rw5k6q2) - (Movies, Huge Library, 1080p)
+* [**HDBest**](https://tinyurl.com/y2dg76vm) or [VikV](https://tinyurl.com/rw5k6q2) - (Movies, Huge Library, 1080p)
 * [**UniqueStream**](https://tinyurl.com/ycxswmmd) - (Movies, TV, Anime, Big Library, 1080p)
 * [**123Movies**](https://tinyurl.com/qqjjv4y) - (Movies, TV, Huge Library, 1080p)
 * [**Soap2Day**](https://tinyurl.com/v938lqc) - (Movies, TV, Big Library, 1080p)
