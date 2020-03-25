@@ -205,7 +205,6 @@
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoon, Small Library, SD)
 * [b98](https://tinyurl.com/y35mbjyo) - (Cartoons, Small Library, SD)
 * [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
-* [SimpsonsWorld](https://tinyurl.com/y5pqzqsl) - (Simpsons episodes)
 * [IPTV](https://tinyurl.com/y364qs5t) - (8000+ publicly available Live IPTV channels) + [Awesome IPTV](https://tinyurl.com/w3q65t9), [Kodi App](https://tinyurl.com/uyeklow)
 * [CXTv](https://tinyurl.com/tt5ezfx) - (Live TV) 
 * [Stream2Watch](https://tinyurl.com/y2fn9axa) - (Live TV)
@@ -218,6 +217,7 @@
 * [StreamAll](https://tinyurl.com/yxwsguvg) - (Live TV)
 * [cytube](https://tinyurl.com/ybo4c5n8) - (Live TV, chatrooms)
 * [Topfile](https://tinyurl.com/r6mahbh) - (TV Show Directory)
+* [Specific TV Show Sites](https://tinyurl.com/ttd9bx3) - (Sites that host specific shows)
 
 ***
 
@@ -256,7 +256,7 @@
 * [WatchCartoon](https://tinyurl.com/y6h2pyfn) - (+ Cartoons, Big Library, 720p)
 * [Cartoon Crazy](https://tinyurl.com/y3axybww) - (+ Cartoons, Big Library, 720p)
 * [Anime-Loads](https://tinyurl.com/yy2cse8o) - (German dubs/subs, Big Library, 720p)
-* [Pokeflix](https://tinyurl.com/yymxltlb) - (Pokemon Episodes / Films)
+* [Anime Show Specific Sites](https://tinyurl.com/qo34na4) - (Sites that host specific animes)
 
 ***
 
