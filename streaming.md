@@ -194,7 +194,8 @@
 * [**WatchSeries**](https://tinyurl.com/y968ezyj) - (TV, Anime, Huge Library, SD/HD)
 * [**WatchEpisodes**](https://tinyurl.com/kzrdpkk) - (TV, Anime, Big Library, 1080p)
 * [**KissCartoon**](https://tinyurl.com/ycm25f9z), [KissCartoon](https://tinyurl.com/y4p4slbc) or [KimCartoon](https://tinyurl.com/y4xp3yny) - (Cartoons, Big Library, 1080p)
-* [Noxx](https://tinyurl.com/r9u9bea) - (TV, Big Library, 720p)
+* [**Noxx**](https://tinyurl.com/r9u9bea) - (TV, Big Library, 720p)
+* [**Specific TV Show Sites**](https://tinyurl.com/ttd9bx3) - (Sites that host specific shows)
 * [Watchseries 2.0](https://tinyurl.com/tcp947w) - (TV, Anime, Big Library, 720p)
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Medium Library, SD)
 * [WSO](https://tinyurl.com/y4bcfykq) - (TV, Small Library, SD)
@@ -217,7 +218,6 @@
 * [StreamAll](https://tinyurl.com/yxwsguvg) - (Live TV)
 * [cytube](https://tinyurl.com/ybo4c5n8) - (Live TV, chatrooms)
 * [Topfile](https://tinyurl.com/r6mahbh) - (TV Show Directory)
-* [Specific TV Show Sites](https://tinyurl.com/ttd9bx3) - (Sites that host specific shows)
 
 ***
 
