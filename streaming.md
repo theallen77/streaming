@@ -87,6 +87,7 @@
 * [Movie4u](https://tinyurl.com/y3745pdx) - (Movies, TV, Big Library, 1080p)
 * [EzWatchFree](https://tinyurl.com/tqsw2qv)  - (Movies, Huge Library, 720p)
 * [CouchTuner](https://tinyurl.com/ruzyyje) - (Movies, TV, Anime, Huge Library, 720p)
+* [Film4k](https://tinyurl.com/tsopq9h) - (Movies, TV, Big Library, 720p)
 * [Flenix](https://tinyurl.com/uevfm68) - (Movies, TV, Big Library, 720p)
 * [DutaFilm](https://tinyurl.com/skjaz6h) - (Movies, TV, Anime, Big Library, 1080p)
 * [SolarMovie123](https://tinyurl.com/t9mf2cl) - (Movies, Medium Library, 720p)
