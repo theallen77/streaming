@@ -117,6 +117,7 @@
 * [**VidCloud9**](https://tinyurl.com/tfpzvjl) - (Movies, TV, Anime, Huge Library, 720p)
 * [**FFilms**](https://tinyurl.com/vzq88ul) - (Movies, TV, Big Library, 720p)
 * [Best-Movies](https://tinyurl.com/rlrflt2) - (Movies, Big Library, 720p)
+* [Primewire](https://tinyurl.com/r9wvvo4) - (Movies, TV, Anime, Big Library, 720p)
 * [Movies123](https://tinyurl.com/wnquzpk) - (Movies, TV, Anime, Huge Library, 720p)
 * [BtoMovie](https://tinyurl.com/ujqkjm6) - (Movie, TV, Big Library, 720p)
 * [1watchfree](https://tinyurl.com/y5o733hu) - (Movies, TV, Small Library, 1080p)
