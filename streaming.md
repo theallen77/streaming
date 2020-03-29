@@ -372,6 +372,7 @@
 * [MovieNagnet](https://tinyurl.com/uvmbjch) - (Movie Torrents)
 * [Magnet4You](https://tinyurl.com/tdc2hpc) - (Movie/TV Torrents)
 * [EZTV](https://tinyurl.com/y8uwks8t) - (Movie/TV Torrents)
+* [Play](https://tinyurl.com/hp64vyp) - (Movie Torrents, ZeroNet Required)
 * [Sodaplayer](https://tinyurl.com/y7jp5uz7) - (Torrent Streaming App, PC/Mac)
 * [BitLord](https://tinyurl.com/3c97z9) - (Torrent Streaming App, PC/Mac)
 * [Magnetoo](https://tinyurl.com/y5c5mojq) - (Stream torrents via browser) 
