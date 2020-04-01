@@ -317,6 +317,7 @@
 * [AnYme](https://tinyurl.com/y4sjymtz) - (Anime, Chromecast, Uses external sites)
 * [FireAnime](https://tinyurl.com/yxl2w44q) - (Anime, SD, Small Library, Chromecast)
 * [AnimeDLR](https://redd.it/d0zair) - (Anime, SD, Small Library)
+* [AnimeXStream](https://tinyurl.com/t7qwmll) - (Anime, Dubs)
 * [Anime Molecules](https://tinyurl.com/t7mf6sb) - (Anime)
 * [ZippyTV](https://tinyurl.com/wxu5qmb) - (Live TV, Movies, TV, Medium Library) 
 * [Mobdro](https://tinyurl.com/spw5y8j) - (Live TV)
