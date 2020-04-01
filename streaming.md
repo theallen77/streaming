@@ -264,6 +264,7 @@
 * [**Watchraw**](https://tinyurl.com/yxgh6y3u) - (Full NBA Games)
 * [**Watchwrestling24**](https://tinyurl.com/y7pckbz2) - (Full MMA/Wrestling Events)
 * [**AllWrestling**](https://tinyurl.com/vbblfdg) - (Full MMA/Wrestling Events)
+* [**WatchWrestling**](https://tinyurl.com/tf8myul) - (Full MMA/Wrestling Events + Live Events)
 * [**Bellator**](https://tinyurl.com/y63ejnbd) - (Full Events)
 * [Kodi MMA Apps](https://tinyurl.com/yylxq89g)
 * [MMA Core](https://tinyurl.com/y2qkxvwa) - (MMA Videos)
