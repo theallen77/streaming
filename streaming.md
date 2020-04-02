@@ -350,6 +350,7 @@
 * [MoviesWBB](https://tinyurl.com/y9xryp2n) - (Movies/TV DL's)
 * [Best-MovieZ](https://tinyurl.com/wotktw8) - (Movies/TV DL's)
 * [HugeWarez](https://tinyurl.com/yx2gpfb8) - (Movies/TV DL's)
+* [Amadei33](http://www.amadei33.com/) - (Movies/TV DL's)
 
 ***
 
