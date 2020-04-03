@@ -29,7 +29,7 @@
 * [**123Files**](https://tinyurl.com/snlldso) - (Multi Host Search)
 * [**FS Api**](https://tinyurl.com/wxxs2am) - (Multi Host Search)
 * [**VidSrc**](https://tinyurl.com/yx3wault) - (FEmbed Search)
-* [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/y2o7pkpu) try IMDB ID's)
+* [**Netu.tv**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/w988yoc) try IMDB ID's)
 * **Google Drive Search - [Movies](https://tinyurl.com/rhtpro9), [TV](https://tinyurl.com/wwdrjpa), [Anime](https://tinyurl.com/qwxe7hu), [KDrama](https://tinyurl.com/whug6ru)**
 * [VidLink](https://tinyurl.com/y2mcan3y) - (Search VidLink)
 * [VidUPlayer](https://tinyurl.com/r4u22ef) - (Search via IMDB ID's)
