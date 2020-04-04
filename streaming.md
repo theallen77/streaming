@@ -205,6 +205,7 @@
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoon, Small Library, SD)
 * [b98](https://tinyurl.com/y35mbjyo) - (Cartoons, Small Library, SD)
 * [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
+* [Robinhood](https://tinyurl.com/rpzxn9o) - (Live TV)
 * [IPTV](https://tinyurl.com/y364qs5t) - (8000+ publicly available Live IPTV channels) + [Awesome IPTV](https://tinyurl.com/w3q65t9), [Kodi App](https://tinyurl.com/uyeklow)
 * [CXTv](https://tinyurl.com/tt5ezfx) - (Live TV) 
 * [Stream2Watch](https://tinyurl.com/y2fn9axa) - (Live TV)
