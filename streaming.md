@@ -206,7 +206,7 @@
 * [b98](https://tinyurl.com/y35mbjyo) - (Cartoons, Small Library, SD)
 * [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
 * [Robinhood](https://tinyurl.com/rpzxn9o) - (Live TV)
-* [IPTV](https://tinyurl.com/y364qs5t) - (8000+ publicly available Live IPTV channels) + [Awesome IPTV](https://tinyurl.com/w3q65t9), [Kodi App](https://tinyurl.com/uyeklow)
+* [IPTV](https://tinyurl.com/y364qs5t) - (8000+ publicly available Live IPTV channels) + [Awesome IPTV](https://tinyurl.com/w3q65t9), [Kodi App](https://tinyurl.com/uyeklow) & [Free IPTV Exploit](https://tinyurl.com/sr53yyt)
 * [CXTv](https://tinyurl.com/tt5ezfx) - (Live TV) 
 * [Stream2Watch](https://tinyurl.com/y2fn9axa) - (Live TV)
 * [Time4TV](https://tinyurl.com/r4w5yds) - (Live TV)
@@ -225,6 +225,7 @@
 
 * **Note** - Many of the sites above have anime as well
 * [**r/AnimePiracy Index**](https://tinyurl.com/vcppowp) - (Anime + Manga sites)
+* [**Curated Anime List**](https://tinyurl.com/ue3c6p4) - (Awesome piracy anime clone)
 * [**GDrive Anime**](https://tinyurl.com/qwxe7hu) - (Search Google Drive)
 * [**9Anime**](https://tinyurl.com/ydgladf3) - (Multi Host, Big Library, 1080p) 
 * [**Kissanime.ru**](https://tinyurl.com/yyxzrgtu) or [Kissanime.ac](https://tinyurl.com/y66v33go) - (Big Library, 1080p)
