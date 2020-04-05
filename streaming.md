@@ -46,11 +46,12 @@
 ### Dedicated Hosts
 
 * [**LookMovie**](https://tinyurl.com/y95z3flk) - (Movies, TV, Huge Library, 1080p) 
+* [**Soap2Day**](https://tinyurl.com/v938lqc) - (Movies, TV, Big Library, 1080p)
 * [**HiMovies**](https://tinyurl.com/wmh7yrc), [Clone Sites](https://tinyurl.com/tjo63zr) - (Movies, TV, Anime, Huge Library, 1080p)
 * [**UniqueStream**](https://tinyurl.com/ycxswmmd) - (Movies, TV, Anime, Big Library, 1080p)
 * [**M4uFree**](https://tinyurl.com/y7hf9et8), [Streamm4u](https://tinyurl.com/y5hyu6vv) or [M4uhd](https://tinyurl.com/y2lkjvwk) - (Movies, TV, Anime, Big Library, 1080p) 
 * [**ShareMovies**](https://tinyurl.com/vhrjqas), [Clone Sites](https://tinyurl.com/u7or9p4) - (Movies, TV, Anime, Huge Library, 720p) 
-* [**Soap2Day**](https://tinyurl.com/v938lqc) - (Movies, TV, Big Library, 1080p)
+* [**1movies**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p)
 * [**AZMovies**](https://tinyurl.com/y6f5d3p2) - (Movies, Big Library, 720p)
 * [**HDBest**](https://tinyurl.com/y2dg76vm) or [VikV](https://tinyurl.com/rw5k6q2) - (Movies, Huge Library, 1080p)
 * [**123Movies**](https://tinyurl.com/qqjjv4y) - (Movies, TV, Huge Library, 1080p)
@@ -161,7 +162,6 @@
 * [**FreeMoviesSee**](https://tinyurl.com/tf3xv79) - (Movies, Medium Library, 720p, Videyo Host)
 * [**Simple Stream**](https://tinyurl.com/ql878g8) - (Movies, TV, Medium Library, 1080p, GoUnlimited Host)
 * [**LunchFlix**](https://tinyurl.com/tr3lnvg) - (Movies, TV, Medium Library, 1080p, GoUnlimited Host)
-* [**1movies**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p, LoadShare Host)
 * [**NyaFilmer**](https://tinyurl.com/wg8djqc) - (Movies, TV, Big Library, 1080p, JawCloud Host)
 * [**SubMovies**](https://tinyurl.com/usw4p4j) - (Movies, TV, Huge Library, 720p, FlowYourVideo Host)
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Huge Library, 720p, TheVideoBee Host)
