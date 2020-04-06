@@ -173,7 +173,6 @@
 
 ### Specialty Sites
 
-* [**Rulu**](https://tinyurl.com/y5nwpqbv) - (Youtube Red Series)
 * [**RareFilmm**](https://tinyurl.com/y5l8ot86) - (Rare/Forgotten Films)
 * [**Club MST3k**](https://tinyurl.com/ndgd48t) - (Every episode of MST3K)
 * [Documentary / Educational Sites](https://tinyurl.com/smjnag8)
@@ -324,6 +323,7 @@
 * [AnimeDLR](https://redd.it/d0zair) - (Anime, SD, Small Library)
 * [AnimeXStream](https://tinyurl.com/t7qwmll) - (Anime, Dubs)
 * [Anime Molecules](https://tinyurl.com/t7mf6sb) - (Anime)
+* [TaiYaKi](https://tinyurl.com/s3rrjca) - (Anime)
 * [ZippyTV](https://tinyurl.com/wxu5qmb) - (Live TV, Movies, TV, Medium Library) 
 * [Mobdro](https://tinyurl.com/spw5y8j) - (Live TV)
 * [AOS TV](https://tinyurl.com/ro7wubj) - (Live TV)
