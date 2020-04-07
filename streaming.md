@@ -303,7 +303,7 @@
 * [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**TVZion**](https://tinyurl.com/y2lgr3uz) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**BeeTV**](https://tinyurl.com/y6ze6k89) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
-* [**Crunchyroll**](https://redd.it/d0zair) - (Premium Features unlocked, Anime, 1080p)
+* [**Crunchyroll**](https://redd.it/fqlxfn) - (Premium Features unlocked, Anime, 1080p)
 * [Kodi](https://tinyurl.com/zymo4y7) - (Android/**iOS**) - /r/Addons4Kodi, [Tracker](https://tinyurl.com/y2ygqbyw) + [Trending](https://tinyurl.com/ycthlf8t)
 * [MediaBoxHD](https://tinyurl.com/y2gefs4a) - (Movies, TV, 1080p, Medium library, Chromecast, **iOS**)
 * [Cinema HD Movies](https://tinyurl.com/yalfc2m9) - (Movies, TV, Anime, 1080p, Big Library, Chromecast)
