@@ -93,11 +93,6 @@
 * [Bmovies](https://tinyurl.com/y266yqpn) - (Movies, TV, Anime, Big Library, 720p)
 * [StreamDreams](https://tinyurl.com/y298659z) - (Movies, TV, Anime, Big Library, SD)
 * [VMovie](https://tinyurl.com/rlr4xlz) - (Movies, TV, Small Library, 1080p)
-* [123Movies](https://tinyurl.com/y3rk2ccp) - (Movies, TV, Big Library, 1080p) 
-* [ProjectFreeTV](https://tinyurl.com/y3qbsemt) - (Movies, TV, Small Library, 1080p)
-* [Los-Movies](https://tinyurl.com/rdexz2c) - (Movies, TV, Big Library, 720p)
-* [Sirflix](https://tinyurl.com/va7avc9) - (Movies, TV, Big Library, 720p)
-* [Cmoovies](https://tinyurl.com/tzo2jmc) - (Movies, TV, Big Library, 720p)
 
 ***
 
