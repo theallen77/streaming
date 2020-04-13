@@ -356,6 +356,7 @@
 * [Amadei33](http://www.amadei33.com/) - (Movies/TV DL's)
 * [FreeMovie4kOnline](https://tinyurl.com/qralxoz) - (Movies/TV DL's)
 * [KatMovieHD](https://tinyurl.com/wcbkpce) - (Movies/TV DL's)
+* [HEVCBay](https://tinyurl.com/r5auqgs) - (Movie DL's)
 
 ***
 
