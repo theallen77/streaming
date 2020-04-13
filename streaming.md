@@ -96,34 +96,6 @@
 
 ***
 
-### Google Hosts
-
-* **Google Drive Search - [Movies](https://tinyurl.com/rhtpro9), [TV](https://tinyurl.com/wwdrjpa), [Anime](https://tinyurl.com/qwxe7hu), [KDrama](https://tinyurl.com/whug6ru)**
-* [**Openloadmovies**](https://tinyurl.com/vczzsv4) - (Movies, Huge Library, 1080p)
-* [**VidCloud9**](https://tinyurl.com/tfpzvjl) - (Movies, TV, Anime, Huge Library, 720p)
-* [**FFilms**](https://tinyurl.com/vzq88ul) - (Movies, TV, Big Library, 720p)
-* [Best-Movies](https://tinyurl.com/rlrflt2) - (Movies, Big Library, 720p)
-* [Primewire.st](https://tinyurl.com/r9wvvo4) - (Movies, TV, Anime, Big Library, 720p)
-* [Movies123](https://tinyurl.com/wnquzpk) - (Movies, TV, Anime, Huge Library, 720p)
-* [BtoMovie](https://tinyurl.com/ujqkjm6) - (Movie, TV, Big Library, 720p)
-* [1watchfree](https://tinyurl.com/y5o733hu) - (Movies, TV, Small Library, 1080p)
-
-***
-
-### NetU Hosts
-
-* [**Netu**](https://tinyurl.com/y2crxmbb) - (Search NetU via [blue box,](https://tinyurl.com/y2o7pkpu) Try IMDB ID's)
-* [**5movies**](https://tinyurl.com/y2fukz3y) - (Movies, TV, Big Library, 720p)
-* [**AllGames4You**](https://tinyurl.com/u56wszn) - (Movies, TV, Big Library, 720p)
-* [123MoviesHub](https://tinyurl.com/yx9zmgyn) - (Movies, TV, Big Library, 720p)
-* [Moovies](https://tinyurl.com/w7kmofm) - (Movies, TV, Big Library, 1080p)
-* [MoviesHDstreaming](https://tinyurl.com/v2slm42) - (Movies, Big Library, 720p)
-* [MovieUltima](https://tinyurl.com/vv8h9a4) - (Movies, Big Library, 720p)
-* [WatchMoviesNow](https://tinyurl.com/s35rsvs) - (Movies, Medium Library, 720p)
-* [WatchFree](https://tinyurl.com/y4jwysar) - (Movies, TV, Big Library, SD)
-
-***
-
 ### Fembed Hosts
 
 * [**VidSrc**](https://tinyurl.com/yx3wault) - (Search FEmbed)
