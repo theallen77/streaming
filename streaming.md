@@ -59,7 +59,6 @@
 * [Openloadmovies](https://tinyurl.com/y2yshmvk) - (Movies, TV, Huge Library, 1080p) 
 * [Afdah](https://tinyurl.com/tzh3jck) - (Movies, TV, Big Library, 1080p)
 * [Hydrax](https://tinyurl.com/wgomkcw) - (Movies, TV, Big Library, 720p)
-* [KuruKuru](https://tinyurl.com/wdwd37q) - (Movies, TV, Anime, Huge Library, 1080p)
 * [Goojara](https://tinyurl.com/ure9z5n) - (Movies, TV, Anime, Medium Library, 1080p)
 * [Streamlord](https://tinyurl.com/ybrtnppf) - (Movies, TV, Medium Library, 720p)
 * [Vumoo](https://tinyurl.com/y3q422ft) - (Movies, TV, Big Library, 720p)
