@@ -54,7 +54,6 @@
 * [**1movies**](https://tinyurl.com/y8wd57n3) or [New-Primewire](https://tinyurl.com/y6tjsf8x) - (Movies, TV, Anime, Huge Library, 720p)
 * [**AZMovies**](https://tinyurl.com/y6f5d3p2) - (Movies, Big Library, 720p)
 * [**HDBest**](https://tinyurl.com/y2dg76vm) or [VikV](https://tinyurl.com/rw5k6q2) - (Movies, Huge Library, 1080p)
-* [**123Movies**](https://tinyurl.com/qqjjv4y) - (Movies, TV, Huge Library, 1080p)
 *  [FlixGo](https://tinyurl.com/y6pl2zbz) or [IMDbGO](https://tinyurl.com/tte4bcr) - (Movies, TV, Big Library, 1080p)
 * [Moviz.tn](https://tinyurl.com/yxx37mhc) - (Movies, Medium Library, 720p)
 * [Openloadmovies](https://tinyurl.com/y2yshmvk) - (Movies, TV, Huge Library, 1080p) 
