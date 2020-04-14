@@ -286,7 +286,6 @@
 * [MoviesWBB](https://tinyurl.com/y9xryp2n) - (Movies/TV DL's)
 * [Best-MovieZ](https://tinyurl.com/wotktw8) - (Movies/TV DL's)
 * [HugeWarez](https://tinyurl.com/yx2gpfb8) - (Movies/TV DL's)
-* [Amadei33](http://www.amadei33.com/) - (Movies/TV DL's)
 * [FreeMovie4kOnline](https://tinyurl.com/qralxoz) - (Movies/TV DL's)
 * [KatMovieHD](https://tinyurl.com/wcbkpce) - (Movies/TV DL's)
 * [HEVCBay](https://tinyurl.com/r5auqgs) - (Movie DL's)
@@ -301,11 +300,10 @@
 * [**Anime Torrent Sites**](https://tinyurl.com/vryebbf)
 * [**Stremio**](https://tinyurl.com/y5h88xjx) - (Torrent Streaming App, PC, Mac, Linux, Android, IOS) + [PimpMyStremio](https://tinyurl.com/y6b3htmt)
 * [**Popcorn Time**](https://tinyurl.com/wdfv7qz) - (Torrent Streaming App, PC, Mac, Android)
-* [**Flixerr**](https://tinyurl.com/y59eeheg) - (Torrent Streaming App, PC)
 * [YTS](https://tinyurl.com/y3tkjz3d) - (Movie Torrents)
 * [MovieNagnet](https://tinyurl.com/uvmbjch) - (Movie Torrents)
 * [Magnet4You](https://tinyurl.com/tdc2hpc) - (Movie/TV Torrents)
-* [EZTV](https://tinyurl.com/y8uwks8t) - (Movie/TV Torrents)
+* [EZTV](https://tinyurl.com/y8uwks8t) - (TV Torrents)
 * [Videoneat](https://tinyurl.com/yxd5oko3) - (Documentaries/Science Movies)
 * [MVGroup](https://tinyurl.com/uuluvjt) - (Documentary Torrents)
 * [Play](https://tinyurl.com/hp64vyp) - (Movie Torrents, ZeroNet Required)
@@ -319,7 +317,6 @@
 * [AIO Search](https://tinyurl.com/s55txxb) - (Search Multiple DL/Torrent/Stream/Subtitle Sites)
 * [WebTorrent](https://tinyurl.com/yauxwmop) - (Streaming Torrent App)
 * [Peerflix](https://tinyurl.com/pu8kj3j) - (Streaming torrent client for node.js)
-* [Rapidbay](https://tinyurl.com/v5k2fra) - (Torrent streaming with Chromecast and AppleTV)
 
 ***
 
@@ -328,7 +325,5 @@
 * [**Track & Discover**](https://tinyurl.com/vvdt796) - (Track content & find stuff to watch)
 * [**WhereYouWatch**](https://tinyurl.com/y8opktgy), [Squawkr](https://tinyurl.com/y3ea3xl6) or /r/movieleaks - (Get Notified when movie is streamable)
 * [**DirtyWarez**](https://tinyurl.com/y7tfspy2) - (Alexa Streaming Site Rankings)
-* [BestFreeStreaming](https://tinyurl.com/y2gc29pn) - (Ranks Streaming Sites)
-* /r/MovieStreamingSites - (Streaming Sites Sub)
 * [Ant Movie](https://tinyurl.com/wb4tvu5) - (Movie/Show Catalog for PC)
 * [SubShifter](https://tinyurl.com/y7wt6gv8) - (Change timing of subtitles)
