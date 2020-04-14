@@ -108,9 +108,7 @@
 * [**NyaFilmer**](https://tinyurl.com/wg8djqc) - (Movies, TV, Big Library, 1080p, JawCloud Host)
 * [**SubMovies**](https://tinyurl.com/usw4p4j) - (Movies, TV, Huge Library, 720p, FlowYourVideo Host)
 * [IWannaWatch](https://tinyurl.com/yxs2q99f) - (Movies, Huge Library, 720p, TheVideoBee Host)
-* [c1ne.co](https://tinyurl.com/yxxee458) - (Movie, TV, Big Library, 720p, ManyVideos Host)
 * [Swefilmer](https://tinyurl.com/w3xd2az) - (Movies, TV, Medium Library, 720p, UpStream Host)
-* [GoStream](https://tinyurl.com/y2tluukl) - (Movies, TV, Medium Library, 720p, Putload Host)
 * [TopMoviesOnline](https://tinyurl.com/r6765yq) - (Movies, TV, Medium Library, 720p, EzyLink Host)
 
 ***
@@ -140,13 +138,11 @@
 * [Watchseries 2.0](https://tinyurl.com/tcp947w) - (TV, Anime, Big Library, 720p)
 * [ProjectFreeTV](https://tinyurl.com/yy6jwtzg) - (TV, Medium Library, SD)
 * [WSO](https://tinyurl.com/y4bcfykq) - (TV, Small Library, SD)
-* [TVZion](https://tinyurl.com/y3mg2cv3) - (TV, Big Library, 720p)
 * [TopCartoons](https://tinyurl.com/y2yt2k9q) - (Cartoons, Small Library, SD)
 * [Kisscartoon love](https://tinyurl.com/ut77xdo) - (Cartoons, Medium Library, 720p)
 * [Toonova](https://tinyurl.com/y6hlns9h) - (Cartoons, Medium Library, SD)
 * [Supercartoons](https://tinyurl.com/y2uacgf4) - (Cartoon, Small Library, SD)
 * [b98](https://tinyurl.com/y35mbjyo) - (Cartoons, Small Library, SD)
-* [Adult Swim](https://tinyurl.com/y3f5l3g2) - (Free Adult Swim shows)
 * [Robinhood](https://tinyurl.com/rpzxn9o) - (Live TV)
 * [IPTV](https://tinyurl.com/y364qs5t) - (8000+ publicly available Live IPTV channels) + [Awesome IPTV](https://tinyurl.com/w3q65t9), [Kodi App](https://tinyurl.com/uyeklow) & [Free IPTV Exploit](https://tinyurl.com/sr53yyt)
 * [CXTv](https://tinyurl.com/tt5ezfx) - (Live TV) 
@@ -155,11 +151,9 @@
 * [WebOas.is TV](https://tinyurl.com/wtrz9zh) - (Live TV)
 * [123TV](https://tinyurl.com/y72b3y7s) - (Live TV)
 * [Pluto](https://tinyurl.com/n4d8sb5) - (Live TV)
-* [uStreamix](https://tinyurl.com/y87khgal) - (Live TV)
 * [Arconaitv](https://tinyurl.com/y3gqvzha) - (Live TV)
 * [StreamAll](https://tinyurl.com/yxwsguvg) - (Live TV)
 * [cytube](https://tinyurl.com/ybo4c5n8) - (Live TV, chatrooms)
-* [Topfile](https://tinyurl.com/r6mahbh) - (TV Show Directory)
 
 ***
 
