@@ -234,18 +234,16 @@
 * **Important** - Block Ads with [**AdGuard** (Premium Unlocked)](https://redd.it/d0zair), [AdAway](https://tinyurl.com/yavxv6zr) or [Blokada](https://tinyurl.com/yxllgklz). If using sites try [Opera](https://tinyurl.com/udtkztj) as it has a built in adblocker. 
 * Note - Apks work on PC/Mac via [BlueStacks](https://tinyurl.com/pf7ahx8) or [Nox.](https://tinyurl.com/l6pxakt)
 * **r/ApksApps** - (Updated Apk's DL's)
-* [**TeaTV**](https://tinyurl.com/yd4jmzfc) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**TVZion**](https://tinyurl.com/y2lgr3uz) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
-* [**BeeTV**](https://tinyurl.com/y6ze6k89) - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
+* [**BeeTV**](https://tinyurl.com/y6ze6k89) or [NovaTV](https://tinyurl.com/yxy3y6ph)  - (Movies, TV, Anime, 1080p, Huge Library, Chromecast)
 * [**Crunchyroll**](https://redd.it/fqlxfn) - (Premium Features unlocked, Anime, 1080p)
 * [Kodi](https://tinyurl.com/zymo4y7) - (Android/**iOS**) - /r/Addons4Kodi, [Tracker](https://tinyurl.com/y2ygqbyw) + [Trending](https://tinyurl.com/ycthlf8t)
-* [MediaBoxHD](https://tinyurl.com/y2gefs4a) - (Movies, TV, 1080p, Medium library, Chromecast, **iOS**)
+* [MediaBoxHD](https://tinyurl.com/rpcwqs8) - (Movies, TV, 1080p, Medium library, Chromecast, **iOS**)
 * [Cinema HD Movies](https://tinyurl.com/yalfc2m9) - (Movies, TV, Anime, 1080p, Big Library, Chromecast)
 * [AnimeGlare](https://tinyurl.com/y4capwf7) - (Anime, Some 1080p/720p, Chromecast, **iOS**)
 * [Titanium TV](https://tinyurl.com/y4ssamtw) - (Movies, TV, Anime, 1080p, Big Library, Chromecast)
 * [CyberFlix](https://tinyurl.com/sym6ec3) - (Movies, TV, Anime, 1080p, Medium Library)
-* [VivaTV](https://tinyurl.com/se7zvvl) - (Movies, TV, Anime 1080p, Huge Library, Chromecast)
-* [NovaTV](https://tinyurl.com/yxy3y6ph) - (Movies, TV, Anime, Big Library, 1080p, Chromecast)
+* [VivaTV](https://tinyurl.com/se7zvvl) or [TeaTV](https://tinyurl.com/yd4jmzfc) - (Movies, TV, Anime 1080p, Huge Library, Chromecast)
 * [Kokotime](https://tinyurl.com/y2xnxmax) - (Movies, TV, Anime, 720p, Medium Library)
 * [TyphoonTV](https://tinyurl.com/vn6knfx) - (Movies, TV, Anime, 720p, Big Library)
 * [MorphTV](https://tinyurl.com/tk7jn3h) - (Movies, TV, Anime, 720p, Medium Library, Chromecast)
@@ -264,7 +262,6 @@
 * [TVTap](https://tinyurl.com/rfj48a3) - (Live TV)
 * [CKayTV](https://tinyurl.com/syee72k) - (Live TV)
 * [General Android APK Sites](https://tinyurl.com/stf2jsl)
-* [r/AnimePiracy Apks](https://tinyurl.com/y35pteqj) - (Anime Apps List)
 
 ***
 
